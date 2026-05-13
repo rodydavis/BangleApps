@@ -1,0 +1,19 @@
+{
+  "id": "pf2e",
+  "name": "PF2e Character",
+  "shortName": "PF2e Char",
+  "version": "0.01",
+  "author": "Antigravity",
+  "description": "Pathfinder 2e character sheet viewer.",
+  "icon": "app.png",
+  "tags": "game,utility,rpg",
+  "supports": ["BANGLEJS2"],
+  "readme": "README.md",
+  "storage": [
+    {"name": "pf2e.app.js", "url": "app.js"},
+    {"name": "pf2e.img", "url": "app-icon.js", "evaluate": true}
+  ],
+  "data": [
+    {"name": "pf2e.data.json", "url": "data.json"}
+  ]
+}
