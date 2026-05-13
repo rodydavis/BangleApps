@@ -13,7 +13,7 @@
         };
         tallycfg.forEach(function (tally, index) {
             menu[tally.name] = function () { return showEditMenu(tally, index); };
-        });
+        })
         E.showMenu(menu);
     }
     function showEditMenu(tally, index) {
@@ -36,7 +36,7 @@
                 .then(function (text) {
                 tally.name = text;
                 showEditMenu(tally, index);
-            });
+            })
         };
         if (!isNew) {
             menu["Delete"] = function () {
@@ -48,4 +48,4 @@
         E.showMenu(menu);
     }
     showMainMenu();
-});
+})

@@ -2,7 +2,7 @@
     var _a, _b, _c;
     var SETTINGS_FILE = "rep.setting.json";
     var storage = require("Storage");
-    var settings = (storage.readJSON(SETTINGS_FILE, true) || {});
+    var settings = (storage.readJSON(SETTINGS_FILE, true) || {})
     (_a = settings.record) !== null && _a !== void 0 ? _a : (settings.record = false);
     (_b = settings.recordStopOnExit) !== null && _b !== void 0 ? _b : (settings.recordStopOnExit = false);
     (_c = settings.stepMs) !== null && _c !== void 0 ? _c : (settings.stepMs = 5 * 1000);
@@ -41,4 +41,4 @@
         };
     }
     E.showMenu(menu);
-});
+})

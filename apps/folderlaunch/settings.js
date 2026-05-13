@@ -15,7 +15,7 @@
             if (value && !config.hidden.includes(appId))
                 config.hidden.push(appId);
             else if (!value && config.hidden.includes(appId))
-                config.hidden = config.hidden.filter(function (item) { return item != appId; });
+                config.hidden = config.hidden.filter(function (item) { return item != appId; })
             changed = true;
         };
         onchange;
@@ -69,9 +69,9 @@
                     else {
                         E.showAlert('No folder created').then(function () {
                             showFolderMenu(path);
-                        });
+                        })
                     }
-                });
+                })
             },
             'Move app here': function () {
                 var menu = {
@@ -88,7 +88,7 @@
                         var folderName = _a[_i];
                         folder = folder.folders[folderName];
                     }
-                    folder.apps = folder.apps.filter(function (item) { return item != appId; });
+                    folder.apps = folder.apps.filter(function (item) { return item != appId; })
                     config.apps[appId].folder = path.slice();
                     folder = config.rootFolder;
                     for (var _b = 0, path_2 = path; _b < path_2.length; _b++) {
@@ -230,7 +230,7 @@
                             changed = true;
                         }
                     }
-                });
+                })
             },
             'Timeout': {
                 value: config.timeout,
@@ -245,7 +245,7 @@
             'Folder management': function () {
                 showFolderMenu([]);
             }
-        });
+        })
     };
     showMainMenu();
-});
+})
