@@ -1,2 +1,3 @@
 0.01: Initial version with accelerometer-controlled marble physics and two levels.
 0.02: Fix physics
+0.03: Fix impossible level layouts

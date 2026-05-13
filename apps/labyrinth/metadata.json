@@ -2,7 +2,7 @@
   "id": "labyrinth",
   "name": "Labyrinth",
   "shortName": "Labyrinth",
-  "version": "0.02",
+  "version": "0.03",
   "author": "Antigravity",
   "description": "A marble run game controlled by the accelerometer.",
   "icon": "app.png",
