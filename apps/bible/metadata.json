@@ -2,8 +2,8 @@
   "id": "bible",
   "name": "Bible",
   "shortName": "Bible",
-  "version": "0.03",
-  "description": "Entire KJV Bible with book/chapter/verse picker. One file per chapter for optimal loading.",
+  "version": "0.04",
+  "description": "Entire KJV Bible with book/chapter/verse picker. Named chapter files for clarity.",
   "tags": "books,religion",
   "icon": "bible.png",
   "supports": [
@@ -25,4760 +25,4760 @@
       "url": "bible.index.json"
     },
     {
-      "name": "bible.0.txt",
-      "url": "bible.0.txt"
+      "name": "bible.1Ch.1.txt",
+      "url": "bible.1Ch.1.txt"
     },
     {
-      "name": "bible.1.txt",
-      "url": "bible.1.txt"
+      "name": "bible.1Ch.10.txt",
+      "url": "bible.1Ch.10.txt"
     },
     {
-      "name": "bible.10.txt",
-      "url": "bible.10.txt"
+      "name": "bible.1Ch.11.txt",
+      "url": "bible.1Ch.11.txt"
     },
     {
-      "name": "bible.100.txt",
-      "url": "bible.100.txt"
+      "name": "bible.1Ch.12.txt",
+      "url": "bible.1Ch.12.txt"
     },
     {
-      "name": "bible.1000.txt",
-      "url": "bible.1000.txt"
+      "name": "bible.1Ch.13.txt",
+      "url": "bible.1Ch.13.txt"
     },
     {
-      "name": "bible.1001.txt",
-      "url": "bible.1001.txt"
+      "name": "bible.1Ch.14.txt",
+      "url": "bible.1Ch.14.txt"
     },
     {
-      "name": "bible.1002.txt",
-      "url": "bible.1002.txt"
+      "name": "bible.1Ch.15.txt",
+      "url": "bible.1Ch.15.txt"
     },
     {
-      "name": "bible.1003.txt",
-      "url": "bible.1003.txt"
+      "name": "bible.1Ch.16.txt",
+      "url": "bible.1Ch.16.txt"
     },
     {
-      "name": "bible.1004.txt",
-      "url": "bible.1004.txt"
+      "name": "bible.1Ch.17.txt",
+      "url": "bible.1Ch.17.txt"
     },
     {
-      "name": "bible.1005.txt",
-      "url": "bible.1005.txt"
+      "name": "bible.1Ch.18.txt",
+      "url": "bible.1Ch.18.txt"
     },
     {
-      "name": "bible.1006.txt",
-      "url": "bible.1006.txt"
+      "name": "bible.1Ch.19.txt",
+      "url": "bible.1Ch.19.txt"
     },
     {
-      "name": "bible.1007.txt",
-      "url": "bible.1007.txt"
+      "name": "bible.1Ch.2.txt",
+      "url": "bible.1Ch.2.txt"
     },
     {
-      "name": "bible.1008.txt",
-      "url": "bible.1008.txt"
+      "name": "bible.1Ch.20.txt",
+      "url": "bible.1Ch.20.txt"
     },
     {
-      "name": "bible.1009.txt",
-      "url": "bible.1009.txt"
+      "name": "bible.1Ch.21.txt",
+      "url": "bible.1Ch.21.txt"
     },
     {
-      "name": "bible.101.txt",
-      "url": "bible.101.txt"
+      "name": "bible.1Ch.22.txt",
+      "url": "bible.1Ch.22.txt"
     },
     {
-      "name": "bible.1010.txt",
-      "url": "bible.1010.txt"
+      "name": "bible.1Ch.23.txt",
+      "url": "bible.1Ch.23.txt"
     },
     {
-      "name": "bible.1011.txt",
-      "url": "bible.1011.txt"
+      "name": "bible.1Ch.24.txt",
+      "url": "bible.1Ch.24.txt"
     },
     {
-      "name": "bible.1012.txt",
-      "url": "bible.1012.txt"
+      "name": "bible.1Ch.25.txt",
+      "url": "bible.1Ch.25.txt"
     },
     {
-      "name": "bible.1013.txt",
-      "url": "bible.1013.txt"
+      "name": "bible.1Ch.26.txt",
+      "url": "bible.1Ch.26.txt"
     },
     {
-      "name": "bible.1014.txt",
-      "url": "bible.1014.txt"
+      "name": "bible.1Ch.27.txt",
+      "url": "bible.1Ch.27.txt"
     },
     {
-      "name": "bible.1015.txt",
-      "url": "bible.1015.txt"
+      "name": "bible.1Ch.28.txt",
+      "url": "bible.1Ch.28.txt"
     },
     {
-      "name": "bible.1016.txt",
-      "url": "bible.1016.txt"
+      "name": "bible.1Ch.29.txt",
+      "url": "bible.1Ch.29.txt"
     },
     {
-      "name": "bible.1017.txt",
-      "url": "bible.1017.txt"
+      "name": "bible.1Ch.3.txt",
+      "url": "bible.1Ch.3.txt"
     },
     {
-      "name": "bible.1018.txt",
-      "url": "bible.1018.txt"
+      "name": "bible.1Ch.4.txt",
+      "url": "bible.1Ch.4.txt"
     },
     {
-      "name": "bible.1019.txt",
-      "url": "bible.1019.txt"
+      "name": "bible.1Ch.5.txt",
+      "url": "bible.1Ch.5.txt"
     },
     {
-      "name": "bible.102.txt",
-      "url": "bible.102.txt"
+      "name": "bible.1Ch.6.txt",
+      "url": "bible.1Ch.6.txt"
     },
     {
-      "name": "bible.1020.txt",
-      "url": "bible.1020.txt"
+      "name": "bible.1Ch.7.txt",
+      "url": "bible.1Ch.7.txt"
     },
     {
-      "name": "bible.1021.txt",
-      "url": "bible.1021.txt"
+      "name": "bible.1Ch.8.txt",
+      "url": "bible.1Ch.8.txt"
     },
     {
-      "name": "bible.1022.txt",
-      "url": "bible.1022.txt"
+      "name": "bible.1Ch.9.txt",
+      "url": "bible.1Ch.9.txt"
     },
     {
-      "name": "bible.1023.txt",
-      "url": "bible.1023.txt"
+      "name": "bible.1Co.1.txt",
+      "url": "bible.1Co.1.txt"
     },
     {
-      "name": "bible.1024.txt",
-      "url": "bible.1024.txt"
+      "name": "bible.1Co.10.txt",
+      "url": "bible.1Co.10.txt"
     },
     {
-      "name": "bible.1025.txt",
-      "url": "bible.1025.txt"
+      "name": "bible.1Co.11.txt",
+      "url": "bible.1Co.11.txt"
     },
     {
-      "name": "bible.1026.txt",
-      "url": "bible.1026.txt"
+      "name": "bible.1Co.12.txt",
+      "url": "bible.1Co.12.txt"
     },
     {
-      "name": "bible.1027.txt",
-      "url": "bible.1027.txt"
+      "name": "bible.1Co.13.txt",
+      "url": "bible.1Co.13.txt"
     },
     {
-      "name": "bible.1028.txt",
-      "url": "bible.1028.txt"
+      "name": "bible.1Co.14.txt",
+      "url": "bible.1Co.14.txt"
     },
     {
-      "name": "bible.1029.txt",
-      "url": "bible.1029.txt"
+      "name": "bible.1Co.15.txt",
+      "url": "bible.1Co.15.txt"
     },
     {
-      "name": "bible.103.txt",
-      "url": "bible.103.txt"
+      "name": "bible.1Co.16.txt",
+      "url": "bible.1Co.16.txt"
     },
     {
-      "name": "bible.1030.txt",
-      "url": "bible.1030.txt"
+      "name": "bible.1Co.2.txt",
+      "url": "bible.1Co.2.txt"
     },
     {
-      "name": "bible.1031.txt",
-      "url": "bible.1031.txt"
+      "name": "bible.1Co.3.txt",
+      "url": "bible.1Co.3.txt"
     },
     {
-      "name": "bible.1032.txt",
-      "url": "bible.1032.txt"
+      "name": "bible.1Co.4.txt",
+      "url": "bible.1Co.4.txt"
     },
     {
-      "name": "bible.1033.txt",
-      "url": "bible.1033.txt"
+      "name": "bible.1Co.5.txt",
+      "url": "bible.1Co.5.txt"
     },
     {
-      "name": "bible.1034.txt",
-      "url": "bible.1034.txt"
+      "name": "bible.1Co.6.txt",
+      "url": "bible.1Co.6.txt"
     },
     {
-      "name": "bible.1035.txt",
-      "url": "bible.1035.txt"
+      "name": "bible.1Co.7.txt",
+      "url": "bible.1Co.7.txt"
     },
     {
-      "name": "bible.1036.txt",
-      "url": "bible.1036.txt"
+      "name": "bible.1Co.8.txt",
+      "url": "bible.1Co.8.txt"
     },
     {
-      "name": "bible.1037.txt",
-      "url": "bible.1037.txt"
+      "name": "bible.1Co.9.txt",
+      "url": "bible.1Co.9.txt"
     },
     {
-      "name": "bible.1038.txt",
-      "url": "bible.1038.txt"
+      "name": "bible.1Jo.1.txt",
+      "url": "bible.1Jo.1.txt"
     },
     {
-      "name": "bible.1039.txt",
-      "url": "bible.1039.txt"
+      "name": "bible.1Jo.2.txt",
+      "url": "bible.1Jo.2.txt"
     },
     {
-      "name": "bible.104.txt",
-      "url": "bible.104.txt"
+      "name": "bible.1Jo.3.txt",
+      "url": "bible.1Jo.3.txt"
     },
     {
-      "name": "bible.1040.txt",
-      "url": "bible.1040.txt"
+      "name": "bible.1Jo.4.txt",
+      "url": "bible.1Jo.4.txt"
     },
     {
-      "name": "bible.1041.txt",
-      "url": "bible.1041.txt"
+      "name": "bible.1Jo.5.txt",
+      "url": "bible.1Jo.5.txt"
     },
     {
-      "name": "bible.1042.txt",
-      "url": "bible.1042.txt"
+      "name": "bible.1Ki.1.txt",
+      "url": "bible.1Ki.1.txt"
     },
     {
-      "name": "bible.1043.txt",
-      "url": "bible.1043.txt"
+      "name": "bible.1Ki.10.txt",
+      "url": "bible.1Ki.10.txt"
     },
     {
-      "name": "bible.1044.txt",
-      "url": "bible.1044.txt"
+      "name": "bible.1Ki.11.txt",
+      "url": "bible.1Ki.11.txt"
     },
     {
-      "name": "bible.1045.txt",
-      "url": "bible.1045.txt"
+      "name": "bible.1Ki.12.txt",
+      "url": "bible.1Ki.12.txt"
     },
     {
-      "name": "bible.1046.txt",
-      "url": "bible.1046.txt"
+      "name": "bible.1Ki.13.txt",
+      "url": "bible.1Ki.13.txt"
     },
     {
-      "name": "bible.1047.txt",
-      "url": "bible.1047.txt"
+      "name": "bible.1Ki.14.txt",
+      "url": "bible.1Ki.14.txt"
     },
     {
-      "name": "bible.1048.txt",
-      "url": "bible.1048.txt"
+      "name": "bible.1Ki.15.txt",
+      "url": "bible.1Ki.15.txt"
     },
     {
-      "name": "bible.1049.txt",
-      "url": "bible.1049.txt"
+      "name": "bible.1Ki.16.txt",
+      "url": "bible.1Ki.16.txt"
     },
     {
-      "name": "bible.105.txt",
-      "url": "bible.105.txt"
+      "name": "bible.1Ki.17.txt",
+      "url": "bible.1Ki.17.txt"
     },
     {
-      "name": "bible.1050.txt",
-      "url": "bible.1050.txt"
+      "name": "bible.1Ki.18.txt",
+      "url": "bible.1Ki.18.txt"
     },
     {
-      "name": "bible.1051.txt",
-      "url": "bible.1051.txt"
+      "name": "bible.1Ki.19.txt",
+      "url": "bible.1Ki.19.txt"
     },
     {
-      "name": "bible.1052.txt",
-      "url": "bible.1052.txt"
+      "name": "bible.1Ki.2.txt",
+      "url": "bible.1Ki.2.txt"
     },
     {
-      "name": "bible.1053.txt",
-      "url": "bible.1053.txt"
+      "name": "bible.1Ki.20.txt",
+      "url": "bible.1Ki.20.txt"
     },
     {
-      "name": "bible.1054.txt",
-      "url": "bible.1054.txt"
+      "name": "bible.1Ki.21.txt",
+      "url": "bible.1Ki.21.txt"
     },
     {
-      "name": "bible.1055.txt",
-      "url": "bible.1055.txt"
+      "name": "bible.1Ki.22.txt",
+      "url": "bible.1Ki.22.txt"
     },
     {
-      "name": "bible.1056.txt",
-      "url": "bible.1056.txt"
+      "name": "bible.1Ki.3.txt",
+      "url": "bible.1Ki.3.txt"
     },
     {
-      "name": "bible.1057.txt",
-      "url": "bible.1057.txt"
+      "name": "bible.1Ki.4.txt",
+      "url": "bible.1Ki.4.txt"
     },
     {
-      "name": "bible.1058.txt",
-      "url": "bible.1058.txt"
+      "name": "bible.1Ki.5.txt",
+      "url": "bible.1Ki.5.txt"
     },
     {
-      "name": "bible.1059.txt",
-      "url": "bible.1059.txt"
+      "name": "bible.1Ki.6.txt",
+      "url": "bible.1Ki.6.txt"
     },
     {
-      "name": "bible.106.txt",
-      "url": "bible.106.txt"
+      "name": "bible.1Ki.7.txt",
+      "url": "bible.1Ki.7.txt"
     },
     {
-      "name": "bible.1060.txt",
-      "url": "bible.1060.txt"
+      "name": "bible.1Ki.8.txt",
+      "url": "bible.1Ki.8.txt"
     },
     {
-      "name": "bible.1061.txt",
-      "url": "bible.1061.txt"
+      "name": "bible.1Ki.9.txt",
+      "url": "bible.1Ki.9.txt"
     },
     {
-      "name": "bible.1062.txt",
-      "url": "bible.1062.txt"
+      "name": "bible.1Pe.1.txt",
+      "url": "bible.1Pe.1.txt"
     },
     {
-      "name": "bible.1063.txt",
-      "url": "bible.1063.txt"
+      "name": "bible.1Pe.2.txt",
+      "url": "bible.1Pe.2.txt"
     },
     {
-      "name": "bible.1064.txt",
-      "url": "bible.1064.txt"
+      "name": "bible.1Pe.3.txt",
+      "url": "bible.1Pe.3.txt"
     },
     {
-      "name": "bible.1065.txt",
-      "url": "bible.1065.txt"
+      "name": "bible.1Pe.4.txt",
+      "url": "bible.1Pe.4.txt"
     },
     {
-      "name": "bible.1066.txt",
-      "url": "bible.1066.txt"
+      "name": "bible.1Pe.5.txt",
+      "url": "bible.1Pe.5.txt"
     },
     {
-      "name": "bible.1067.txt",
-      "url": "bible.1067.txt"
+      "name": "bible.1Sa.1.txt",
+      "url": "bible.1Sa.1.txt"
     },
     {
-      "name": "bible.1068.txt",
-      "url": "bible.1068.txt"
+      "name": "bible.1Sa.10.txt",
+      "url": "bible.1Sa.10.txt"
     },
     {
-      "name": "bible.1069.txt",
-      "url": "bible.1069.txt"
+      "name": "bible.1Sa.11.txt",
+      "url": "bible.1Sa.11.txt"
     },
     {
-      "name": "bible.107.txt",
-      "url": "bible.107.txt"
+      "name": "bible.1Sa.12.txt",
+      "url": "bible.1Sa.12.txt"
     },
     {
-      "name": "bible.1070.txt",
-      "url": "bible.1070.txt"
+      "name": "bible.1Sa.13.txt",
+      "url": "bible.1Sa.13.txt"
     },
     {
-      "name": "bible.1071.txt",
-      "url": "bible.1071.txt"
+      "name": "bible.1Sa.14.txt",
+      "url": "bible.1Sa.14.txt"
     },
     {
-      "name": "bible.1072.txt",
-      "url": "bible.1072.txt"
+      "name": "bible.1Sa.15.txt",
+      "url": "bible.1Sa.15.txt"
     },
     {
-      "name": "bible.1073.txt",
-      "url": "bible.1073.txt"
+      "name": "bible.1Sa.16.txt",
+      "url": "bible.1Sa.16.txt"
     },
     {
-      "name": "bible.1074.txt",
-      "url": "bible.1074.txt"
+      "name": "bible.1Sa.17.txt",
+      "url": "bible.1Sa.17.txt"
     },
     {
-      "name": "bible.1075.txt",
-      "url": "bible.1075.txt"
+      "name": "bible.1Sa.18.txt",
+      "url": "bible.1Sa.18.txt"
     },
     {
-      "name": "bible.1076.txt",
-      "url": "bible.1076.txt"
+      "name": "bible.1Sa.19.txt",
+      "url": "bible.1Sa.19.txt"
     },
     {
-      "name": "bible.1077.txt",
-      "url": "bible.1077.txt"
+      "name": "bible.1Sa.2.txt",
+      "url": "bible.1Sa.2.txt"
     },
     {
-      "name": "bible.1078.txt",
-      "url": "bible.1078.txt"
+      "name": "bible.1Sa.20.txt",
+      "url": "bible.1Sa.20.txt"
     },
     {
-      "name": "bible.1079.txt",
-      "url": "bible.1079.txt"
+      "name": "bible.1Sa.21.txt",
+      "url": "bible.1Sa.21.txt"
     },
     {
-      "name": "bible.108.txt",
-      "url": "bible.108.txt"
+      "name": "bible.1Sa.22.txt",
+      "url": "bible.1Sa.22.txt"
     },
     {
-      "name": "bible.1080.txt",
-      "url": "bible.1080.txt"
+      "name": "bible.1Sa.23.txt",
+      "url": "bible.1Sa.23.txt"
     },
     {
-      "name": "bible.1081.txt",
-      "url": "bible.1081.txt"
+      "name": "bible.1Sa.24.txt",
+      "url": "bible.1Sa.24.txt"
     },
     {
-      "name": "bible.1082.txt",
-      "url": "bible.1082.txt"
+      "name": "bible.1Sa.25.txt",
+      "url": "bible.1Sa.25.txt"
     },
     {
-      "name": "bible.1083.txt",
-      "url": "bible.1083.txt"
+      "name": "bible.1Sa.26.txt",
+      "url": "bible.1Sa.26.txt"
     },
     {
-      "name": "bible.1084.txt",
-      "url": "bible.1084.txt"
+      "name": "bible.1Sa.27.txt",
+      "url": "bible.1Sa.27.txt"
     },
     {
-      "name": "bible.1085.txt",
-      "url": "bible.1085.txt"
+      "name": "bible.1Sa.28.txt",
+      "url": "bible.1Sa.28.txt"
     },
     {
-      "name": "bible.1086.txt",
-      "url": "bible.1086.txt"
+      "name": "bible.1Sa.29.txt",
+      "url": "bible.1Sa.29.txt"
     },
     {
-      "name": "bible.1087.txt",
-      "url": "bible.1087.txt"
+      "name": "bible.1Sa.3.txt",
+      "url": "bible.1Sa.3.txt"
     },
     {
-      "name": "bible.1088.txt",
-      "url": "bible.1088.txt"
+      "name": "bible.1Sa.30.txt",
+      "url": "bible.1Sa.30.txt"
     },
     {
-      "name": "bible.1089.txt",
-      "url": "bible.1089.txt"
+      "name": "bible.1Sa.31.txt",
+      "url": "bible.1Sa.31.txt"
     },
     {
-      "name": "bible.109.txt",
-      "url": "bible.109.txt"
+      "name": "bible.1Sa.4.txt",
+      "url": "bible.1Sa.4.txt"
     },
     {
-      "name": "bible.1090.txt",
-      "url": "bible.1090.txt"
+      "name": "bible.1Sa.5.txt",
+      "url": "bible.1Sa.5.txt"
     },
     {
-      "name": "bible.1091.txt",
-      "url": "bible.1091.txt"
+      "name": "bible.1Sa.6.txt",
+      "url": "bible.1Sa.6.txt"
     },
     {
-      "name": "bible.1092.txt",
-      "url": "bible.1092.txt"
+      "name": "bible.1Sa.7.txt",
+      "url": "bible.1Sa.7.txt"
     },
     {
-      "name": "bible.1093.txt",
-      "url": "bible.1093.txt"
+      "name": "bible.1Sa.8.txt",
+      "url": "bible.1Sa.8.txt"
     },
     {
-      "name": "bible.1094.txt",
-      "url": "bible.1094.txt"
+      "name": "bible.1Sa.9.txt",
+      "url": "bible.1Sa.9.txt"
     },
     {
-      "name": "bible.1095.txt",
-      "url": "bible.1095.txt"
+      "name": "bible.1Th.1.txt",
+      "url": "bible.1Th.1.txt"
     },
     {
-      "name": "bible.1096.txt",
-      "url": "bible.1096.txt"
+      "name": "bible.1Th.2.txt",
+      "url": "bible.1Th.2.txt"
     },
     {
-      "name": "bible.1097.txt",
-      "url": "bible.1097.txt"
+      "name": "bible.1Th.3.txt",
+      "url": "bible.1Th.3.txt"
     },
     {
-      "name": "bible.1098.txt",
-      "url": "bible.1098.txt"
+      "name": "bible.1Th.4.txt",
+      "url": "bible.1Th.4.txt"
     },
     {
-      "name": "bible.1099.txt",
-      "url": "bible.1099.txt"
+      "name": "bible.1Th.5.txt",
+      "url": "bible.1Th.5.txt"
     },
     {
-      "name": "bible.11.txt",
-      "url": "bible.11.txt"
+      "name": "bible.1Ti.1.txt",
+      "url": "bible.1Ti.1.txt"
     },
     {
-      "name": "bible.110.txt",
-      "url": "bible.110.txt"
+      "name": "bible.1Ti.2.txt",
+      "url": "bible.1Ti.2.txt"
     },
     {
-      "name": "bible.1100.txt",
-      "url": "bible.1100.txt"
+      "name": "bible.1Ti.3.txt",
+      "url": "bible.1Ti.3.txt"
     },
     {
-      "name": "bible.1101.txt",
-      "url": "bible.1101.txt"
+      "name": "bible.1Ti.4.txt",
+      "url": "bible.1Ti.4.txt"
     },
     {
-      "name": "bible.1102.txt",
-      "url": "bible.1102.txt"
+      "name": "bible.1Ti.5.txt",
+      "url": "bible.1Ti.5.txt"
     },
     {
-      "name": "bible.1103.txt",
-      "url": "bible.1103.txt"
+      "name": "bible.1Ti.6.txt",
+      "url": "bible.1Ti.6.txt"
     },
     {
-      "name": "bible.1104.txt",
-      "url": "bible.1104.txt"
+      "name": "bible.2Ch.1.txt",
+      "url": "bible.2Ch.1.txt"
     },
     {
-      "name": "bible.1105.txt",
-      "url": "bible.1105.txt"
+      "name": "bible.2Ch.10.txt",
+      "url": "bible.2Ch.10.txt"
     },
     {
-      "name": "bible.1106.txt",
-      "url": "bible.1106.txt"
+      "name": "bible.2Ch.11.txt",
+      "url": "bible.2Ch.11.txt"
     },
     {
-      "name": "bible.1107.txt",
-      "url": "bible.1107.txt"
+      "name": "bible.2Ch.12.txt",
+      "url": "bible.2Ch.12.txt"
     },
     {
-      "name": "bible.1108.txt",
-      "url": "bible.1108.txt"
+      "name": "bible.2Ch.13.txt",
+      "url": "bible.2Ch.13.txt"
     },
     {
-      "name": "bible.1109.txt",
-      "url": "bible.1109.txt"
+      "name": "bible.2Ch.14.txt",
+      "url": "bible.2Ch.14.txt"
     },
     {
-      "name": "bible.111.txt",
-      "url": "bible.111.txt"
+      "name": "bible.2Ch.15.txt",
+      "url": "bible.2Ch.15.txt"
     },
     {
-      "name": "bible.1110.txt",
-      "url": "bible.1110.txt"
+      "name": "bible.2Ch.16.txt",
+      "url": "bible.2Ch.16.txt"
     },
     {
-      "name": "bible.1111.txt",
-      "url": "bible.1111.txt"
+      "name": "bible.2Ch.17.txt",
+      "url": "bible.2Ch.17.txt"
     },
     {
-      "name": "bible.1112.txt",
-      "url": "bible.1112.txt"
+      "name": "bible.2Ch.18.txt",
+      "url": "bible.2Ch.18.txt"
     },
     {
-      "name": "bible.1113.txt",
-      "url": "bible.1113.txt"
+      "name": "bible.2Ch.19.txt",
+      "url": "bible.2Ch.19.txt"
     },
     {
-      "name": "bible.1114.txt",
-      "url": "bible.1114.txt"
+      "name": "bible.2Ch.2.txt",
+      "url": "bible.2Ch.2.txt"
     },
     {
-      "name": "bible.1115.txt",
-      "url": "bible.1115.txt"
+      "name": "bible.2Ch.20.txt",
+      "url": "bible.2Ch.20.txt"
     },
     {
-      "name": "bible.1116.txt",
-      "url": "bible.1116.txt"
+      "name": "bible.2Ch.21.txt",
+      "url": "bible.2Ch.21.txt"
     },
     {
-      "name": "bible.1117.txt",
-      "url": "bible.1117.txt"
+      "name": "bible.2Ch.22.txt",
+      "url": "bible.2Ch.22.txt"
     },
     {
-      "name": "bible.1118.txt",
-      "url": "bible.1118.txt"
+      "name": "bible.2Ch.23.txt",
+      "url": "bible.2Ch.23.txt"
     },
     {
-      "name": "bible.1119.txt",
-      "url": "bible.1119.txt"
+      "name": "bible.2Ch.24.txt",
+      "url": "bible.2Ch.24.txt"
     },
     {
-      "name": "bible.112.txt",
-      "url": "bible.112.txt"
+      "name": "bible.2Ch.25.txt",
+      "url": "bible.2Ch.25.txt"
     },
     {
-      "name": "bible.1120.txt",
-      "url": "bible.1120.txt"
+      "name": "bible.2Ch.26.txt",
+      "url": "bible.2Ch.26.txt"
     },
     {
-      "name": "bible.1121.txt",
-      "url": "bible.1121.txt"
+      "name": "bible.2Ch.27.txt",
+      "url": "bible.2Ch.27.txt"
     },
     {
-      "name": "bible.1122.txt",
-      "url": "bible.1122.txt"
+      "name": "bible.2Ch.28.txt",
+      "url": "bible.2Ch.28.txt"
     },
     {
-      "name": "bible.1123.txt",
-      "url": "bible.1123.txt"
+      "name": "bible.2Ch.29.txt",
+      "url": "bible.2Ch.29.txt"
     },
     {
-      "name": "bible.1124.txt",
-      "url": "bible.1124.txt"
+      "name": "bible.2Ch.3.txt",
+      "url": "bible.2Ch.3.txt"
     },
     {
-      "name": "bible.1125.txt",
-      "url": "bible.1125.txt"
+      "name": "bible.2Ch.30.txt",
+      "url": "bible.2Ch.30.txt"
     },
     {
-      "name": "bible.1126.txt",
-      "url": "bible.1126.txt"
+      "name": "bible.2Ch.31.txt",
+      "url": "bible.2Ch.31.txt"
     },
     {
-      "name": "bible.1127.txt",
-      "url": "bible.1127.txt"
+      "name": "bible.2Ch.32.txt",
+      "url": "bible.2Ch.32.txt"
     },
     {
-      "name": "bible.1128.txt",
-      "url": "bible.1128.txt"
+      "name": "bible.2Ch.33.txt",
+      "url": "bible.2Ch.33.txt"
     },
     {
-      "name": "bible.1129.txt",
-      "url": "bible.1129.txt"
+      "name": "bible.2Ch.34.txt",
+      "url": "bible.2Ch.34.txt"
     },
     {
-      "name": "bible.113.txt",
-      "url": "bible.113.txt"
+      "name": "bible.2Ch.35.txt",
+      "url": "bible.2Ch.35.txt"
     },
     {
-      "name": "bible.1130.txt",
-      "url": "bible.1130.txt"
+      "name": "bible.2Ch.36.txt",
+      "url": "bible.2Ch.36.txt"
     },
     {
-      "name": "bible.1131.txt",
-      "url": "bible.1131.txt"
+      "name": "bible.2Ch.4.txt",
+      "url": "bible.2Ch.4.txt"
     },
     {
-      "name": "bible.1132.txt",
-      "url": "bible.1132.txt"
+      "name": "bible.2Ch.5.txt",
+      "url": "bible.2Ch.5.txt"
     },
     {
-      "name": "bible.1133.txt",
-      "url": "bible.1133.txt"
+      "name": "bible.2Ch.6.txt",
+      "url": "bible.2Ch.6.txt"
     },
     {
-      "name": "bible.1134.txt",
-      "url": "bible.1134.txt"
+      "name": "bible.2Ch.7.txt",
+      "url": "bible.2Ch.7.txt"
     },
     {
-      "name": "bible.1135.txt",
-      "url": "bible.1135.txt"
+      "name": "bible.2Ch.8.txt",
+      "url": "bible.2Ch.8.txt"
     },
     {
-      "name": "bible.1136.txt",
-      "url": "bible.1136.txt"
+      "name": "bible.2Ch.9.txt",
+      "url": "bible.2Ch.9.txt"
     },
     {
-      "name": "bible.1137.txt",
-      "url": "bible.1137.txt"
+      "name": "bible.2Co.1.txt",
+      "url": "bible.2Co.1.txt"
     },
     {
-      "name": "bible.1138.txt",
-      "url": "bible.1138.txt"
+      "name": "bible.2Co.10.txt",
+      "url": "bible.2Co.10.txt"
     },
     {
-      "name": "bible.1139.txt",
-      "url": "bible.1139.txt"
+      "name": "bible.2Co.11.txt",
+      "url": "bible.2Co.11.txt"
     },
     {
-      "name": "bible.114.txt",
-      "url": "bible.114.txt"
+      "name": "bible.2Co.12.txt",
+      "url": "bible.2Co.12.txt"
     },
     {
-      "name": "bible.1140.txt",
-      "url": "bible.1140.txt"
+      "name": "bible.2Co.13.txt",
+      "url": "bible.2Co.13.txt"
     },
     {
-      "name": "bible.1141.txt",
-      "url": "bible.1141.txt"
+      "name": "bible.2Co.2.txt",
+      "url": "bible.2Co.2.txt"
     },
     {
-      "name": "bible.1142.txt",
-      "url": "bible.1142.txt"
+      "name": "bible.2Co.3.txt",
+      "url": "bible.2Co.3.txt"
     },
     {
-      "name": "bible.1143.txt",
-      "url": "bible.1143.txt"
+      "name": "bible.2Co.4.txt",
+      "url": "bible.2Co.4.txt"
     },
     {
-      "name": "bible.1144.txt",
-      "url": "bible.1144.txt"
+      "name": "bible.2Co.5.txt",
+      "url": "bible.2Co.5.txt"
     },
     {
-      "name": "bible.1145.txt",
-      "url": "bible.1145.txt"
+      "name": "bible.2Co.6.txt",
+      "url": "bible.2Co.6.txt"
     },
     {
-      "name": "bible.1146.txt",
-      "url": "bible.1146.txt"
+      "name": "bible.2Co.7.txt",
+      "url": "bible.2Co.7.txt"
     },
     {
-      "name": "bible.1147.txt",
-      "url": "bible.1147.txt"
+      "name": "bible.2Co.8.txt",
+      "url": "bible.2Co.8.txt"
     },
     {
-      "name": "bible.1148.txt",
-      "url": "bible.1148.txt"
+      "name": "bible.2Co.9.txt",
+      "url": "bible.2Co.9.txt"
     },
     {
-      "name": "bible.1149.txt",
-      "url": "bible.1149.txt"
+      "name": "bible.2Jo.1.txt",
+      "url": "bible.2Jo.1.txt"
     },
     {
-      "name": "bible.115.txt",
-      "url": "bible.115.txt"
+      "name": "bible.2Ki.1.txt",
+      "url": "bible.2Ki.1.txt"
     },
     {
-      "name": "bible.1150.txt",
-      "url": "bible.1150.txt"
+      "name": "bible.2Ki.10.txt",
+      "url": "bible.2Ki.10.txt"
     },
     {
-      "name": "bible.1151.txt",
-      "url": "bible.1151.txt"
+      "name": "bible.2Ki.11.txt",
+      "url": "bible.2Ki.11.txt"
     },
     {
-      "name": "bible.1152.txt",
-      "url": "bible.1152.txt"
+      "name": "bible.2Ki.12.txt",
+      "url": "bible.2Ki.12.txt"
     },
     {
-      "name": "bible.1153.txt",
-      "url": "bible.1153.txt"
+      "name": "bible.2Ki.13.txt",
+      "url": "bible.2Ki.13.txt"
     },
     {
-      "name": "bible.1154.txt",
-      "url": "bible.1154.txt"
+      "name": "bible.2Ki.14.txt",
+      "url": "bible.2Ki.14.txt"
     },
     {
-      "name": "bible.1155.txt",
-      "url": "bible.1155.txt"
+      "name": "bible.2Ki.15.txt",
+      "url": "bible.2Ki.15.txt"
     },
     {
-      "name": "bible.1156.txt",
-      "url": "bible.1156.txt"
+      "name": "bible.2Ki.16.txt",
+      "url": "bible.2Ki.16.txt"
     },
     {
-      "name": "bible.1157.txt",
-      "url": "bible.1157.txt"
+      "name": "bible.2Ki.17.txt",
+      "url": "bible.2Ki.17.txt"
     },
     {
-      "name": "bible.1158.txt",
-      "url": "bible.1158.txt"
+      "name": "bible.2Ki.18.txt",
+      "url": "bible.2Ki.18.txt"
     },
     {
-      "name": "bible.1159.txt",
-      "url": "bible.1159.txt"
+      "name": "bible.2Ki.19.txt",
+      "url": "bible.2Ki.19.txt"
     },
     {
-      "name": "bible.116.txt",
-      "url": "bible.116.txt"
+      "name": "bible.2Ki.2.txt",
+      "url": "bible.2Ki.2.txt"
     },
     {
-      "name": "bible.1160.txt",
-      "url": "bible.1160.txt"
+      "name": "bible.2Ki.20.txt",
+      "url": "bible.2Ki.20.txt"
     },
     {
-      "name": "bible.1161.txt",
-      "url": "bible.1161.txt"
+      "name": "bible.2Ki.21.txt",
+      "url": "bible.2Ki.21.txt"
     },
     {
-      "name": "bible.1162.txt",
-      "url": "bible.1162.txt"
+      "name": "bible.2Ki.22.txt",
+      "url": "bible.2Ki.22.txt"
     },
     {
-      "name": "bible.1163.txt",
-      "url": "bible.1163.txt"
+      "name": "bible.2Ki.23.txt",
+      "url": "bible.2Ki.23.txt"
     },
     {
-      "name": "bible.1164.txt",
-      "url": "bible.1164.txt"
+      "name": "bible.2Ki.24.txt",
+      "url": "bible.2Ki.24.txt"
     },
     {
-      "name": "bible.1165.txt",
-      "url": "bible.1165.txt"
+      "name": "bible.2Ki.25.txt",
+      "url": "bible.2Ki.25.txt"
     },
     {
-      "name": "bible.1166.txt",
-      "url": "bible.1166.txt"
+      "name": "bible.2Ki.3.txt",
+      "url": "bible.2Ki.3.txt"
     },
     {
-      "name": "bible.1167.txt",
-      "url": "bible.1167.txt"
+      "name": "bible.2Ki.4.txt",
+      "url": "bible.2Ki.4.txt"
     },
     {
-      "name": "bible.1168.txt",
-      "url": "bible.1168.txt"
+      "name": "bible.2Ki.5.txt",
+      "url": "bible.2Ki.5.txt"
     },
     {
-      "name": "bible.1169.txt",
-      "url": "bible.1169.txt"
+      "name": "bible.2Ki.6.txt",
+      "url": "bible.2Ki.6.txt"
     },
     {
-      "name": "bible.117.txt",
-      "url": "bible.117.txt"
+      "name": "bible.2Ki.7.txt",
+      "url": "bible.2Ki.7.txt"
     },
     {
-      "name": "bible.1170.txt",
-      "url": "bible.1170.txt"
+      "name": "bible.2Ki.8.txt",
+      "url": "bible.2Ki.8.txt"
     },
     {
-      "name": "bible.1171.txt",
-      "url": "bible.1171.txt"
+      "name": "bible.2Ki.9.txt",
+      "url": "bible.2Ki.9.txt"
     },
     {
-      "name": "bible.1172.txt",
-      "url": "bible.1172.txt"
+      "name": "bible.2Pe.1.txt",
+      "url": "bible.2Pe.1.txt"
     },
     {
-      "name": "bible.1173.txt",
-      "url": "bible.1173.txt"
+      "name": "bible.2Pe.2.txt",
+      "url": "bible.2Pe.2.txt"
     },
     {
-      "name": "bible.1174.txt",
-      "url": "bible.1174.txt"
+      "name": "bible.2Pe.3.txt",
+      "url": "bible.2Pe.3.txt"
     },
     {
-      "name": "bible.1175.txt",
-      "url": "bible.1175.txt"
+      "name": "bible.2Sa.1.txt",
+      "url": "bible.2Sa.1.txt"
     },
     {
-      "name": "bible.1176.txt",
-      "url": "bible.1176.txt"
+      "name": "bible.2Sa.10.txt",
+      "url": "bible.2Sa.10.txt"
     },
     {
-      "name": "bible.1177.txt",
-      "url": "bible.1177.txt"
+      "name": "bible.2Sa.11.txt",
+      "url": "bible.2Sa.11.txt"
     },
     {
-      "name": "bible.1178.txt",
-      "url": "bible.1178.txt"
+      "name": "bible.2Sa.12.txt",
+      "url": "bible.2Sa.12.txt"
     },
     {
-      "name": "bible.1179.txt",
-      "url": "bible.1179.txt"
+      "name": "bible.2Sa.13.txt",
+      "url": "bible.2Sa.13.txt"
     },
     {
-      "name": "bible.118.txt",
-      "url": "bible.118.txt"
+      "name": "bible.2Sa.14.txt",
+      "url": "bible.2Sa.14.txt"
     },
     {
-      "name": "bible.1180.txt",
-      "url": "bible.1180.txt"
+      "name": "bible.2Sa.15.txt",
+      "url": "bible.2Sa.15.txt"
     },
     {
-      "name": "bible.1181.txt",
-      "url": "bible.1181.txt"
+      "name": "bible.2Sa.16.txt",
+      "url": "bible.2Sa.16.txt"
     },
     {
-      "name": "bible.1182.txt",
-      "url": "bible.1182.txt"
+      "name": "bible.2Sa.17.txt",
+      "url": "bible.2Sa.17.txt"
     },
     {
-      "name": "bible.1183.txt",
-      "url": "bible.1183.txt"
+      "name": "bible.2Sa.18.txt",
+      "url": "bible.2Sa.18.txt"
     },
     {
-      "name": "bible.1184.txt",
-      "url": "bible.1184.txt"
+      "name": "bible.2Sa.19.txt",
+      "url": "bible.2Sa.19.txt"
     },
     {
-      "name": "bible.1185.txt",
-      "url": "bible.1185.txt"
+      "name": "bible.2Sa.2.txt",
+      "url": "bible.2Sa.2.txt"
     },
     {
-      "name": "bible.1186.txt",
-      "url": "bible.1186.txt"
+      "name": "bible.2Sa.20.txt",
+      "url": "bible.2Sa.20.txt"
     },
     {
-      "name": "bible.1187.txt",
-      "url": "bible.1187.txt"
+      "name": "bible.2Sa.21.txt",
+      "url": "bible.2Sa.21.txt"
     },
     {
-      "name": "bible.1188.txt",
-      "url": "bible.1188.txt"
+      "name": "bible.2Sa.22.txt",
+      "url": "bible.2Sa.22.txt"
     },
     {
-      "name": "bible.119.txt",
-      "url": "bible.119.txt"
+      "name": "bible.2Sa.23.txt",
+      "url": "bible.2Sa.23.txt"
     },
     {
-      "name": "bible.12.txt",
-      "url": "bible.12.txt"
+      "name": "bible.2Sa.24.txt",
+      "url": "bible.2Sa.24.txt"
     },
     {
-      "name": "bible.120.txt",
-      "url": "bible.120.txt"
+      "name": "bible.2Sa.3.txt",
+      "url": "bible.2Sa.3.txt"
     },
     {
-      "name": "bible.121.txt",
-      "url": "bible.121.txt"
+      "name": "bible.2Sa.4.txt",
+      "url": "bible.2Sa.4.txt"
     },
     {
-      "name": "bible.122.txt",
-      "url": "bible.122.txt"
+      "name": "bible.2Sa.5.txt",
+      "url": "bible.2Sa.5.txt"
     },
     {
-      "name": "bible.123.txt",
-      "url": "bible.123.txt"
+      "name": "bible.2Sa.6.txt",
+      "url": "bible.2Sa.6.txt"
     },
     {
-      "name": "bible.124.txt",
-      "url": "bible.124.txt"
+      "name": "bible.2Sa.7.txt",
+      "url": "bible.2Sa.7.txt"
     },
     {
-      "name": "bible.125.txt",
-      "url": "bible.125.txt"
+      "name": "bible.2Sa.8.txt",
+      "url": "bible.2Sa.8.txt"
     },
     {
-      "name": "bible.126.txt",
-      "url": "bible.126.txt"
+      "name": "bible.2Sa.9.txt",
+      "url": "bible.2Sa.9.txt"
     },
     {
-      "name": "bible.127.txt",
-      "url": "bible.127.txt"
+      "name": "bible.2Th.1.txt",
+      "url": "bible.2Th.1.txt"
     },
     {
-      "name": "bible.128.txt",
-      "url": "bible.128.txt"
+      "name": "bible.2Th.2.txt",
+      "url": "bible.2Th.2.txt"
     },
     {
-      "name": "bible.129.txt",
-      "url": "bible.129.txt"
+      "name": "bible.2Th.3.txt",
+      "url": "bible.2Th.3.txt"
     },
     {
-      "name": "bible.13.txt",
-      "url": "bible.13.txt"
+      "name": "bible.2Ti.1.txt",
+      "url": "bible.2Ti.1.txt"
     },
     {
-      "name": "bible.130.txt",
-      "url": "bible.130.txt"
+      "name": "bible.2Ti.2.txt",
+      "url": "bible.2Ti.2.txt"
     },
     {
-      "name": "bible.131.txt",
-      "url": "bible.131.txt"
+      "name": "bible.2Ti.3.txt",
+      "url": "bible.2Ti.3.txt"
     },
     {
-      "name": "bible.132.txt",
-      "url": "bible.132.txt"
+      "name": "bible.2Ti.4.txt",
+      "url": "bible.2Ti.4.txt"
     },
     {
-      "name": "bible.133.txt",
-      "url": "bible.133.txt"
+      "name": "bible.3Jo.1.txt",
+      "url": "bible.3Jo.1.txt"
     },
     {
-      "name": "bible.134.txt",
-      "url": "bible.134.txt"
+      "name": "bible.Act.1.txt",
+      "url": "bible.Act.1.txt"
     },
     {
-      "name": "bible.135.txt",
-      "url": "bible.135.txt"
+      "name": "bible.Act.10.txt",
+      "url": "bible.Act.10.txt"
     },
     {
-      "name": "bible.136.txt",
-      "url": "bible.136.txt"
+      "name": "bible.Act.11.txt",
+      "url": "bible.Act.11.txt"
     },
     {
-      "name": "bible.137.txt",
-      "url": "bible.137.txt"
+      "name": "bible.Act.12.txt",
+      "url": "bible.Act.12.txt"
     },
     {
-      "name": "bible.138.txt",
-      "url": "bible.138.txt"
+      "name": "bible.Act.13.txt",
+      "url": "bible.Act.13.txt"
     },
     {
-      "name": "bible.139.txt",
-      "url": "bible.139.txt"
+      "name": "bible.Act.14.txt",
+      "url": "bible.Act.14.txt"
     },
     {
-      "name": "bible.14.txt",
-      "url": "bible.14.txt"
+      "name": "bible.Act.15.txt",
+      "url": "bible.Act.15.txt"
     },
     {
-      "name": "bible.140.txt",
-      "url": "bible.140.txt"
+      "name": "bible.Act.16.txt",
+      "url": "bible.Act.16.txt"
     },
     {
-      "name": "bible.141.txt",
-      "url": "bible.141.txt"
+      "name": "bible.Act.17.txt",
+      "url": "bible.Act.17.txt"
     },
     {
-      "name": "bible.142.txt",
-      "url": "bible.142.txt"
+      "name": "bible.Act.18.txt",
+      "url": "bible.Act.18.txt"
     },
     {
-      "name": "bible.143.txt",
-      "url": "bible.143.txt"
+      "name": "bible.Act.19.txt",
+      "url": "bible.Act.19.txt"
     },
     {
-      "name": "bible.144.txt",
-      "url": "bible.144.txt"
+      "name": "bible.Act.2.txt",
+      "url": "bible.Act.2.txt"
     },
     {
-      "name": "bible.145.txt",
-      "url": "bible.145.txt"
+      "name": "bible.Act.20.txt",
+      "url": "bible.Act.20.txt"
     },
     {
-      "name": "bible.146.txt",
-      "url": "bible.146.txt"
+      "name": "bible.Act.21.txt",
+      "url": "bible.Act.21.txt"
     },
     {
-      "name": "bible.147.txt",
-      "url": "bible.147.txt"
+      "name": "bible.Act.22.txt",
+      "url": "bible.Act.22.txt"
     },
     {
-      "name": "bible.148.txt",
-      "url": "bible.148.txt"
+      "name": "bible.Act.23.txt",
+      "url": "bible.Act.23.txt"
     },
     {
-      "name": "bible.149.txt",
-      "url": "bible.149.txt"
+      "name": "bible.Act.24.txt",
+      "url": "bible.Act.24.txt"
     },
     {
-      "name": "bible.15.txt",
-      "url": "bible.15.txt"
+      "name": "bible.Act.25.txt",
+      "url": "bible.Act.25.txt"
     },
     {
-      "name": "bible.150.txt",
-      "url": "bible.150.txt"
+      "name": "bible.Act.26.txt",
+      "url": "bible.Act.26.txt"
     },
     {
-      "name": "bible.151.txt",
-      "url": "bible.151.txt"
+      "name": "bible.Act.27.txt",
+      "url": "bible.Act.27.txt"
     },
     {
-      "name": "bible.152.txt",
-      "url": "bible.152.txt"
+      "name": "bible.Act.28.txt",
+      "url": "bible.Act.28.txt"
     },
     {
-      "name": "bible.153.txt",
-      "url": "bible.153.txt"
+      "name": "bible.Act.3.txt",
+      "url": "bible.Act.3.txt"
     },
     {
-      "name": "bible.154.txt",
-      "url": "bible.154.txt"
+      "name": "bible.Act.4.txt",
+      "url": "bible.Act.4.txt"
     },
     {
-      "name": "bible.155.txt",
-      "url": "bible.155.txt"
+      "name": "bible.Act.5.txt",
+      "url": "bible.Act.5.txt"
     },
     {
-      "name": "bible.156.txt",
-      "url": "bible.156.txt"
+      "name": "bible.Act.6.txt",
+      "url": "bible.Act.6.txt"
     },
     {
-      "name": "bible.157.txt",
-      "url": "bible.157.txt"
+      "name": "bible.Act.7.txt",
+      "url": "bible.Act.7.txt"
     },
     {
-      "name": "bible.158.txt",
-      "url": "bible.158.txt"
+      "name": "bible.Act.8.txt",
+      "url": "bible.Act.8.txt"
     },
     {
-      "name": "bible.159.txt",
-      "url": "bible.159.txt"
+      "name": "bible.Act.9.txt",
+      "url": "bible.Act.9.txt"
     },
     {
-      "name": "bible.16.txt",
-      "url": "bible.16.txt"
+      "name": "bible.Amo.1.txt",
+      "url": "bible.Amo.1.txt"
     },
     {
-      "name": "bible.160.txt",
-      "url": "bible.160.txt"
+      "name": "bible.Amo.2.txt",
+      "url": "bible.Amo.2.txt"
     },
     {
-      "name": "bible.161.txt",
-      "url": "bible.161.txt"
+      "name": "bible.Amo.3.txt",
+      "url": "bible.Amo.3.txt"
     },
     {
-      "name": "bible.162.txt",
-      "url": "bible.162.txt"
+      "name": "bible.Amo.4.txt",
+      "url": "bible.Amo.4.txt"
     },
     {
-      "name": "bible.163.txt",
-      "url": "bible.163.txt"
+      "name": "bible.Amo.5.txt",
+      "url": "bible.Amo.5.txt"
     },
     {
-      "name": "bible.164.txt",
-      "url": "bible.164.txt"
+      "name": "bible.Amo.6.txt",
+      "url": "bible.Amo.6.txt"
     },
     {
-      "name": "bible.165.txt",
-      "url": "bible.165.txt"
+      "name": "bible.Amo.7.txt",
+      "url": "bible.Amo.7.txt"
     },
     {
-      "name": "bible.166.txt",
-      "url": "bible.166.txt"
+      "name": "bible.Amo.8.txt",
+      "url": "bible.Amo.8.txt"
     },
     {
-      "name": "bible.167.txt",
-      "url": "bible.167.txt"
+      "name": "bible.Amo.9.txt",
+      "url": "bible.Amo.9.txt"
     },
     {
-      "name": "bible.168.txt",
-      "url": "bible.168.txt"
+      "name": "bible.Col.1.txt",
+      "url": "bible.Col.1.txt"
     },
     {
-      "name": "bible.169.txt",
-      "url": "bible.169.txt"
+      "name": "bible.Col.2.txt",
+      "url": "bible.Col.2.txt"
     },
     {
-      "name": "bible.17.txt",
-      "url": "bible.17.txt"
+      "name": "bible.Col.3.txt",
+      "url": "bible.Col.3.txt"
     },
     {
-      "name": "bible.170.txt",
-      "url": "bible.170.txt"
+      "name": "bible.Col.4.txt",
+      "url": "bible.Col.4.txt"
     },
     {
-      "name": "bible.171.txt",
-      "url": "bible.171.txt"
+      "name": "bible.Dan.1.txt",
+      "url": "bible.Dan.1.txt"
     },
     {
-      "name": "bible.172.txt",
-      "url": "bible.172.txt"
+      "name": "bible.Dan.10.txt",
+      "url": "bible.Dan.10.txt"
     },
     {
-      "name": "bible.173.txt",
-      "url": "bible.173.txt"
+      "name": "bible.Dan.11.txt",
+      "url": "bible.Dan.11.txt"
     },
     {
-      "name": "bible.174.txt",
-      "url": "bible.174.txt"
+      "name": "bible.Dan.12.txt",
+      "url": "bible.Dan.12.txt"
     },
     {
-      "name": "bible.175.txt",
-      "url": "bible.175.txt"
+      "name": "bible.Dan.2.txt",
+      "url": "bible.Dan.2.txt"
     },
     {
-      "name": "bible.176.txt",
-      "url": "bible.176.txt"
+      "name": "bible.Dan.3.txt",
+      "url": "bible.Dan.3.txt"
     },
     {
-      "name": "bible.177.txt",
-      "url": "bible.177.txt"
+      "name": "bible.Dan.4.txt",
+      "url": "bible.Dan.4.txt"
     },
     {
-      "name": "bible.178.txt",
-      "url": "bible.178.txt"
+      "name": "bible.Dan.5.txt",
+      "url": "bible.Dan.5.txt"
     },
     {
-      "name": "bible.179.txt",
-      "url": "bible.179.txt"
+      "name": "bible.Dan.6.txt",
+      "url": "bible.Dan.6.txt"
     },
     {
-      "name": "bible.18.txt",
-      "url": "bible.18.txt"
+      "name": "bible.Dan.7.txt",
+      "url": "bible.Dan.7.txt"
     },
     {
-      "name": "bible.180.txt",
-      "url": "bible.180.txt"
+      "name": "bible.Dan.8.txt",
+      "url": "bible.Dan.8.txt"
     },
     {
-      "name": "bible.181.txt",
-      "url": "bible.181.txt"
+      "name": "bible.Dan.9.txt",
+      "url": "bible.Dan.9.txt"
     },
     {
-      "name": "bible.182.txt",
-      "url": "bible.182.txt"
+      "name": "bible.Deu.1.txt",
+      "url": "bible.Deu.1.txt"
     },
     {
-      "name": "bible.183.txt",
-      "url": "bible.183.txt"
+      "name": "bible.Deu.10.txt",
+      "url": "bible.Deu.10.txt"
     },
     {
-      "name": "bible.184.txt",
-      "url": "bible.184.txt"
+      "name": "bible.Deu.11.txt",
+      "url": "bible.Deu.11.txt"
     },
     {
-      "name": "bible.185.txt",
-      "url": "bible.185.txt"
+      "name": "bible.Deu.12.txt",
+      "url": "bible.Deu.12.txt"
     },
     {
-      "name": "bible.186.txt",
-      "url": "bible.186.txt"
+      "name": "bible.Deu.13.txt",
+      "url": "bible.Deu.13.txt"
     },
     {
-      "name": "bible.187.txt",
-      "url": "bible.187.txt"
+      "name": "bible.Deu.14.txt",
+      "url": "bible.Deu.14.txt"
     },
     {
-      "name": "bible.188.txt",
-      "url": "bible.188.txt"
+      "name": "bible.Deu.15.txt",
+      "url": "bible.Deu.15.txt"
     },
     {
-      "name": "bible.189.txt",
-      "url": "bible.189.txt"
+      "name": "bible.Deu.16.txt",
+      "url": "bible.Deu.16.txt"
     },
     {
-      "name": "bible.19.txt",
-      "url": "bible.19.txt"
+      "name": "bible.Deu.17.txt",
+      "url": "bible.Deu.17.txt"
     },
     {
-      "name": "bible.190.txt",
-      "url": "bible.190.txt"
+      "name": "bible.Deu.18.txt",
+      "url": "bible.Deu.18.txt"
     },
     {
-      "name": "bible.191.txt",
-      "url": "bible.191.txt"
+      "name": "bible.Deu.19.txt",
+      "url": "bible.Deu.19.txt"
     },
     {
-      "name": "bible.192.txt",
-      "url": "bible.192.txt"
+      "name": "bible.Deu.2.txt",
+      "url": "bible.Deu.2.txt"
     },
     {
-      "name": "bible.193.txt",
-      "url": "bible.193.txt"
+      "name": "bible.Deu.20.txt",
+      "url": "bible.Deu.20.txt"
     },
     {
-      "name": "bible.194.txt",
-      "url": "bible.194.txt"
+      "name": "bible.Deu.21.txt",
+      "url": "bible.Deu.21.txt"
     },
     {
-      "name": "bible.195.txt",
-      "url": "bible.195.txt"
+      "name": "bible.Deu.22.txt",
+      "url": "bible.Deu.22.txt"
     },
     {
-      "name": "bible.196.txt",
-      "url": "bible.196.txt"
+      "name": "bible.Deu.23.txt",
+      "url": "bible.Deu.23.txt"
     },
     {
-      "name": "bible.197.txt",
-      "url": "bible.197.txt"
+      "name": "bible.Deu.24.txt",
+      "url": "bible.Deu.24.txt"
     },
     {
-      "name": "bible.198.txt",
-      "url": "bible.198.txt"
+      "name": "bible.Deu.25.txt",
+      "url": "bible.Deu.25.txt"
     },
     {
-      "name": "bible.199.txt",
-      "url": "bible.199.txt"
+      "name": "bible.Deu.26.txt",
+      "url": "bible.Deu.26.txt"
     },
     {
-      "name": "bible.2.txt",
-      "url": "bible.2.txt"
+      "name": "bible.Deu.27.txt",
+      "url": "bible.Deu.27.txt"
     },
     {
-      "name": "bible.20.txt",
-      "url": "bible.20.txt"
+      "name": "bible.Deu.28.txt",
+      "url": "bible.Deu.28.txt"
     },
     {
-      "name": "bible.200.txt",
-      "url": "bible.200.txt"
+      "name": "bible.Deu.29.txt",
+      "url": "bible.Deu.29.txt"
     },
     {
-      "name": "bible.201.txt",
-      "url": "bible.201.txt"
+      "name": "bible.Deu.3.txt",
+      "url": "bible.Deu.3.txt"
     },
     {
-      "name": "bible.202.txt",
-      "url": "bible.202.txt"
+      "name": "bible.Deu.30.txt",
+      "url": "bible.Deu.30.txt"
     },
     {
-      "name": "bible.203.txt",
-      "url": "bible.203.txt"
+      "name": "bible.Deu.31.txt",
+      "url": "bible.Deu.31.txt"
     },
     {
-      "name": "bible.204.txt",
-      "url": "bible.204.txt"
+      "name": "bible.Deu.32.txt",
+      "url": "bible.Deu.32.txt"
     },
     {
-      "name": "bible.205.txt",
-      "url": "bible.205.txt"
+      "name": "bible.Deu.33.txt",
+      "url": "bible.Deu.33.txt"
     },
     {
-      "name": "bible.206.txt",
-      "url": "bible.206.txt"
+      "name": "bible.Deu.34.txt",
+      "url": "bible.Deu.34.txt"
     },
     {
-      "name": "bible.207.txt",
-      "url": "bible.207.txt"
+      "name": "bible.Deu.4.txt",
+      "url": "bible.Deu.4.txt"
     },
     {
-      "name": "bible.208.txt",
-      "url": "bible.208.txt"
+      "name": "bible.Deu.5.txt",
+      "url": "bible.Deu.5.txt"
     },
     {
-      "name": "bible.209.txt",
-      "url": "bible.209.txt"
+      "name": "bible.Deu.6.txt",
+      "url": "bible.Deu.6.txt"
     },
     {
-      "name": "bible.21.txt",
-      "url": "bible.21.txt"
+      "name": "bible.Deu.7.txt",
+      "url": "bible.Deu.7.txt"
     },
     {
-      "name": "bible.210.txt",
-      "url": "bible.210.txt"
+      "name": "bible.Deu.8.txt",
+      "url": "bible.Deu.8.txt"
     },
     {
-      "name": "bible.211.txt",
-      "url": "bible.211.txt"
+      "name": "bible.Deu.9.txt",
+      "url": "bible.Deu.9.txt"
     },
     {
-      "name": "bible.212.txt",
-      "url": "bible.212.txt"
+      "name": "bible.Ecc.1.txt",
+      "url": "bible.Ecc.1.txt"
     },
     {
-      "name": "bible.213.txt",
-      "url": "bible.213.txt"
+      "name": "bible.Ecc.10.txt",
+      "url": "bible.Ecc.10.txt"
     },
     {
-      "name": "bible.214.txt",
-      "url": "bible.214.txt"
+      "name": "bible.Ecc.11.txt",
+      "url": "bible.Ecc.11.txt"
     },
     {
-      "name": "bible.215.txt",
-      "url": "bible.215.txt"
+      "name": "bible.Ecc.12.txt",
+      "url": "bible.Ecc.12.txt"
     },
     {
-      "name": "bible.216.txt",
-      "url": "bible.216.txt"
+      "name": "bible.Ecc.2.txt",
+      "url": "bible.Ecc.2.txt"
     },
     {
-      "name": "bible.217.txt",
-      "url": "bible.217.txt"
+      "name": "bible.Ecc.3.txt",
+      "url": "bible.Ecc.3.txt"
     },
     {
-      "name": "bible.218.txt",
-      "url": "bible.218.txt"
+      "name": "bible.Ecc.4.txt",
+      "url": "bible.Ecc.4.txt"
     },
     {
-      "name": "bible.219.txt",
-      "url": "bible.219.txt"
+      "name": "bible.Ecc.5.txt",
+      "url": "bible.Ecc.5.txt"
     },
     {
-      "name": "bible.22.txt",
-      "url": "bible.22.txt"
+      "name": "bible.Ecc.6.txt",
+      "url": "bible.Ecc.6.txt"
     },
     {
-      "name": "bible.220.txt",
-      "url": "bible.220.txt"
+      "name": "bible.Ecc.7.txt",
+      "url": "bible.Ecc.7.txt"
     },
     {
-      "name": "bible.221.txt",
-      "url": "bible.221.txt"
+      "name": "bible.Ecc.8.txt",
+      "url": "bible.Ecc.8.txt"
     },
     {
-      "name": "bible.222.txt",
-      "url": "bible.222.txt"
+      "name": "bible.Ecc.9.txt",
+      "url": "bible.Ecc.9.txt"
     },
     {
-      "name": "bible.223.txt",
-      "url": "bible.223.txt"
+      "name": "bible.Eph.1.txt",
+      "url": "bible.Eph.1.txt"
     },
     {
-      "name": "bible.224.txt",
-      "url": "bible.224.txt"
+      "name": "bible.Eph.2.txt",
+      "url": "bible.Eph.2.txt"
     },
     {
-      "name": "bible.225.txt",
-      "url": "bible.225.txt"
+      "name": "bible.Eph.3.txt",
+      "url": "bible.Eph.3.txt"
     },
     {
-      "name": "bible.226.txt",
-      "url": "bible.226.txt"
+      "name": "bible.Eph.4.txt",
+      "url": "bible.Eph.4.txt"
     },
     {
-      "name": "bible.227.txt",
-      "url": "bible.227.txt"
+      "name": "bible.Eph.5.txt",
+      "url": "bible.Eph.5.txt"
     },
     {
-      "name": "bible.228.txt",
-      "url": "bible.228.txt"
+      "name": "bible.Eph.6.txt",
+      "url": "bible.Eph.6.txt"
     },
     {
-      "name": "bible.229.txt",
-      "url": "bible.229.txt"
+      "name": "bible.Est.1.txt",
+      "url": "bible.Est.1.txt"
     },
     {
-      "name": "bible.23.txt",
-      "url": "bible.23.txt"
+      "name": "bible.Est.10.txt",
+      "url": "bible.Est.10.txt"
     },
     {
-      "name": "bible.230.txt",
-      "url": "bible.230.txt"
+      "name": "bible.Est.2.txt",
+      "url": "bible.Est.2.txt"
     },
     {
-      "name": "bible.231.txt",
-      "url": "bible.231.txt"
+      "name": "bible.Est.3.txt",
+      "url": "bible.Est.3.txt"
     },
     {
-      "name": "bible.232.txt",
-      "url": "bible.232.txt"
+      "name": "bible.Est.4.txt",
+      "url": "bible.Est.4.txt"
     },
     {
-      "name": "bible.233.txt",
-      "url": "bible.233.txt"
+      "name": "bible.Est.5.txt",
+      "url": "bible.Est.5.txt"
     },
     {
-      "name": "bible.234.txt",
-      "url": "bible.234.txt"
+      "name": "bible.Est.6.txt",
+      "url": "bible.Est.6.txt"
     },
     {
-      "name": "bible.235.txt",
-      "url": "bible.235.txt"
+      "name": "bible.Est.7.txt",
+      "url": "bible.Est.7.txt"
     },
     {
-      "name": "bible.236.txt",
-      "url": "bible.236.txt"
+      "name": "bible.Est.8.txt",
+      "url": "bible.Est.8.txt"
     },
     {
-      "name": "bible.237.txt",
-      "url": "bible.237.txt"
+      "name": "bible.Est.9.txt",
+      "url": "bible.Est.9.txt"
     },
     {
-      "name": "bible.238.txt",
-      "url": "bible.238.txt"
+      "name": "bible.Exo.1.txt",
+      "url": "bible.Exo.1.txt"
     },
     {
-      "name": "bible.239.txt",
-      "url": "bible.239.txt"
+      "name": "bible.Exo.10.txt",
+      "url": "bible.Exo.10.txt"
     },
     {
-      "name": "bible.24.txt",
-      "url": "bible.24.txt"
+      "name": "bible.Exo.11.txt",
+      "url": "bible.Exo.11.txt"
     },
     {
-      "name": "bible.240.txt",
-      "url": "bible.240.txt"
+      "name": "bible.Exo.12.txt",
+      "url": "bible.Exo.12.txt"
     },
     {
-      "name": "bible.241.txt",
-      "url": "bible.241.txt"
+      "name": "bible.Exo.13.txt",
+      "url": "bible.Exo.13.txt"
     },
     {
-      "name": "bible.242.txt",
-      "url": "bible.242.txt"
+      "name": "bible.Exo.14.txt",
+      "url": "bible.Exo.14.txt"
     },
     {
-      "name": "bible.243.txt",
-      "url": "bible.243.txt"
+      "name": "bible.Exo.15.txt",
+      "url": "bible.Exo.15.txt"
     },
     {
-      "name": "bible.244.txt",
-      "url": "bible.244.txt"
+      "name": "bible.Exo.16.txt",
+      "url": "bible.Exo.16.txt"
     },
     {
-      "name": "bible.245.txt",
-      "url": "bible.245.txt"
+      "name": "bible.Exo.17.txt",
+      "url": "bible.Exo.17.txt"
     },
     {
-      "name": "bible.246.txt",
-      "url": "bible.246.txt"
+      "name": "bible.Exo.18.txt",
+      "url": "bible.Exo.18.txt"
     },
     {
-      "name": "bible.247.txt",
-      "url": "bible.247.txt"
+      "name": "bible.Exo.19.txt",
+      "url": "bible.Exo.19.txt"
     },
     {
-      "name": "bible.248.txt",
-      "url": "bible.248.txt"
+      "name": "bible.Exo.2.txt",
+      "url": "bible.Exo.2.txt"
     },
     {
-      "name": "bible.249.txt",
-      "url": "bible.249.txt"
+      "name": "bible.Exo.20.txt",
+      "url": "bible.Exo.20.txt"
     },
     {
-      "name": "bible.25.txt",
-      "url": "bible.25.txt"
+      "name": "bible.Exo.21.txt",
+      "url": "bible.Exo.21.txt"
     },
     {
-      "name": "bible.250.txt",
-      "url": "bible.250.txt"
+      "name": "bible.Exo.22.txt",
+      "url": "bible.Exo.22.txt"
     },
     {
-      "name": "bible.251.txt",
-      "url": "bible.251.txt"
+      "name": "bible.Exo.23.txt",
+      "url": "bible.Exo.23.txt"
     },
     {
-      "name": "bible.252.txt",
-      "url": "bible.252.txt"
+      "name": "bible.Exo.24.txt",
+      "url": "bible.Exo.24.txt"
     },
     {
-      "name": "bible.253.txt",
-      "url": "bible.253.txt"
+      "name": "bible.Exo.25.txt",
+      "url": "bible.Exo.25.txt"
     },
     {
-      "name": "bible.254.txt",
-      "url": "bible.254.txt"
+      "name": "bible.Exo.26.txt",
+      "url": "bible.Exo.26.txt"
     },
     {
-      "name": "bible.255.txt",
-      "url": "bible.255.txt"
+      "name": "bible.Exo.27.txt",
+      "url": "bible.Exo.27.txt"
     },
     {
-      "name": "bible.256.txt",
-      "url": "bible.256.txt"
+      "name": "bible.Exo.28.txt",
+      "url": "bible.Exo.28.txt"
     },
     {
-      "name": "bible.257.txt",
-      "url": "bible.257.txt"
+      "name": "bible.Exo.29.txt",
+      "url": "bible.Exo.29.txt"
     },
     {
-      "name": "bible.258.txt",
-      "url": "bible.258.txt"
+      "name": "bible.Exo.3.txt",
+      "url": "bible.Exo.3.txt"
     },
     {
-      "name": "bible.259.txt",
-      "url": "bible.259.txt"
+      "name": "bible.Exo.30.txt",
+      "url": "bible.Exo.30.txt"
     },
     {
-      "name": "bible.26.txt",
-      "url": "bible.26.txt"
+      "name": "bible.Exo.31.txt",
+      "url": "bible.Exo.31.txt"
     },
     {
-      "name": "bible.260.txt",
-      "url": "bible.260.txt"
+      "name": "bible.Exo.32.txt",
+      "url": "bible.Exo.32.txt"
     },
     {
-      "name": "bible.261.txt",
-      "url": "bible.261.txt"
+      "name": "bible.Exo.33.txt",
+      "url": "bible.Exo.33.txt"
     },
     {
-      "name": "bible.262.txt",
-      "url": "bible.262.txt"
+      "name": "bible.Exo.34.txt",
+      "url": "bible.Exo.34.txt"
     },
     {
-      "name": "bible.263.txt",
-      "url": "bible.263.txt"
+      "name": "bible.Exo.35.txt",
+      "url": "bible.Exo.35.txt"
     },
     {
-      "name": "bible.264.txt",
-      "url": "bible.264.txt"
+      "name": "bible.Exo.36.txt",
+      "url": "bible.Exo.36.txt"
     },
     {
-      "name": "bible.265.txt",
-      "url": "bible.265.txt"
+      "name": "bible.Exo.37.txt",
+      "url": "bible.Exo.37.txt"
     },
     {
-      "name": "bible.266.txt",
-      "url": "bible.266.txt"
+      "name": "bible.Exo.38.txt",
+      "url": "bible.Exo.38.txt"
     },
     {
-      "name": "bible.267.txt",
-      "url": "bible.267.txt"
+      "name": "bible.Exo.39.txt",
+      "url": "bible.Exo.39.txt"
     },
     {
-      "name": "bible.268.txt",
-      "url": "bible.268.txt"
+      "name": "bible.Exo.4.txt",
+      "url": "bible.Exo.4.txt"
     },
     {
-      "name": "bible.269.txt",
-      "url": "bible.269.txt"
+      "name": "bible.Exo.40.txt",
+      "url": "bible.Exo.40.txt"
     },
     {
-      "name": "bible.27.txt",
-      "url": "bible.27.txt"
+      "name": "bible.Exo.5.txt",
+      "url": "bible.Exo.5.txt"
     },
     {
-      "name": "bible.270.txt",
-      "url": "bible.270.txt"
+      "name": "bible.Exo.6.txt",
+      "url": "bible.Exo.6.txt"
     },
     {
-      "name": "bible.271.txt",
-      "url": "bible.271.txt"
+      "name": "bible.Exo.7.txt",
+      "url": "bible.Exo.7.txt"
     },
     {
-      "name": "bible.272.txt",
-      "url": "bible.272.txt"
+      "name": "bible.Exo.8.txt",
+      "url": "bible.Exo.8.txt"
     },
     {
-      "name": "bible.273.txt",
-      "url": "bible.273.txt"
+      "name": "bible.Exo.9.txt",
+      "url": "bible.Exo.9.txt"
     },
     {
-      "name": "bible.274.txt",
-      "url": "bible.274.txt"
+      "name": "bible.Eze.1.txt",
+      "url": "bible.Eze.1.txt"
     },
     {
-      "name": "bible.275.txt",
-      "url": "bible.275.txt"
+      "name": "bible.Eze.10.txt",
+      "url": "bible.Eze.10.txt"
     },
     {
-      "name": "bible.276.txt",
-      "url": "bible.276.txt"
+      "name": "bible.Eze.11.txt",
+      "url": "bible.Eze.11.txt"
     },
     {
-      "name": "bible.277.txt",
-      "url": "bible.277.txt"
+      "name": "bible.Eze.12.txt",
+      "url": "bible.Eze.12.txt"
     },
     {
-      "name": "bible.278.txt",
-      "url": "bible.278.txt"
+      "name": "bible.Eze.13.txt",
+      "url": "bible.Eze.13.txt"
     },
     {
-      "name": "bible.279.txt",
-      "url": "bible.279.txt"
+      "name": "bible.Eze.14.txt",
+      "url": "bible.Eze.14.txt"
     },
     {
-      "name": "bible.28.txt",
-      "url": "bible.28.txt"
+      "name": "bible.Eze.15.txt",
+      "url": "bible.Eze.15.txt"
     },
     {
-      "name": "bible.280.txt",
-      "url": "bible.280.txt"
+      "name": "bible.Eze.16.txt",
+      "url": "bible.Eze.16.txt"
     },
     {
-      "name": "bible.281.txt",
-      "url": "bible.281.txt"
+      "name": "bible.Eze.17.txt",
+      "url": "bible.Eze.17.txt"
     },
     {
-      "name": "bible.282.txt",
-      "url": "bible.282.txt"
+      "name": "bible.Eze.18.txt",
+      "url": "bible.Eze.18.txt"
     },
     {
-      "name": "bible.283.txt",
-      "url": "bible.283.txt"
+      "name": "bible.Eze.19.txt",
+      "url": "bible.Eze.19.txt"
     },
     {
-      "name": "bible.284.txt",
-      "url": "bible.284.txt"
+      "name": "bible.Eze.2.txt",
+      "url": "bible.Eze.2.txt"
     },
     {
-      "name": "bible.285.txt",
-      "url": "bible.285.txt"
+      "name": "bible.Eze.20.txt",
+      "url": "bible.Eze.20.txt"
     },
     {
-      "name": "bible.286.txt",
-      "url": "bible.286.txt"
+      "name": "bible.Eze.21.txt",
+      "url": "bible.Eze.21.txt"
     },
     {
-      "name": "bible.287.txt",
-      "url": "bible.287.txt"
+      "name": "bible.Eze.22.txt",
+      "url": "bible.Eze.22.txt"
     },
     {
-      "name": "bible.288.txt",
-      "url": "bible.288.txt"
+      "name": "bible.Eze.23.txt",
+      "url": "bible.Eze.23.txt"
     },
     {
-      "name": "bible.289.txt",
-      "url": "bible.289.txt"
+      "name": "bible.Eze.24.txt",
+      "url": "bible.Eze.24.txt"
     },
     {
-      "name": "bible.29.txt",
-      "url": "bible.29.txt"
+      "name": "bible.Eze.25.txt",
+      "url": "bible.Eze.25.txt"
     },
     {
-      "name": "bible.290.txt",
-      "url": "bible.290.txt"
+      "name": "bible.Eze.26.txt",
+      "url": "bible.Eze.26.txt"
     },
     {
-      "name": "bible.291.txt",
-      "url": "bible.291.txt"
+      "name": "bible.Eze.27.txt",
+      "url": "bible.Eze.27.txt"
     },
     {
-      "name": "bible.292.txt",
-      "url": "bible.292.txt"
+      "name": "bible.Eze.28.txt",
+      "url": "bible.Eze.28.txt"
     },
     {
-      "name": "bible.293.txt",
-      "url": "bible.293.txt"
+      "name": "bible.Eze.29.txt",
+      "url": "bible.Eze.29.txt"
     },
     {
-      "name": "bible.294.txt",
-      "url": "bible.294.txt"
+      "name": "bible.Eze.3.txt",
+      "url": "bible.Eze.3.txt"
     },
     {
-      "name": "bible.295.txt",
-      "url": "bible.295.txt"
+      "name": "bible.Eze.30.txt",
+      "url": "bible.Eze.30.txt"
     },
     {
-      "name": "bible.296.txt",
-      "url": "bible.296.txt"
+      "name": "bible.Eze.31.txt",
+      "url": "bible.Eze.31.txt"
     },
     {
-      "name": "bible.297.txt",
-      "url": "bible.297.txt"
+      "name": "bible.Eze.32.txt",
+      "url": "bible.Eze.32.txt"
     },
     {
-      "name": "bible.298.txt",
-      "url": "bible.298.txt"
+      "name": "bible.Eze.33.txt",
+      "url": "bible.Eze.33.txt"
     },
     {
-      "name": "bible.299.txt",
-      "url": "bible.299.txt"
+      "name": "bible.Eze.34.txt",
+      "url": "bible.Eze.34.txt"
     },
     {
-      "name": "bible.3.txt",
-      "url": "bible.3.txt"
+      "name": "bible.Eze.35.txt",
+      "url": "bible.Eze.35.txt"
     },
     {
-      "name": "bible.30.txt",
-      "url": "bible.30.txt"
+      "name": "bible.Eze.36.txt",
+      "url": "bible.Eze.36.txt"
     },
     {
-      "name": "bible.300.txt",
-      "url": "bible.300.txt"
+      "name": "bible.Eze.37.txt",
+      "url": "bible.Eze.37.txt"
     },
     {
-      "name": "bible.301.txt",
-      "url": "bible.301.txt"
+      "name": "bible.Eze.38.txt",
+      "url": "bible.Eze.38.txt"
     },
     {
-      "name": "bible.302.txt",
-      "url": "bible.302.txt"
+      "name": "bible.Eze.39.txt",
+      "url": "bible.Eze.39.txt"
     },
     {
-      "name": "bible.303.txt",
-      "url": "bible.303.txt"
+      "name": "bible.Eze.4.txt",
+      "url": "bible.Eze.4.txt"
     },
     {
-      "name": "bible.304.txt",
-      "url": "bible.304.txt"
+      "name": "bible.Eze.40.txt",
+      "url": "bible.Eze.40.txt"
     },
     {
-      "name": "bible.305.txt",
-      "url": "bible.305.txt"
+      "name": "bible.Eze.41.txt",
+      "url": "bible.Eze.41.txt"
     },
     {
-      "name": "bible.306.txt",
-      "url": "bible.306.txt"
+      "name": "bible.Eze.42.txt",
+      "url": "bible.Eze.42.txt"
     },
     {
-      "name": "bible.307.txt",
-      "url": "bible.307.txt"
+      "name": "bible.Eze.43.txt",
+      "url": "bible.Eze.43.txt"
     },
     {
-      "name": "bible.308.txt",
-      "url": "bible.308.txt"
+      "name": "bible.Eze.44.txt",
+      "url": "bible.Eze.44.txt"
     },
     {
-      "name": "bible.309.txt",
-      "url": "bible.309.txt"
+      "name": "bible.Eze.45.txt",
+      "url": "bible.Eze.45.txt"
     },
     {
-      "name": "bible.31.txt",
-      "url": "bible.31.txt"
+      "name": "bible.Eze.46.txt",
+      "url": "bible.Eze.46.txt"
     },
     {
-      "name": "bible.310.txt",
-      "url": "bible.310.txt"
+      "name": "bible.Eze.47.txt",
+      "url": "bible.Eze.47.txt"
     },
     {
-      "name": "bible.311.txt",
-      "url": "bible.311.txt"
+      "name": "bible.Eze.48.txt",
+      "url": "bible.Eze.48.txt"
     },
     {
-      "name": "bible.312.txt",
-      "url": "bible.312.txt"
+      "name": "bible.Eze.5.txt",
+      "url": "bible.Eze.5.txt"
     },
     {
-      "name": "bible.313.txt",
-      "url": "bible.313.txt"
+      "name": "bible.Eze.6.txt",
+      "url": "bible.Eze.6.txt"
     },
     {
-      "name": "bible.314.txt",
-      "url": "bible.314.txt"
+      "name": "bible.Eze.7.txt",
+      "url": "bible.Eze.7.txt"
     },
     {
-      "name": "bible.315.txt",
-      "url": "bible.315.txt"
+      "name": "bible.Eze.8.txt",
+      "url": "bible.Eze.8.txt"
     },
     {
-      "name": "bible.316.txt",
-      "url": "bible.316.txt"
+      "name": "bible.Eze.9.txt",
+      "url": "bible.Eze.9.txt"
     },
     {
-      "name": "bible.317.txt",
-      "url": "bible.317.txt"
+      "name": "bible.Ezr.1.txt",
+      "url": "bible.Ezr.1.txt"
     },
     {
-      "name": "bible.318.txt",
-      "url": "bible.318.txt"
+      "name": "bible.Ezr.10.txt",
+      "url": "bible.Ezr.10.txt"
     },
     {
-      "name": "bible.319.txt",
-      "url": "bible.319.txt"
+      "name": "bible.Ezr.2.txt",
+      "url": "bible.Ezr.2.txt"
     },
     {
-      "name": "bible.32.txt",
-      "url": "bible.32.txt"
+      "name": "bible.Ezr.3.txt",
+      "url": "bible.Ezr.3.txt"
     },
     {
-      "name": "bible.320.txt",
-      "url": "bible.320.txt"
+      "name": "bible.Ezr.4.txt",
+      "url": "bible.Ezr.4.txt"
     },
     {
-      "name": "bible.321.txt",
-      "url": "bible.321.txt"
+      "name": "bible.Ezr.5.txt",
+      "url": "bible.Ezr.5.txt"
     },
     {
-      "name": "bible.322.txt",
-      "url": "bible.322.txt"
+      "name": "bible.Ezr.6.txt",
+      "url": "bible.Ezr.6.txt"
     },
     {
-      "name": "bible.323.txt",
-      "url": "bible.323.txt"
+      "name": "bible.Ezr.7.txt",
+      "url": "bible.Ezr.7.txt"
     },
     {
-      "name": "bible.324.txt",
-      "url": "bible.324.txt"
+      "name": "bible.Ezr.8.txt",
+      "url": "bible.Ezr.8.txt"
     },
     {
-      "name": "bible.325.txt",
-      "url": "bible.325.txt"
+      "name": "bible.Ezr.9.txt",
+      "url": "bible.Ezr.9.txt"
     },
     {
-      "name": "bible.326.txt",
-      "url": "bible.326.txt"
+      "name": "bible.Gal.1.txt",
+      "url": "bible.Gal.1.txt"
     },
     {
-      "name": "bible.327.txt",
-      "url": "bible.327.txt"
+      "name": "bible.Gal.2.txt",
+      "url": "bible.Gal.2.txt"
     },
     {
-      "name": "bible.328.txt",
-      "url": "bible.328.txt"
+      "name": "bible.Gal.3.txt",
+      "url": "bible.Gal.3.txt"
     },
     {
-      "name": "bible.329.txt",
-      "url": "bible.329.txt"
+      "name": "bible.Gal.4.txt",
+      "url": "bible.Gal.4.txt"
     },
     {
-      "name": "bible.33.txt",
-      "url": "bible.33.txt"
+      "name": "bible.Gal.5.txt",
+      "url": "bible.Gal.5.txt"
     },
     {
-      "name": "bible.330.txt",
-      "url": "bible.330.txt"
+      "name": "bible.Gal.6.txt",
+      "url": "bible.Gal.6.txt"
     },
     {
-      "name": "bible.331.txt",
-      "url": "bible.331.txt"
+      "name": "bible.Gen.1.txt",
+      "url": "bible.Gen.1.txt"
     },
     {
-      "name": "bible.332.txt",
-      "url": "bible.332.txt"
+      "name": "bible.Gen.10.txt",
+      "url": "bible.Gen.10.txt"
     },
     {
-      "name": "bible.333.txt",
-      "url": "bible.333.txt"
+      "name": "bible.Gen.11.txt",
+      "url": "bible.Gen.11.txt"
     },
     {
-      "name": "bible.334.txt",
-      "url": "bible.334.txt"
+      "name": "bible.Gen.12.txt",
+      "url": "bible.Gen.12.txt"
     },
     {
-      "name": "bible.335.txt",
-      "url": "bible.335.txt"
+      "name": "bible.Gen.13.txt",
+      "url": "bible.Gen.13.txt"
     },
     {
-      "name": "bible.336.txt",
-      "url": "bible.336.txt"
+      "name": "bible.Gen.14.txt",
+      "url": "bible.Gen.14.txt"
     },
     {
-      "name": "bible.337.txt",
-      "url": "bible.337.txt"
+      "name": "bible.Gen.15.txt",
+      "url": "bible.Gen.15.txt"
     },
     {
-      "name": "bible.338.txt",
-      "url": "bible.338.txt"
+      "name": "bible.Gen.16.txt",
+      "url": "bible.Gen.16.txt"
     },
     {
-      "name": "bible.339.txt",
-      "url": "bible.339.txt"
+      "name": "bible.Gen.17.txt",
+      "url": "bible.Gen.17.txt"
     },
     {
-      "name": "bible.34.txt",
-      "url": "bible.34.txt"
+      "name": "bible.Gen.18.txt",
+      "url": "bible.Gen.18.txt"
     },
     {
-      "name": "bible.340.txt",
-      "url": "bible.340.txt"
+      "name": "bible.Gen.19.txt",
+      "url": "bible.Gen.19.txt"
     },
     {
-      "name": "bible.341.txt",
-      "url": "bible.341.txt"
+      "name": "bible.Gen.2.txt",
+      "url": "bible.Gen.2.txt"
     },
     {
-      "name": "bible.342.txt",
-      "url": "bible.342.txt"
+      "name": "bible.Gen.20.txt",
+      "url": "bible.Gen.20.txt"
     },
     {
-      "name": "bible.343.txt",
-      "url": "bible.343.txt"
+      "name": "bible.Gen.21.txt",
+      "url": "bible.Gen.21.txt"
     },
     {
-      "name": "bible.344.txt",
-      "url": "bible.344.txt"
+      "name": "bible.Gen.22.txt",
+      "url": "bible.Gen.22.txt"
     },
     {
-      "name": "bible.345.txt",
-      "url": "bible.345.txt"
+      "name": "bible.Gen.23.txt",
+      "url": "bible.Gen.23.txt"
     },
     {
-      "name": "bible.346.txt",
-      "url": "bible.346.txt"
+      "name": "bible.Gen.24.txt",
+      "url": "bible.Gen.24.txt"
     },
     {
-      "name": "bible.347.txt",
-      "url": "bible.347.txt"
+      "name": "bible.Gen.25.txt",
+      "url": "bible.Gen.25.txt"
     },
     {
-      "name": "bible.348.txt",
-      "url": "bible.348.txt"
+      "name": "bible.Gen.26.txt",
+      "url": "bible.Gen.26.txt"
     },
     {
-      "name": "bible.349.txt",
-      "url": "bible.349.txt"
+      "name": "bible.Gen.27.txt",
+      "url": "bible.Gen.27.txt"
     },
     {
-      "name": "bible.35.txt",
-      "url": "bible.35.txt"
+      "name": "bible.Gen.28.txt",
+      "url": "bible.Gen.28.txt"
     },
     {
-      "name": "bible.350.txt",
-      "url": "bible.350.txt"
+      "name": "bible.Gen.29.txt",
+      "url": "bible.Gen.29.txt"
     },
     {
-      "name": "bible.351.txt",
-      "url": "bible.351.txt"
+      "name": "bible.Gen.3.txt",
+      "url": "bible.Gen.3.txt"
     },
     {
-      "name": "bible.352.txt",
-      "url": "bible.352.txt"
+      "name": "bible.Gen.30.txt",
+      "url": "bible.Gen.30.txt"
     },
     {
-      "name": "bible.353.txt",
-      "url": "bible.353.txt"
+      "name": "bible.Gen.31.txt",
+      "url": "bible.Gen.31.txt"
     },
     {
-      "name": "bible.354.txt",
-      "url": "bible.354.txt"
+      "name": "bible.Gen.32.txt",
+      "url": "bible.Gen.32.txt"
     },
     {
-      "name": "bible.355.txt",
-      "url": "bible.355.txt"
+      "name": "bible.Gen.33.txt",
+      "url": "bible.Gen.33.txt"
     },
     {
-      "name": "bible.356.txt",
-      "url": "bible.356.txt"
+      "name": "bible.Gen.34.txt",
+      "url": "bible.Gen.34.txt"
     },
     {
-      "name": "bible.357.txt",
-      "url": "bible.357.txt"
+      "name": "bible.Gen.35.txt",
+      "url": "bible.Gen.35.txt"
     },
     {
-      "name": "bible.358.txt",
-      "url": "bible.358.txt"
+      "name": "bible.Gen.36.txt",
+      "url": "bible.Gen.36.txt"
     },
     {
-      "name": "bible.359.txt",
-      "url": "bible.359.txt"
+      "name": "bible.Gen.37.txt",
+      "url": "bible.Gen.37.txt"
     },
     {
-      "name": "bible.36.txt",
-      "url": "bible.36.txt"
+      "name": "bible.Gen.38.txt",
+      "url": "bible.Gen.38.txt"
     },
     {
-      "name": "bible.360.txt",
-      "url": "bible.360.txt"
+      "name": "bible.Gen.39.txt",
+      "url": "bible.Gen.39.txt"
     },
     {
-      "name": "bible.361.txt",
-      "url": "bible.361.txt"
+      "name": "bible.Gen.4.txt",
+      "url": "bible.Gen.4.txt"
     },
     {
-      "name": "bible.362.txt",
-      "url": "bible.362.txt"
+      "name": "bible.Gen.40.txt",
+      "url": "bible.Gen.40.txt"
     },
     {
-      "name": "bible.363.txt",
-      "url": "bible.363.txt"
+      "name": "bible.Gen.41.txt",
+      "url": "bible.Gen.41.txt"
     },
     {
-      "name": "bible.364.txt",
-      "url": "bible.364.txt"
+      "name": "bible.Gen.42.txt",
+      "url": "bible.Gen.42.txt"
     },
     {
-      "name": "bible.365.txt",
-      "url": "bible.365.txt"
+      "name": "bible.Gen.43.txt",
+      "url": "bible.Gen.43.txt"
     },
     {
-      "name": "bible.366.txt",
-      "url": "bible.366.txt"
+      "name": "bible.Gen.44.txt",
+      "url": "bible.Gen.44.txt"
     },
     {
-      "name": "bible.367.txt",
-      "url": "bible.367.txt"
+      "name": "bible.Gen.45.txt",
+      "url": "bible.Gen.45.txt"
     },
     {
-      "name": "bible.368.txt",
-      "url": "bible.368.txt"
+      "name": "bible.Gen.46.txt",
+      "url": "bible.Gen.46.txt"
     },
     {
-      "name": "bible.369.txt",
-      "url": "bible.369.txt"
+      "name": "bible.Gen.47.txt",
+      "url": "bible.Gen.47.txt"
     },
     {
-      "name": "bible.37.txt",
-      "url": "bible.37.txt"
+      "name": "bible.Gen.48.txt",
+      "url": "bible.Gen.48.txt"
     },
     {
-      "name": "bible.370.txt",
-      "url": "bible.370.txt"
+      "name": "bible.Gen.49.txt",
+      "url": "bible.Gen.49.txt"
     },
     {
-      "name": "bible.371.txt",
-      "url": "bible.371.txt"
+      "name": "bible.Gen.5.txt",
+      "url": "bible.Gen.5.txt"
     },
     {
-      "name": "bible.372.txt",
-      "url": "bible.372.txt"
+      "name": "bible.Gen.50.txt",
+      "url": "bible.Gen.50.txt"
     },
     {
-      "name": "bible.373.txt",
-      "url": "bible.373.txt"
+      "name": "bible.Gen.6.txt",
+      "url": "bible.Gen.6.txt"
     },
     {
-      "name": "bible.374.txt",
-      "url": "bible.374.txt"
+      "name": "bible.Gen.7.txt",
+      "url": "bible.Gen.7.txt"
     },
     {
-      "name": "bible.375.txt",
-      "url": "bible.375.txt"
+      "name": "bible.Gen.8.txt",
+      "url": "bible.Gen.8.txt"
     },
     {
-      "name": "bible.376.txt",
-      "url": "bible.376.txt"
+      "name": "bible.Gen.9.txt",
+      "url": "bible.Gen.9.txt"
     },
     {
-      "name": "bible.377.txt",
-      "url": "bible.377.txt"
+      "name": "bible.Hab.1.txt",
+      "url": "bible.Hab.1.txt"
     },
     {
-      "name": "bible.378.txt",
-      "url": "bible.378.txt"
+      "name": "bible.Hab.2.txt",
+      "url": "bible.Hab.2.txt"
     },
     {
-      "name": "bible.379.txt",
-      "url": "bible.379.txt"
+      "name": "bible.Hab.3.txt",
+      "url": "bible.Hab.3.txt"
     },
     {
-      "name": "bible.38.txt",
-      "url": "bible.38.txt"
+      "name": "bible.Hag.1.txt",
+      "url": "bible.Hag.1.txt"
     },
     {
-      "name": "bible.380.txt",
-      "url": "bible.380.txt"
+      "name": "bible.Hag.2.txt",
+      "url": "bible.Hag.2.txt"
     },
     {
-      "name": "bible.381.txt",
-      "url": "bible.381.txt"
+      "name": "bible.Heb.1.txt",
+      "url": "bible.Heb.1.txt"
     },
     {
-      "name": "bible.382.txt",
-      "url": "bible.382.txt"
+      "name": "bible.Heb.10.txt",
+      "url": "bible.Heb.10.txt"
     },
     {
-      "name": "bible.383.txt",
-      "url": "bible.383.txt"
+      "name": "bible.Heb.11.txt",
+      "url": "bible.Heb.11.txt"
     },
     {
-      "name": "bible.384.txt",
-      "url": "bible.384.txt"
+      "name": "bible.Heb.12.txt",
+      "url": "bible.Heb.12.txt"
     },
     {
-      "name": "bible.385.txt",
-      "url": "bible.385.txt"
+      "name": "bible.Heb.13.txt",
+      "url": "bible.Heb.13.txt"
     },
     {
-      "name": "bible.386.txt",
-      "url": "bible.386.txt"
+      "name": "bible.Heb.2.txt",
+      "url": "bible.Heb.2.txt"
     },
     {
-      "name": "bible.387.txt",
-      "url": "bible.387.txt"
+      "name": "bible.Heb.3.txt",
+      "url": "bible.Heb.3.txt"
     },
     {
-      "name": "bible.388.txt",
-      "url": "bible.388.txt"
+      "name": "bible.Heb.4.txt",
+      "url": "bible.Heb.4.txt"
     },
     {
-      "name": "bible.389.txt",
-      "url": "bible.389.txt"
+      "name": "bible.Heb.5.txt",
+      "url": "bible.Heb.5.txt"
     },
     {
-      "name": "bible.39.txt",
-      "url": "bible.39.txt"
+      "name": "bible.Heb.6.txt",
+      "url": "bible.Heb.6.txt"
     },
     {
-      "name": "bible.390.txt",
-      "url": "bible.390.txt"
+      "name": "bible.Heb.7.txt",
+      "url": "bible.Heb.7.txt"
     },
     {
-      "name": "bible.391.txt",
-      "url": "bible.391.txt"
+      "name": "bible.Heb.8.txt",
+      "url": "bible.Heb.8.txt"
     },
     {
-      "name": "bible.392.txt",
-      "url": "bible.392.txt"
+      "name": "bible.Heb.9.txt",
+      "url": "bible.Heb.9.txt"
     },
     {
-      "name": "bible.393.txt",
-      "url": "bible.393.txt"
+      "name": "bible.Hos.1.txt",
+      "url": "bible.Hos.1.txt"
     },
     {
-      "name": "bible.394.txt",
-      "url": "bible.394.txt"
+      "name": "bible.Hos.10.txt",
+      "url": "bible.Hos.10.txt"
     },
     {
-      "name": "bible.395.txt",
-      "url": "bible.395.txt"
+      "name": "bible.Hos.11.txt",
+      "url": "bible.Hos.11.txt"
     },
     {
-      "name": "bible.396.txt",
-      "url": "bible.396.txt"
+      "name": "bible.Hos.12.txt",
+      "url": "bible.Hos.12.txt"
     },
     {
-      "name": "bible.397.txt",
-      "url": "bible.397.txt"
+      "name": "bible.Hos.13.txt",
+      "url": "bible.Hos.13.txt"
     },
     {
-      "name": "bible.398.txt",
-      "url": "bible.398.txt"
+      "name": "bible.Hos.14.txt",
+      "url": "bible.Hos.14.txt"
     },
     {
-      "name": "bible.399.txt",
-      "url": "bible.399.txt"
+      "name": "bible.Hos.2.txt",
+      "url": "bible.Hos.2.txt"
     },
     {
-      "name": "bible.4.txt",
-      "url": "bible.4.txt"
+      "name": "bible.Hos.3.txt",
+      "url": "bible.Hos.3.txt"
     },
     {
-      "name": "bible.40.txt",
-      "url": "bible.40.txt"
+      "name": "bible.Hos.4.txt",
+      "url": "bible.Hos.4.txt"
     },
     {
-      "name": "bible.400.txt",
-      "url": "bible.400.txt"
+      "name": "bible.Hos.5.txt",
+      "url": "bible.Hos.5.txt"
     },
     {
-      "name": "bible.401.txt",
-      "url": "bible.401.txt"
+      "name": "bible.Hos.6.txt",
+      "url": "bible.Hos.6.txt"
     },
     {
-      "name": "bible.402.txt",
-      "url": "bible.402.txt"
+      "name": "bible.Hos.7.txt",
+      "url": "bible.Hos.7.txt"
     },
     {
-      "name": "bible.403.txt",
-      "url": "bible.403.txt"
+      "name": "bible.Hos.8.txt",
+      "url": "bible.Hos.8.txt"
     },
     {
-      "name": "bible.404.txt",
-      "url": "bible.404.txt"
+      "name": "bible.Hos.9.txt",
+      "url": "bible.Hos.9.txt"
     },
     {
-      "name": "bible.405.txt",
-      "url": "bible.405.txt"
+      "name": "bible.Isa.1.txt",
+      "url": "bible.Isa.1.txt"
     },
     {
-      "name": "bible.406.txt",
-      "url": "bible.406.txt"
+      "name": "bible.Isa.10.txt",
+      "url": "bible.Isa.10.txt"
     },
     {
-      "name": "bible.407.txt",
-      "url": "bible.407.txt"
+      "name": "bible.Isa.11.txt",
+      "url": "bible.Isa.11.txt"
     },
     {
-      "name": "bible.408.txt",
-      "url": "bible.408.txt"
+      "name": "bible.Isa.12.txt",
+      "url": "bible.Isa.12.txt"
     },
     {
-      "name": "bible.409.txt",
-      "url": "bible.409.txt"
+      "name": "bible.Isa.13.txt",
+      "url": "bible.Isa.13.txt"
     },
     {
-      "name": "bible.41.txt",
-      "url": "bible.41.txt"
+      "name": "bible.Isa.14.txt",
+      "url": "bible.Isa.14.txt"
     },
     {
-      "name": "bible.410.txt",
-      "url": "bible.410.txt"
+      "name": "bible.Isa.15.txt",
+      "url": "bible.Isa.15.txt"
     },
     {
-      "name": "bible.411.txt",
-      "url": "bible.411.txt"
+      "name": "bible.Isa.16.txt",
+      "url": "bible.Isa.16.txt"
     },
     {
-      "name": "bible.412.txt",
-      "url": "bible.412.txt"
+      "name": "bible.Isa.17.txt",
+      "url": "bible.Isa.17.txt"
     },
     {
-      "name": "bible.413.txt",
-      "url": "bible.413.txt"
+      "name": "bible.Isa.18.txt",
+      "url": "bible.Isa.18.txt"
     },
     {
-      "name": "bible.414.txt",
-      "url": "bible.414.txt"
+      "name": "bible.Isa.19.txt",
+      "url": "bible.Isa.19.txt"
     },
     {
-      "name": "bible.415.txt",
-      "url": "bible.415.txt"
+      "name": "bible.Isa.2.txt",
+      "url": "bible.Isa.2.txt"
     },
     {
-      "name": "bible.416.txt",
-      "url": "bible.416.txt"
+      "name": "bible.Isa.20.txt",
+      "url": "bible.Isa.20.txt"
     },
     {
-      "name": "bible.417.txt",
-      "url": "bible.417.txt"
+      "name": "bible.Isa.21.txt",
+      "url": "bible.Isa.21.txt"
     },
     {
-      "name": "bible.418.txt",
-      "url": "bible.418.txt"
+      "name": "bible.Isa.22.txt",
+      "url": "bible.Isa.22.txt"
     },
     {
-      "name": "bible.419.txt",
-      "url": "bible.419.txt"
+      "name": "bible.Isa.23.txt",
+      "url": "bible.Isa.23.txt"
     },
     {
-      "name": "bible.42.txt",
-      "url": "bible.42.txt"
+      "name": "bible.Isa.24.txt",
+      "url": "bible.Isa.24.txt"
     },
     {
-      "name": "bible.420.txt",
-      "url": "bible.420.txt"
+      "name": "bible.Isa.25.txt",
+      "url": "bible.Isa.25.txt"
     },
     {
-      "name": "bible.421.txt",
-      "url": "bible.421.txt"
+      "name": "bible.Isa.26.txt",
+      "url": "bible.Isa.26.txt"
     },
     {
-      "name": "bible.422.txt",
-      "url": "bible.422.txt"
+      "name": "bible.Isa.27.txt",
+      "url": "bible.Isa.27.txt"
     },
     {
-      "name": "bible.423.txt",
-      "url": "bible.423.txt"
+      "name": "bible.Isa.28.txt",
+      "url": "bible.Isa.28.txt"
     },
     {
-      "name": "bible.424.txt",
-      "url": "bible.424.txt"
+      "name": "bible.Isa.29.txt",
+      "url": "bible.Isa.29.txt"
     },
     {
-      "name": "bible.425.txt",
-      "url": "bible.425.txt"
+      "name": "bible.Isa.3.txt",
+      "url": "bible.Isa.3.txt"
     },
     {
-      "name": "bible.426.txt",
-      "url": "bible.426.txt"
+      "name": "bible.Isa.30.txt",
+      "url": "bible.Isa.30.txt"
     },
     {
-      "name": "bible.427.txt",
-      "url": "bible.427.txt"
+      "name": "bible.Isa.31.txt",
+      "url": "bible.Isa.31.txt"
     },
     {
-      "name": "bible.428.txt",
-      "url": "bible.428.txt"
+      "name": "bible.Isa.32.txt",
+      "url": "bible.Isa.32.txt"
     },
     {
-      "name": "bible.429.txt",
-      "url": "bible.429.txt"
+      "name": "bible.Isa.33.txt",
+      "url": "bible.Isa.33.txt"
     },
     {
-      "name": "bible.43.txt",
-      "url": "bible.43.txt"
+      "name": "bible.Isa.34.txt",
+      "url": "bible.Isa.34.txt"
     },
     {
-      "name": "bible.430.txt",
-      "url": "bible.430.txt"
+      "name": "bible.Isa.35.txt",
+      "url": "bible.Isa.35.txt"
     },
     {
-      "name": "bible.431.txt",
-      "url": "bible.431.txt"
+      "name": "bible.Isa.36.txt",
+      "url": "bible.Isa.36.txt"
     },
     {
-      "name": "bible.432.txt",
-      "url": "bible.432.txt"
+      "name": "bible.Isa.37.txt",
+      "url": "bible.Isa.37.txt"
     },
     {
-      "name": "bible.433.txt",
-      "url": "bible.433.txt"
+      "name": "bible.Isa.38.txt",
+      "url": "bible.Isa.38.txt"
     },
     {
-      "name": "bible.434.txt",
-      "url": "bible.434.txt"
+      "name": "bible.Isa.39.txt",
+      "url": "bible.Isa.39.txt"
     },
     {
-      "name": "bible.435.txt",
-      "url": "bible.435.txt"
+      "name": "bible.Isa.4.txt",
+      "url": "bible.Isa.4.txt"
     },
     {
-      "name": "bible.436.txt",
-      "url": "bible.436.txt"
+      "name": "bible.Isa.40.txt",
+      "url": "bible.Isa.40.txt"
     },
     {
-      "name": "bible.437.txt",
-      "url": "bible.437.txt"
+      "name": "bible.Isa.41.txt",
+      "url": "bible.Isa.41.txt"
     },
     {
-      "name": "bible.438.txt",
-      "url": "bible.438.txt"
+      "name": "bible.Isa.42.txt",
+      "url": "bible.Isa.42.txt"
     },
     {
-      "name": "bible.439.txt",
-      "url": "bible.439.txt"
+      "name": "bible.Isa.43.txt",
+      "url": "bible.Isa.43.txt"
     },
     {
-      "name": "bible.44.txt",
-      "url": "bible.44.txt"
+      "name": "bible.Isa.44.txt",
+      "url": "bible.Isa.44.txt"
     },
     {
-      "name": "bible.440.txt",
-      "url": "bible.440.txt"
+      "name": "bible.Isa.45.txt",
+      "url": "bible.Isa.45.txt"
     },
     {
-      "name": "bible.441.txt",
-      "url": "bible.441.txt"
+      "name": "bible.Isa.46.txt",
+      "url": "bible.Isa.46.txt"
     },
     {
-      "name": "bible.442.txt",
-      "url": "bible.442.txt"
+      "name": "bible.Isa.47.txt",
+      "url": "bible.Isa.47.txt"
     },
     {
-      "name": "bible.443.txt",
-      "url": "bible.443.txt"
+      "name": "bible.Isa.48.txt",
+      "url": "bible.Isa.48.txt"
     },
     {
-      "name": "bible.444.txt",
-      "url": "bible.444.txt"
+      "name": "bible.Isa.49.txt",
+      "url": "bible.Isa.49.txt"
     },
     {
-      "name": "bible.445.txt",
-      "url": "bible.445.txt"
+      "name": "bible.Isa.5.txt",
+      "url": "bible.Isa.5.txt"
     },
     {
-      "name": "bible.446.txt",
-      "url": "bible.446.txt"
+      "name": "bible.Isa.50.txt",
+      "url": "bible.Isa.50.txt"
     },
     {
-      "name": "bible.447.txt",
-      "url": "bible.447.txt"
+      "name": "bible.Isa.51.txt",
+      "url": "bible.Isa.51.txt"
     },
     {
-      "name": "bible.448.txt",
-      "url": "bible.448.txt"
+      "name": "bible.Isa.52.txt",
+      "url": "bible.Isa.52.txt"
     },
     {
-      "name": "bible.449.txt",
-      "url": "bible.449.txt"
+      "name": "bible.Isa.53.txt",
+      "url": "bible.Isa.53.txt"
     },
     {
-      "name": "bible.45.txt",
-      "url": "bible.45.txt"
+      "name": "bible.Isa.54.txt",
+      "url": "bible.Isa.54.txt"
     },
     {
-      "name": "bible.450.txt",
-      "url": "bible.450.txt"
+      "name": "bible.Isa.55.txt",
+      "url": "bible.Isa.55.txt"
     },
     {
-      "name": "bible.451.txt",
-      "url": "bible.451.txt"
+      "name": "bible.Isa.56.txt",
+      "url": "bible.Isa.56.txt"
     },
     {
-      "name": "bible.452.txt",
-      "url": "bible.452.txt"
+      "name": "bible.Isa.57.txt",
+      "url": "bible.Isa.57.txt"
     },
     {
-      "name": "bible.453.txt",
-      "url": "bible.453.txt"
+      "name": "bible.Isa.58.txt",
+      "url": "bible.Isa.58.txt"
     },
     {
-      "name": "bible.454.txt",
-      "url": "bible.454.txt"
+      "name": "bible.Isa.59.txt",
+      "url": "bible.Isa.59.txt"
     },
     {
-      "name": "bible.455.txt",
-      "url": "bible.455.txt"
+      "name": "bible.Isa.6.txt",
+      "url": "bible.Isa.6.txt"
     },
     {
-      "name": "bible.456.txt",
-      "url": "bible.456.txt"
+      "name": "bible.Isa.60.txt",
+      "url": "bible.Isa.60.txt"
     },
     {
-      "name": "bible.457.txt",
-      "url": "bible.457.txt"
+      "name": "bible.Isa.61.txt",
+      "url": "bible.Isa.61.txt"
     },
     {
-      "name": "bible.458.txt",
-      "url": "bible.458.txt"
+      "name": "bible.Isa.62.txt",
+      "url": "bible.Isa.62.txt"
     },
     {
-      "name": "bible.459.txt",
-      "url": "bible.459.txt"
+      "name": "bible.Isa.63.txt",
+      "url": "bible.Isa.63.txt"
     },
     {
-      "name": "bible.46.txt",
-      "url": "bible.46.txt"
+      "name": "bible.Isa.64.txt",
+      "url": "bible.Isa.64.txt"
     },
     {
-      "name": "bible.460.txt",
-      "url": "bible.460.txt"
+      "name": "bible.Isa.65.txt",
+      "url": "bible.Isa.65.txt"
     },
     {
-      "name": "bible.461.txt",
-      "url": "bible.461.txt"
+      "name": "bible.Isa.66.txt",
+      "url": "bible.Isa.66.txt"
     },
     {
-      "name": "bible.462.txt",
-      "url": "bible.462.txt"
+      "name": "bible.Isa.7.txt",
+      "url": "bible.Isa.7.txt"
     },
     {
-      "name": "bible.463.txt",
-      "url": "bible.463.txt"
+      "name": "bible.Isa.8.txt",
+      "url": "bible.Isa.8.txt"
     },
     {
-      "name": "bible.464.txt",
-      "url": "bible.464.txt"
+      "name": "bible.Isa.9.txt",
+      "url": "bible.Isa.9.txt"
     },
     {
-      "name": "bible.465.txt",
-      "url": "bible.465.txt"
+      "name": "bible.Jam.1.txt",
+      "url": "bible.Jam.1.txt"
     },
     {
-      "name": "bible.466.txt",
-      "url": "bible.466.txt"
+      "name": "bible.Jam.2.txt",
+      "url": "bible.Jam.2.txt"
     },
     {
-      "name": "bible.467.txt",
-      "url": "bible.467.txt"
+      "name": "bible.Jam.3.txt",
+      "url": "bible.Jam.3.txt"
     },
     {
-      "name": "bible.468.txt",
-      "url": "bible.468.txt"
+      "name": "bible.Jam.4.txt",
+      "url": "bible.Jam.4.txt"
     },
     {
-      "name": "bible.469.txt",
-      "url": "bible.469.txt"
+      "name": "bible.Jam.5.txt",
+      "url": "bible.Jam.5.txt"
     },
     {
-      "name": "bible.47.txt",
-      "url": "bible.47.txt"
+      "name": "bible.Jdg.1.txt",
+      "url": "bible.Jdg.1.txt"
     },
     {
-      "name": "bible.470.txt",
-      "url": "bible.470.txt"
+      "name": "bible.Jdg.10.txt",
+      "url": "bible.Jdg.10.txt"
     },
     {
-      "name": "bible.471.txt",
-      "url": "bible.471.txt"
+      "name": "bible.Jdg.11.txt",
+      "url": "bible.Jdg.11.txt"
     },
     {
-      "name": "bible.472.txt",
-      "url": "bible.472.txt"
+      "name": "bible.Jdg.12.txt",
+      "url": "bible.Jdg.12.txt"
     },
     {
-      "name": "bible.473.txt",
-      "url": "bible.473.txt"
+      "name": "bible.Jdg.13.txt",
+      "url": "bible.Jdg.13.txt"
     },
     {
-      "name": "bible.474.txt",
-      "url": "bible.474.txt"
+      "name": "bible.Jdg.14.txt",
+      "url": "bible.Jdg.14.txt"
     },
     {
-      "name": "bible.475.txt",
-      "url": "bible.475.txt"
+      "name": "bible.Jdg.15.txt",
+      "url": "bible.Jdg.15.txt"
     },
     {
-      "name": "bible.476.txt",
-      "url": "bible.476.txt"
+      "name": "bible.Jdg.16.txt",
+      "url": "bible.Jdg.16.txt"
     },
     {
-      "name": "bible.477.txt",
-      "url": "bible.477.txt"
+      "name": "bible.Jdg.17.txt",
+      "url": "bible.Jdg.17.txt"
     },
     {
-      "name": "bible.478.txt",
-      "url": "bible.478.txt"
+      "name": "bible.Jdg.18.txt",
+      "url": "bible.Jdg.18.txt"
     },
     {
-      "name": "bible.479.txt",
-      "url": "bible.479.txt"
+      "name": "bible.Jdg.19.txt",
+      "url": "bible.Jdg.19.txt"
     },
     {
-      "name": "bible.48.txt",
-      "url": "bible.48.txt"
+      "name": "bible.Jdg.2.txt",
+      "url": "bible.Jdg.2.txt"
     },
     {
-      "name": "bible.480.txt",
-      "url": "bible.480.txt"
+      "name": "bible.Jdg.20.txt",
+      "url": "bible.Jdg.20.txt"
     },
     {
-      "name": "bible.481.txt",
-      "url": "bible.481.txt"
+      "name": "bible.Jdg.21.txt",
+      "url": "bible.Jdg.21.txt"
     },
     {
-      "name": "bible.482.txt",
-      "url": "bible.482.txt"
+      "name": "bible.Jdg.3.txt",
+      "url": "bible.Jdg.3.txt"
     },
     {
-      "name": "bible.483.txt",
-      "url": "bible.483.txt"
+      "name": "bible.Jdg.4.txt",
+      "url": "bible.Jdg.4.txt"
     },
     {
-      "name": "bible.484.txt",
-      "url": "bible.484.txt"
+      "name": "bible.Jdg.5.txt",
+      "url": "bible.Jdg.5.txt"
     },
     {
-      "name": "bible.485.txt",
-      "url": "bible.485.txt"
+      "name": "bible.Jdg.6.txt",
+      "url": "bible.Jdg.6.txt"
     },
     {
-      "name": "bible.486.txt",
-      "url": "bible.486.txt"
+      "name": "bible.Jdg.7.txt",
+      "url": "bible.Jdg.7.txt"
     },
     {
-      "name": "bible.487.txt",
-      "url": "bible.487.txt"
+      "name": "bible.Jdg.8.txt",
+      "url": "bible.Jdg.8.txt"
     },
     {
-      "name": "bible.488.txt",
-      "url": "bible.488.txt"
+      "name": "bible.Jdg.9.txt",
+      "url": "bible.Jdg.9.txt"
     },
     {
-      "name": "bible.489.txt",
-      "url": "bible.489.txt"
+      "name": "bible.Jer.1.txt",
+      "url": "bible.Jer.1.txt"
     },
     {
-      "name": "bible.49.txt",
-      "url": "bible.49.txt"
+      "name": "bible.Jer.10.txt",
+      "url": "bible.Jer.10.txt"
     },
     {
-      "name": "bible.490.txt",
-      "url": "bible.490.txt"
+      "name": "bible.Jer.11.txt",
+      "url": "bible.Jer.11.txt"
     },
     {
-      "name": "bible.491.txt",
-      "url": "bible.491.txt"
+      "name": "bible.Jer.12.txt",
+      "url": "bible.Jer.12.txt"
     },
     {
-      "name": "bible.492.txt",
-      "url": "bible.492.txt"
+      "name": "bible.Jer.13.txt",
+      "url": "bible.Jer.13.txt"
     },
     {
-      "name": "bible.493.txt",
-      "url": "bible.493.txt"
+      "name": "bible.Jer.14.txt",
+      "url": "bible.Jer.14.txt"
     },
     {
-      "name": "bible.494.txt",
-      "url": "bible.494.txt"
+      "name": "bible.Jer.15.txt",
+      "url": "bible.Jer.15.txt"
     },
     {
-      "name": "bible.495.txt",
-      "url": "bible.495.txt"
+      "name": "bible.Jer.16.txt",
+      "url": "bible.Jer.16.txt"
     },
     {
-      "name": "bible.496.txt",
-      "url": "bible.496.txt"
+      "name": "bible.Jer.17.txt",
+      "url": "bible.Jer.17.txt"
     },
     {
-      "name": "bible.497.txt",
-      "url": "bible.497.txt"
+      "name": "bible.Jer.18.txt",
+      "url": "bible.Jer.18.txt"
     },
     {
-      "name": "bible.498.txt",
-      "url": "bible.498.txt"
+      "name": "bible.Jer.19.txt",
+      "url": "bible.Jer.19.txt"
     },
     {
-      "name": "bible.499.txt",
-      "url": "bible.499.txt"
+      "name": "bible.Jer.2.txt",
+      "url": "bible.Jer.2.txt"
     },
     {
-      "name": "bible.5.txt",
-      "url": "bible.5.txt"
+      "name": "bible.Jer.20.txt",
+      "url": "bible.Jer.20.txt"
     },
     {
-      "name": "bible.50.txt",
-      "url": "bible.50.txt"
+      "name": "bible.Jer.21.txt",
+      "url": "bible.Jer.21.txt"
     },
     {
-      "name": "bible.500.txt",
-      "url": "bible.500.txt"
+      "name": "bible.Jer.22.txt",
+      "url": "bible.Jer.22.txt"
     },
     {
-      "name": "bible.501.txt",
-      "url": "bible.501.txt"
+      "name": "bible.Jer.23.txt",
+      "url": "bible.Jer.23.txt"
     },
     {
-      "name": "bible.502.txt",
-      "url": "bible.502.txt"
+      "name": "bible.Jer.24.txt",
+      "url": "bible.Jer.24.txt"
     },
     {
-      "name": "bible.503.txt",
-      "url": "bible.503.txt"
+      "name": "bible.Jer.25.txt",
+      "url": "bible.Jer.25.txt"
     },
     {
-      "name": "bible.504.txt",
-      "url": "bible.504.txt"
+      "name": "bible.Jer.26.txt",
+      "url": "bible.Jer.26.txt"
     },
     {
-      "name": "bible.505.txt",
-      "url": "bible.505.txt"
+      "name": "bible.Jer.27.txt",
+      "url": "bible.Jer.27.txt"
     },
     {
-      "name": "bible.506.txt",
-      "url": "bible.506.txt"
+      "name": "bible.Jer.28.txt",
+      "url": "bible.Jer.28.txt"
     },
     {
-      "name": "bible.507.txt",
-      "url": "bible.507.txt"
+      "name": "bible.Jer.29.txt",
+      "url": "bible.Jer.29.txt"
     },
     {
-      "name": "bible.508.txt",
-      "url": "bible.508.txt"
+      "name": "bible.Jer.3.txt",
+      "url": "bible.Jer.3.txt"
     },
     {
-      "name": "bible.509.txt",
-      "url": "bible.509.txt"
+      "name": "bible.Jer.30.txt",
+      "url": "bible.Jer.30.txt"
     },
     {
-      "name": "bible.51.txt",
-      "url": "bible.51.txt"
+      "name": "bible.Jer.31.txt",
+      "url": "bible.Jer.31.txt"
     },
     {
-      "name": "bible.510.txt",
-      "url": "bible.510.txt"
+      "name": "bible.Jer.32.txt",
+      "url": "bible.Jer.32.txt"
     },
     {
-      "name": "bible.511.txt",
-      "url": "bible.511.txt"
+      "name": "bible.Jer.33.txt",
+      "url": "bible.Jer.33.txt"
     },
     {
-      "name": "bible.512.txt",
-      "url": "bible.512.txt"
+      "name": "bible.Jer.34.txt",
+      "url": "bible.Jer.34.txt"
     },
     {
-      "name": "bible.513.txt",
-      "url": "bible.513.txt"
+      "name": "bible.Jer.35.txt",
+      "url": "bible.Jer.35.txt"
     },
     {
-      "name": "bible.514.txt",
-      "url": "bible.514.txt"
+      "name": "bible.Jer.36.txt",
+      "url": "bible.Jer.36.txt"
     },
     {
-      "name": "bible.515.txt",
-      "url": "bible.515.txt"
+      "name": "bible.Jer.37.txt",
+      "url": "bible.Jer.37.txt"
     },
     {
-      "name": "bible.516.txt",
-      "url": "bible.516.txt"
+      "name": "bible.Jer.38.txt",
+      "url": "bible.Jer.38.txt"
     },
     {
-      "name": "bible.517.txt",
-      "url": "bible.517.txt"
+      "name": "bible.Jer.39.txt",
+      "url": "bible.Jer.39.txt"
     },
     {
-      "name": "bible.518.txt",
-      "url": "bible.518.txt"
+      "name": "bible.Jer.4.txt",
+      "url": "bible.Jer.4.txt"
     },
     {
-      "name": "bible.519.txt",
-      "url": "bible.519.txt"
+      "name": "bible.Jer.40.txt",
+      "url": "bible.Jer.40.txt"
     },
     {
-      "name": "bible.52.txt",
-      "url": "bible.52.txt"
+      "name": "bible.Jer.41.txt",
+      "url": "bible.Jer.41.txt"
     },
     {
-      "name": "bible.520.txt",
-      "url": "bible.520.txt"
+      "name": "bible.Jer.42.txt",
+      "url": "bible.Jer.42.txt"
     },
     {
-      "name": "bible.521.txt",
-      "url": "bible.521.txt"
+      "name": "bible.Jer.43.txt",
+      "url": "bible.Jer.43.txt"
     },
     {
-      "name": "bible.522.txt",
-      "url": "bible.522.txt"
+      "name": "bible.Jer.44.txt",
+      "url": "bible.Jer.44.txt"
     },
     {
-      "name": "bible.523.txt",
-      "url": "bible.523.txt"
+      "name": "bible.Jer.45.txt",
+      "url": "bible.Jer.45.txt"
     },
     {
-      "name": "bible.524.txt",
-      "url": "bible.524.txt"
+      "name": "bible.Jer.46.txt",
+      "url": "bible.Jer.46.txt"
     },
     {
-      "name": "bible.525.txt",
-      "url": "bible.525.txt"
+      "name": "bible.Jer.47.txt",
+      "url": "bible.Jer.47.txt"
     },
     {
-      "name": "bible.526.txt",
-      "url": "bible.526.txt"
+      "name": "bible.Jer.48.txt",
+      "url": "bible.Jer.48.txt"
     },
     {
-      "name": "bible.527.txt",
-      "url": "bible.527.txt"
+      "name": "bible.Jer.49.txt",
+      "url": "bible.Jer.49.txt"
     },
     {
-      "name": "bible.528.txt",
-      "url": "bible.528.txt"
+      "name": "bible.Jer.5.txt",
+      "url": "bible.Jer.5.txt"
     },
     {
-      "name": "bible.529.txt",
-      "url": "bible.529.txt"
+      "name": "bible.Jer.50.txt",
+      "url": "bible.Jer.50.txt"
     },
     {
-      "name": "bible.53.txt",
-      "url": "bible.53.txt"
+      "name": "bible.Jer.51.txt",
+      "url": "bible.Jer.51.txt"
     },
     {
-      "name": "bible.530.txt",
-      "url": "bible.530.txt"
+      "name": "bible.Jer.52.txt",
+      "url": "bible.Jer.52.txt"
     },
     {
-      "name": "bible.531.txt",
-      "url": "bible.531.txt"
+      "name": "bible.Jer.6.txt",
+      "url": "bible.Jer.6.txt"
     },
     {
-      "name": "bible.532.txt",
-      "url": "bible.532.txt"
+      "name": "bible.Jer.7.txt",
+      "url": "bible.Jer.7.txt"
     },
     {
-      "name": "bible.533.txt",
-      "url": "bible.533.txt"
+      "name": "bible.Jer.8.txt",
+      "url": "bible.Jer.8.txt"
     },
     {
-      "name": "bible.534.txt",
-      "url": "bible.534.txt"
+      "name": "bible.Jer.9.txt",
+      "url": "bible.Jer.9.txt"
     },
     {
-      "name": "bible.535.txt",
-      "url": "bible.535.txt"
+      "name": "bible.Job.1.txt",
+      "url": "bible.Job.1.txt"
     },
     {
-      "name": "bible.536.txt",
-      "url": "bible.536.txt"
+      "name": "bible.Job.10.txt",
+      "url": "bible.Job.10.txt"
     },
     {
-      "name": "bible.537.txt",
-      "url": "bible.537.txt"
+      "name": "bible.Job.11.txt",
+      "url": "bible.Job.11.txt"
     },
     {
-      "name": "bible.538.txt",
-      "url": "bible.538.txt"
+      "name": "bible.Job.12.txt",
+      "url": "bible.Job.12.txt"
     },
     {
-      "name": "bible.539.txt",
-      "url": "bible.539.txt"
+      "name": "bible.Job.13.txt",
+      "url": "bible.Job.13.txt"
     },
     {
-      "name": "bible.54.txt",
-      "url": "bible.54.txt"
+      "name": "bible.Job.14.txt",
+      "url": "bible.Job.14.txt"
     },
     {
-      "name": "bible.540.txt",
-      "url": "bible.540.txt"
+      "name": "bible.Job.15.txt",
+      "url": "bible.Job.15.txt"
     },
     {
-      "name": "bible.541.txt",
-      "url": "bible.541.txt"
+      "name": "bible.Job.16.txt",
+      "url": "bible.Job.16.txt"
     },
     {
-      "name": "bible.542.txt",
-      "url": "bible.542.txt"
+      "name": "bible.Job.17.txt",
+      "url": "bible.Job.17.txt"
     },
     {
-      "name": "bible.543.txt",
-      "url": "bible.543.txt"
+      "name": "bible.Job.18.txt",
+      "url": "bible.Job.18.txt"
     },
     {
-      "name": "bible.544.txt",
-      "url": "bible.544.txt"
+      "name": "bible.Job.19.txt",
+      "url": "bible.Job.19.txt"
     },
     {
-      "name": "bible.545.txt",
-      "url": "bible.545.txt"
+      "name": "bible.Job.2.txt",
+      "url": "bible.Job.2.txt"
     },
     {
-      "name": "bible.546.txt",
-      "url": "bible.546.txt"
+      "name": "bible.Job.20.txt",
+      "url": "bible.Job.20.txt"
     },
     {
-      "name": "bible.547.txt",
-      "url": "bible.547.txt"
+      "name": "bible.Job.21.txt",
+      "url": "bible.Job.21.txt"
     },
     {
-      "name": "bible.548.txt",
-      "url": "bible.548.txt"
+      "name": "bible.Job.22.txt",
+      "url": "bible.Job.22.txt"
     },
     {
-      "name": "bible.549.txt",
-      "url": "bible.549.txt"
+      "name": "bible.Job.23.txt",
+      "url": "bible.Job.23.txt"
     },
     {
-      "name": "bible.55.txt",
-      "url": "bible.55.txt"
+      "name": "bible.Job.24.txt",
+      "url": "bible.Job.24.txt"
     },
     {
-      "name": "bible.550.txt",
-      "url": "bible.550.txt"
+      "name": "bible.Job.25.txt",
+      "url": "bible.Job.25.txt"
     },
     {
-      "name": "bible.551.txt",
-      "url": "bible.551.txt"
+      "name": "bible.Job.26.txt",
+      "url": "bible.Job.26.txt"
     },
     {
-      "name": "bible.552.txt",
-      "url": "bible.552.txt"
+      "name": "bible.Job.27.txt",
+      "url": "bible.Job.27.txt"
     },
     {
-      "name": "bible.553.txt",
-      "url": "bible.553.txt"
+      "name": "bible.Job.28.txt",
+      "url": "bible.Job.28.txt"
     },
     {
-      "name": "bible.554.txt",
-      "url": "bible.554.txt"
+      "name": "bible.Job.29.txt",
+      "url": "bible.Job.29.txt"
     },
     {
-      "name": "bible.555.txt",
-      "url": "bible.555.txt"
+      "name": "bible.Job.3.txt",
+      "url": "bible.Job.3.txt"
     },
     {
-      "name": "bible.556.txt",
-      "url": "bible.556.txt"
+      "name": "bible.Job.30.txt",
+      "url": "bible.Job.30.txt"
     },
     {
-      "name": "bible.557.txt",
-      "url": "bible.557.txt"
+      "name": "bible.Job.31.txt",
+      "url": "bible.Job.31.txt"
     },
     {
-      "name": "bible.558.txt",
-      "url": "bible.558.txt"
+      "name": "bible.Job.32.txt",
+      "url": "bible.Job.32.txt"
     },
     {
-      "name": "bible.559.txt",
-      "url": "bible.559.txt"
+      "name": "bible.Job.33.txt",
+      "url": "bible.Job.33.txt"
     },
     {
-      "name": "bible.56.txt",
-      "url": "bible.56.txt"
+      "name": "bible.Job.34.txt",
+      "url": "bible.Job.34.txt"
     },
     {
-      "name": "bible.560.txt",
-      "url": "bible.560.txt"
+      "name": "bible.Job.35.txt",
+      "url": "bible.Job.35.txt"
     },
     {
-      "name": "bible.561.txt",
-      "url": "bible.561.txt"
+      "name": "bible.Job.36.txt",
+      "url": "bible.Job.36.txt"
     },
     {
-      "name": "bible.562.txt",
-      "url": "bible.562.txt"
+      "name": "bible.Job.37.txt",
+      "url": "bible.Job.37.txt"
     },
     {
-      "name": "bible.563.txt",
-      "url": "bible.563.txt"
+      "name": "bible.Job.38.txt",
+      "url": "bible.Job.38.txt"
     },
     {
-      "name": "bible.564.txt",
-      "url": "bible.564.txt"
+      "name": "bible.Job.39.txt",
+      "url": "bible.Job.39.txt"
     },
     {
-      "name": "bible.565.txt",
-      "url": "bible.565.txt"
+      "name": "bible.Job.4.txt",
+      "url": "bible.Job.4.txt"
     },
     {
-      "name": "bible.566.txt",
-      "url": "bible.566.txt"
+      "name": "bible.Job.40.txt",
+      "url": "bible.Job.40.txt"
     },
     {
-      "name": "bible.567.txt",
-      "url": "bible.567.txt"
+      "name": "bible.Job.41.txt",
+      "url": "bible.Job.41.txt"
     },
     {
-      "name": "bible.568.txt",
-      "url": "bible.568.txt"
+      "name": "bible.Job.42.txt",
+      "url": "bible.Job.42.txt"
     },
     {
-      "name": "bible.569.txt",
-      "url": "bible.569.txt"
+      "name": "bible.Job.5.txt",
+      "url": "bible.Job.5.txt"
     },
     {
-      "name": "bible.57.txt",
-      "url": "bible.57.txt"
+      "name": "bible.Job.6.txt",
+      "url": "bible.Job.6.txt"
     },
     {
-      "name": "bible.570.txt",
-      "url": "bible.570.txt"
+      "name": "bible.Job.7.txt",
+      "url": "bible.Job.7.txt"
     },
     {
-      "name": "bible.571.txt",
-      "url": "bible.571.txt"
+      "name": "bible.Job.8.txt",
+      "url": "bible.Job.8.txt"
     },
     {
-      "name": "bible.572.txt",
-      "url": "bible.572.txt"
+      "name": "bible.Job.9.txt",
+      "url": "bible.Job.9.txt"
     },
     {
-      "name": "bible.573.txt",
-      "url": "bible.573.txt"
+      "name": "bible.Joe.1.txt",
+      "url": "bible.Joe.1.txt"
     },
     {
-      "name": "bible.574.txt",
-      "url": "bible.574.txt"
+      "name": "bible.Joe.2.txt",
+      "url": "bible.Joe.2.txt"
     },
     {
-      "name": "bible.575.txt",
-      "url": "bible.575.txt"
+      "name": "bible.Joe.3.txt",
+      "url": "bible.Joe.3.txt"
     },
     {
-      "name": "bible.576.txt",
-      "url": "bible.576.txt"
+      "name": "bible.Joh.1.txt",
+      "url": "bible.Joh.1.txt"
     },
     {
-      "name": "bible.577.txt",
-      "url": "bible.577.txt"
+      "name": "bible.Joh.10.txt",
+      "url": "bible.Joh.10.txt"
     },
     {
-      "name": "bible.578.txt",
-      "url": "bible.578.txt"
+      "name": "bible.Joh.11.txt",
+      "url": "bible.Joh.11.txt"
     },
     {
-      "name": "bible.579.txt",
-      "url": "bible.579.txt"
+      "name": "bible.Joh.12.txt",
+      "url": "bible.Joh.12.txt"
     },
     {
-      "name": "bible.58.txt",
-      "url": "bible.58.txt"
+      "name": "bible.Joh.13.txt",
+      "url": "bible.Joh.13.txt"
     },
     {
-      "name": "bible.580.txt",
-      "url": "bible.580.txt"
+      "name": "bible.Joh.14.txt",
+      "url": "bible.Joh.14.txt"
     },
     {
-      "name": "bible.581.txt",
-      "url": "bible.581.txt"
+      "name": "bible.Joh.15.txt",
+      "url": "bible.Joh.15.txt"
     },
     {
-      "name": "bible.582.txt",
-      "url": "bible.582.txt"
+      "name": "bible.Joh.16.txt",
+      "url": "bible.Joh.16.txt"
     },
     {
-      "name": "bible.583.txt",
-      "url": "bible.583.txt"
+      "name": "bible.Joh.17.txt",
+      "url": "bible.Joh.17.txt"
     },
     {
-      "name": "bible.584.txt",
-      "url": "bible.584.txt"
+      "name": "bible.Joh.18.txt",
+      "url": "bible.Joh.18.txt"
     },
     {
-      "name": "bible.585.txt",
-      "url": "bible.585.txt"
+      "name": "bible.Joh.19.txt",
+      "url": "bible.Joh.19.txt"
     },
     {
-      "name": "bible.586.txt",
-      "url": "bible.586.txt"
+      "name": "bible.Joh.2.txt",
+      "url": "bible.Joh.2.txt"
     },
     {
-      "name": "bible.587.txt",
-      "url": "bible.587.txt"
+      "name": "bible.Joh.20.txt",
+      "url": "bible.Joh.20.txt"
     },
     {
-      "name": "bible.588.txt",
-      "url": "bible.588.txt"
+      "name": "bible.Joh.21.txt",
+      "url": "bible.Joh.21.txt"
     },
     {
-      "name": "bible.589.txt",
-      "url": "bible.589.txt"
+      "name": "bible.Joh.3.txt",
+      "url": "bible.Joh.3.txt"
     },
     {
-      "name": "bible.59.txt",
-      "url": "bible.59.txt"
+      "name": "bible.Joh.4.txt",
+      "url": "bible.Joh.4.txt"
     },
     {
-      "name": "bible.590.txt",
-      "url": "bible.590.txt"
+      "name": "bible.Joh.5.txt",
+      "url": "bible.Joh.5.txt"
     },
     {
-      "name": "bible.591.txt",
-      "url": "bible.591.txt"
+      "name": "bible.Joh.6.txt",
+      "url": "bible.Joh.6.txt"
     },
     {
-      "name": "bible.592.txt",
-      "url": "bible.592.txt"
+      "name": "bible.Joh.7.txt",
+      "url": "bible.Joh.7.txt"
     },
     {
-      "name": "bible.593.txt",
-      "url": "bible.593.txt"
+      "name": "bible.Joh.8.txt",
+      "url": "bible.Joh.8.txt"
     },
     {
-      "name": "bible.594.txt",
-      "url": "bible.594.txt"
+      "name": "bible.Joh.9.txt",
+      "url": "bible.Joh.9.txt"
     },
     {
-      "name": "bible.595.txt",
-      "url": "bible.595.txt"
+      "name": "bible.Jon.1.txt",
+      "url": "bible.Jon.1.txt"
     },
     {
-      "name": "bible.596.txt",
-      "url": "bible.596.txt"
+      "name": "bible.Jon.2.txt",
+      "url": "bible.Jon.2.txt"
     },
     {
-      "name": "bible.597.txt",
-      "url": "bible.597.txt"
+      "name": "bible.Jon.3.txt",
+      "url": "bible.Jon.3.txt"
     },
     {
-      "name": "bible.598.txt",
-      "url": "bible.598.txt"
+      "name": "bible.Jon.4.txt",
+      "url": "bible.Jon.4.txt"
     },
     {
-      "name": "bible.599.txt",
-      "url": "bible.599.txt"
+      "name": "bible.Jos.1.txt",
+      "url": "bible.Jos.1.txt"
     },
     {
-      "name": "bible.6.txt",
-      "url": "bible.6.txt"
+      "name": "bible.Jos.10.txt",
+      "url": "bible.Jos.10.txt"
     },
     {
-      "name": "bible.60.txt",
-      "url": "bible.60.txt"
+      "name": "bible.Jos.11.txt",
+      "url": "bible.Jos.11.txt"
     },
     {
-      "name": "bible.600.txt",
-      "url": "bible.600.txt"
+      "name": "bible.Jos.12.txt",
+      "url": "bible.Jos.12.txt"
     },
     {
-      "name": "bible.601.txt",
-      "url": "bible.601.txt"
+      "name": "bible.Jos.13.txt",
+      "url": "bible.Jos.13.txt"
     },
     {
-      "name": "bible.602.txt",
-      "url": "bible.602.txt"
+      "name": "bible.Jos.14.txt",
+      "url": "bible.Jos.14.txt"
     },
     {
-      "name": "bible.603.txt",
-      "url": "bible.603.txt"
+      "name": "bible.Jos.15.txt",
+      "url": "bible.Jos.15.txt"
     },
     {
-      "name": "bible.604.txt",
-      "url": "bible.604.txt"
+      "name": "bible.Jos.16.txt",
+      "url": "bible.Jos.16.txt"
     },
     {
-      "name": "bible.605.txt",
-      "url": "bible.605.txt"
+      "name": "bible.Jos.17.txt",
+      "url": "bible.Jos.17.txt"
     },
     {
-      "name": "bible.606.txt",
-      "url": "bible.606.txt"
+      "name": "bible.Jos.18.txt",
+      "url": "bible.Jos.18.txt"
     },
     {
-      "name": "bible.607.txt",
-      "url": "bible.607.txt"
+      "name": "bible.Jos.19.txt",
+      "url": "bible.Jos.19.txt"
     },
     {
-      "name": "bible.608.txt",
-      "url": "bible.608.txt"
+      "name": "bible.Jos.2.txt",
+      "url": "bible.Jos.2.txt"
     },
     {
-      "name": "bible.609.txt",
-      "url": "bible.609.txt"
+      "name": "bible.Jos.20.txt",
+      "url": "bible.Jos.20.txt"
     },
     {
-      "name": "bible.61.txt",
-      "url": "bible.61.txt"
+      "name": "bible.Jos.21.txt",
+      "url": "bible.Jos.21.txt"
     },
     {
-      "name": "bible.610.txt",
-      "url": "bible.610.txt"
+      "name": "bible.Jos.22.txt",
+      "url": "bible.Jos.22.txt"
     },
     {
-      "name": "bible.611.txt",
-      "url": "bible.611.txt"
+      "name": "bible.Jos.23.txt",
+      "url": "bible.Jos.23.txt"
     },
     {
-      "name": "bible.612.txt",
-      "url": "bible.612.txt"
+      "name": "bible.Jos.24.txt",
+      "url": "bible.Jos.24.txt"
     },
     {
-      "name": "bible.613.txt",
-      "url": "bible.613.txt"
+      "name": "bible.Jos.3.txt",
+      "url": "bible.Jos.3.txt"
     },
     {
-      "name": "bible.614.txt",
-      "url": "bible.614.txt"
+      "name": "bible.Jos.4.txt",
+      "url": "bible.Jos.4.txt"
     },
     {
-      "name": "bible.615.txt",
-      "url": "bible.615.txt"
+      "name": "bible.Jos.5.txt",
+      "url": "bible.Jos.5.txt"
     },
     {
-      "name": "bible.616.txt",
-      "url": "bible.616.txt"
+      "name": "bible.Jos.6.txt",
+      "url": "bible.Jos.6.txt"
     },
     {
-      "name": "bible.617.txt",
-      "url": "bible.617.txt"
+      "name": "bible.Jos.7.txt",
+      "url": "bible.Jos.7.txt"
     },
     {
-      "name": "bible.618.txt",
-      "url": "bible.618.txt"
+      "name": "bible.Jos.8.txt",
+      "url": "bible.Jos.8.txt"
     },
     {
-      "name": "bible.619.txt",
-      "url": "bible.619.txt"
+      "name": "bible.Jos.9.txt",
+      "url": "bible.Jos.9.txt"
     },
     {
-      "name": "bible.62.txt",
-      "url": "bible.62.txt"
+      "name": "bible.Jud.1.txt",
+      "url": "bible.Jud.1.txt"
     },
     {
-      "name": "bible.620.txt",
-      "url": "bible.620.txt"
+      "name": "bible.Lam.1.txt",
+      "url": "bible.Lam.1.txt"
     },
     {
-      "name": "bible.621.txt",
-      "url": "bible.621.txt"
+      "name": "bible.Lam.2.txt",
+      "url": "bible.Lam.2.txt"
     },
     {
-      "name": "bible.622.txt",
-      "url": "bible.622.txt"
+      "name": "bible.Lam.3.txt",
+      "url": "bible.Lam.3.txt"
     },
     {
-      "name": "bible.623.txt",
-      "url": "bible.623.txt"
+      "name": "bible.Lam.4.txt",
+      "url": "bible.Lam.4.txt"
     },
     {
-      "name": "bible.624.txt",
-      "url": "bible.624.txt"
+      "name": "bible.Lam.5.txt",
+      "url": "bible.Lam.5.txt"
     },
     {
-      "name": "bible.625.txt",
-      "url": "bible.625.txt"
+      "name": "bible.Lev.1.txt",
+      "url": "bible.Lev.1.txt"
     },
     {
-      "name": "bible.626.txt",
-      "url": "bible.626.txt"
+      "name": "bible.Lev.10.txt",
+      "url": "bible.Lev.10.txt"
     },
     {
-      "name": "bible.627.txt",
-      "url": "bible.627.txt"
+      "name": "bible.Lev.11.txt",
+      "url": "bible.Lev.11.txt"
     },
     {
-      "name": "bible.628.txt",
-      "url": "bible.628.txt"
+      "name": "bible.Lev.12.txt",
+      "url": "bible.Lev.12.txt"
     },
     {
-      "name": "bible.629.txt",
-      "url": "bible.629.txt"
+      "name": "bible.Lev.13.txt",
+      "url": "bible.Lev.13.txt"
     },
     {
-      "name": "bible.63.txt",
-      "url": "bible.63.txt"
+      "name": "bible.Lev.14.txt",
+      "url": "bible.Lev.14.txt"
     },
     {
-      "name": "bible.630.txt",
-      "url": "bible.630.txt"
+      "name": "bible.Lev.15.txt",
+      "url": "bible.Lev.15.txt"
     },
     {
-      "name": "bible.631.txt",
-      "url": "bible.631.txt"
+      "name": "bible.Lev.16.txt",
+      "url": "bible.Lev.16.txt"
     },
     {
-      "name": "bible.632.txt",
-      "url": "bible.632.txt"
+      "name": "bible.Lev.17.txt",
+      "url": "bible.Lev.17.txt"
     },
     {
-      "name": "bible.633.txt",
-      "url": "bible.633.txt"
+      "name": "bible.Lev.18.txt",
+      "url": "bible.Lev.18.txt"
     },
     {
-      "name": "bible.634.txt",
-      "url": "bible.634.txt"
+      "name": "bible.Lev.19.txt",
+      "url": "bible.Lev.19.txt"
     },
     {
-      "name": "bible.635.txt",
-      "url": "bible.635.txt"
+      "name": "bible.Lev.2.txt",
+      "url": "bible.Lev.2.txt"
     },
     {
-      "name": "bible.636.txt",
-      "url": "bible.636.txt"
+      "name": "bible.Lev.20.txt",
+      "url": "bible.Lev.20.txt"
     },
     {
-      "name": "bible.637.txt",
-      "url": "bible.637.txt"
+      "name": "bible.Lev.21.txt",
+      "url": "bible.Lev.21.txt"
     },
     {
-      "name": "bible.638.txt",
-      "url": "bible.638.txt"
+      "name": "bible.Lev.22.txt",
+      "url": "bible.Lev.22.txt"
     },
     {
-      "name": "bible.639.txt",
-      "url": "bible.639.txt"
+      "name": "bible.Lev.23.txt",
+      "url": "bible.Lev.23.txt"
     },
     {
-      "name": "bible.64.txt",
-      "url": "bible.64.txt"
+      "name": "bible.Lev.24.txt",
+      "url": "bible.Lev.24.txt"
     },
     {
-      "name": "bible.640.txt",
-      "url": "bible.640.txt"
+      "name": "bible.Lev.25.txt",
+      "url": "bible.Lev.25.txt"
     },
     {
-      "name": "bible.641.txt",
-      "url": "bible.641.txt"
+      "name": "bible.Lev.26.txt",
+      "url": "bible.Lev.26.txt"
     },
     {
-      "name": "bible.642.txt",
-      "url": "bible.642.txt"
+      "name": "bible.Lev.27.txt",
+      "url": "bible.Lev.27.txt"
     },
     {
-      "name": "bible.643.txt",
-      "url": "bible.643.txt"
+      "name": "bible.Lev.3.txt",
+      "url": "bible.Lev.3.txt"
     },
     {
-      "name": "bible.644.txt",
-      "url": "bible.644.txt"
+      "name": "bible.Lev.4.txt",
+      "url": "bible.Lev.4.txt"
     },
     {
-      "name": "bible.645.txt",
-      "url": "bible.645.txt"
+      "name": "bible.Lev.5.txt",
+      "url": "bible.Lev.5.txt"
     },
     {
-      "name": "bible.646.txt",
-      "url": "bible.646.txt"
+      "name": "bible.Lev.6.txt",
+      "url": "bible.Lev.6.txt"
     },
     {
-      "name": "bible.647.txt",
-      "url": "bible.647.txt"
+      "name": "bible.Lev.7.txt",
+      "url": "bible.Lev.7.txt"
     },
     {
-      "name": "bible.648.txt",
-      "url": "bible.648.txt"
+      "name": "bible.Lev.8.txt",
+      "url": "bible.Lev.8.txt"
     },
     {
-      "name": "bible.649.txt",
-      "url": "bible.649.txt"
+      "name": "bible.Lev.9.txt",
+      "url": "bible.Lev.9.txt"
     },
     {
-      "name": "bible.65.txt",
-      "url": "bible.65.txt"
+      "name": "bible.Luk.1.txt",
+      "url": "bible.Luk.1.txt"
     },
     {
-      "name": "bible.650.txt",
-      "url": "bible.650.txt"
+      "name": "bible.Luk.10.txt",
+      "url": "bible.Luk.10.txt"
     },
     {
-      "name": "bible.651.txt",
-      "url": "bible.651.txt"
+      "name": "bible.Luk.11.txt",
+      "url": "bible.Luk.11.txt"
     },
     {
-      "name": "bible.652.txt",
-      "url": "bible.652.txt"
+      "name": "bible.Luk.12.txt",
+      "url": "bible.Luk.12.txt"
     },
     {
-      "name": "bible.653.txt",
-      "url": "bible.653.txt"
+      "name": "bible.Luk.13.txt",
+      "url": "bible.Luk.13.txt"
     },
     {
-      "name": "bible.654.txt",
-      "url": "bible.654.txt"
+      "name": "bible.Luk.14.txt",
+      "url": "bible.Luk.14.txt"
     },
     {
-      "name": "bible.655.txt",
-      "url": "bible.655.txt"
+      "name": "bible.Luk.15.txt",
+      "url": "bible.Luk.15.txt"
     },
     {
-      "name": "bible.656.txt",
-      "url": "bible.656.txt"
+      "name": "bible.Luk.16.txt",
+      "url": "bible.Luk.16.txt"
     },
     {
-      "name": "bible.657.txt",
-      "url": "bible.657.txt"
+      "name": "bible.Luk.17.txt",
+      "url": "bible.Luk.17.txt"
     },
     {
-      "name": "bible.658.txt",
-      "url": "bible.658.txt"
+      "name": "bible.Luk.18.txt",
+      "url": "bible.Luk.18.txt"
     },
     {
-      "name": "bible.659.txt",
-      "url": "bible.659.txt"
+      "name": "bible.Luk.19.txt",
+      "url": "bible.Luk.19.txt"
     },
     {
-      "name": "bible.66.txt",
-      "url": "bible.66.txt"
+      "name": "bible.Luk.2.txt",
+      "url": "bible.Luk.2.txt"
     },
     {
-      "name": "bible.660.txt",
-      "url": "bible.660.txt"
+      "name": "bible.Luk.20.txt",
+      "url": "bible.Luk.20.txt"
     },
     {
-      "name": "bible.661.txt",
-      "url": "bible.661.txt"
+      "name": "bible.Luk.21.txt",
+      "url": "bible.Luk.21.txt"
     },
     {
-      "name": "bible.662.txt",
-      "url": "bible.662.txt"
+      "name": "bible.Luk.22.txt",
+      "url": "bible.Luk.22.txt"
     },
     {
-      "name": "bible.663.txt",
-      "url": "bible.663.txt"
+      "name": "bible.Luk.23.txt",
+      "url": "bible.Luk.23.txt"
     },
     {
-      "name": "bible.664.txt",
-      "url": "bible.664.txt"
+      "name": "bible.Luk.24.txt",
+      "url": "bible.Luk.24.txt"
     },
     {
-      "name": "bible.665.txt",
-      "url": "bible.665.txt"
+      "name": "bible.Luk.3.txt",
+      "url": "bible.Luk.3.txt"
     },
     {
-      "name": "bible.666.txt",
-      "url": "bible.666.txt"
+      "name": "bible.Luk.4.txt",
+      "url": "bible.Luk.4.txt"
     },
     {
-      "name": "bible.667.txt",
-      "url": "bible.667.txt"
+      "name": "bible.Luk.5.txt",
+      "url": "bible.Luk.5.txt"
     },
     {
-      "name": "bible.668.txt",
-      "url": "bible.668.txt"
+      "name": "bible.Luk.6.txt",
+      "url": "bible.Luk.6.txt"
     },
     {
-      "name": "bible.669.txt",
-      "url": "bible.669.txt"
+      "name": "bible.Luk.7.txt",
+      "url": "bible.Luk.7.txt"
     },
     {
-      "name": "bible.67.txt",
-      "url": "bible.67.txt"
+      "name": "bible.Luk.8.txt",
+      "url": "bible.Luk.8.txt"
     },
     {
-      "name": "bible.670.txt",
-      "url": "bible.670.txt"
+      "name": "bible.Luk.9.txt",
+      "url": "bible.Luk.9.txt"
     },
     {
-      "name": "bible.671.txt",
-      "url": "bible.671.txt"
+      "name": "bible.Mal.1.txt",
+      "url": "bible.Mal.1.txt"
     },
     {
-      "name": "bible.672.txt",
-      "url": "bible.672.txt"
+      "name": "bible.Mal.2.txt",
+      "url": "bible.Mal.2.txt"
     },
     {
-      "name": "bible.673.txt",
-      "url": "bible.673.txt"
+      "name": "bible.Mal.3.txt",
+      "url": "bible.Mal.3.txt"
     },
     {
-      "name": "bible.674.txt",
-      "url": "bible.674.txt"
+      "name": "bible.Mal.4.txt",
+      "url": "bible.Mal.4.txt"
     },
     {
-      "name": "bible.675.txt",
-      "url": "bible.675.txt"
+      "name": "bible.Mar.1.txt",
+      "url": "bible.Mar.1.txt"
     },
     {
-      "name": "bible.676.txt",
-      "url": "bible.676.txt"
+      "name": "bible.Mar.10.txt",
+      "url": "bible.Mar.10.txt"
     },
     {
-      "name": "bible.677.txt",
-      "url": "bible.677.txt"
+      "name": "bible.Mar.11.txt",
+      "url": "bible.Mar.11.txt"
     },
     {
-      "name": "bible.678.txt",
-      "url": "bible.678.txt"
+      "name": "bible.Mar.12.txt",
+      "url": "bible.Mar.12.txt"
     },
     {
-      "name": "bible.679.txt",
-      "url": "bible.679.txt"
+      "name": "bible.Mar.13.txt",
+      "url": "bible.Mar.13.txt"
     },
     {
-      "name": "bible.68.txt",
-      "url": "bible.68.txt"
+      "name": "bible.Mar.14.txt",
+      "url": "bible.Mar.14.txt"
     },
     {
-      "name": "bible.680.txt",
-      "url": "bible.680.txt"
+      "name": "bible.Mar.15.txt",
+      "url": "bible.Mar.15.txt"
     },
     {
-      "name": "bible.681.txt",
-      "url": "bible.681.txt"
+      "name": "bible.Mar.16.txt",
+      "url": "bible.Mar.16.txt"
     },
     {
-      "name": "bible.682.txt",
-      "url": "bible.682.txt"
+      "name": "bible.Mar.2.txt",
+      "url": "bible.Mar.2.txt"
     },
     {
-      "name": "bible.683.txt",
-      "url": "bible.683.txt"
+      "name": "bible.Mar.3.txt",
+      "url": "bible.Mar.3.txt"
     },
     {
-      "name": "bible.684.txt",
-      "url": "bible.684.txt"
+      "name": "bible.Mar.4.txt",
+      "url": "bible.Mar.4.txt"
     },
     {
-      "name": "bible.685.txt",
-      "url": "bible.685.txt"
+      "name": "bible.Mar.5.txt",
+      "url": "bible.Mar.5.txt"
     },
     {
-      "name": "bible.686.txt",
-      "url": "bible.686.txt"
+      "name": "bible.Mar.6.txt",
+      "url": "bible.Mar.6.txt"
     },
     {
-      "name": "bible.687.txt",
-      "url": "bible.687.txt"
+      "name": "bible.Mar.7.txt",
+      "url": "bible.Mar.7.txt"
     },
     {
-      "name": "bible.688.txt",
-      "url": "bible.688.txt"
+      "name": "bible.Mar.8.txt",
+      "url": "bible.Mar.8.txt"
     },
     {
-      "name": "bible.689.txt",
-      "url": "bible.689.txt"
+      "name": "bible.Mar.9.txt",
+      "url": "bible.Mar.9.txt"
     },
     {
-      "name": "bible.69.txt",
-      "url": "bible.69.txt"
+      "name": "bible.Mat.1.txt",
+      "url": "bible.Mat.1.txt"
     },
     {
-      "name": "bible.690.txt",
-      "url": "bible.690.txt"
+      "name": "bible.Mat.10.txt",
+      "url": "bible.Mat.10.txt"
     },
     {
-      "name": "bible.691.txt",
-      "url": "bible.691.txt"
+      "name": "bible.Mat.11.txt",
+      "url": "bible.Mat.11.txt"
     },
     {
-      "name": "bible.692.txt",
-      "url": "bible.692.txt"
+      "name": "bible.Mat.12.txt",
+      "url": "bible.Mat.12.txt"
     },
     {
-      "name": "bible.693.txt",
-      "url": "bible.693.txt"
+      "name": "bible.Mat.13.txt",
+      "url": "bible.Mat.13.txt"
     },
     {
-      "name": "bible.694.txt",
-      "url": "bible.694.txt"
+      "name": "bible.Mat.14.txt",
+      "url": "bible.Mat.14.txt"
     },
     {
-      "name": "bible.695.txt",
-      "url": "bible.695.txt"
+      "name": "bible.Mat.15.txt",
+      "url": "bible.Mat.15.txt"
     },
     {
-      "name": "bible.696.txt",
-      "url": "bible.696.txt"
+      "name": "bible.Mat.16.txt",
+      "url": "bible.Mat.16.txt"
     },
     {
-      "name": "bible.697.txt",
-      "url": "bible.697.txt"
+      "name": "bible.Mat.17.txt",
+      "url": "bible.Mat.17.txt"
     },
     {
-      "name": "bible.698.txt",
-      "url": "bible.698.txt"
+      "name": "bible.Mat.18.txt",
+      "url": "bible.Mat.18.txt"
     },
     {
-      "name": "bible.699.txt",
-      "url": "bible.699.txt"
+      "name": "bible.Mat.19.txt",
+      "url": "bible.Mat.19.txt"
     },
     {
-      "name": "bible.7.txt",
-      "url": "bible.7.txt"
+      "name": "bible.Mat.2.txt",
+      "url": "bible.Mat.2.txt"
     },
     {
-      "name": "bible.70.txt",
-      "url": "bible.70.txt"
+      "name": "bible.Mat.20.txt",
+      "url": "bible.Mat.20.txt"
     },
     {
-      "name": "bible.700.txt",
-      "url": "bible.700.txt"
+      "name": "bible.Mat.21.txt",
+      "url": "bible.Mat.21.txt"
     },
     {
-      "name": "bible.701.txt",
-      "url": "bible.701.txt"
+      "name": "bible.Mat.22.txt",
+      "url": "bible.Mat.22.txt"
     },
     {
-      "name": "bible.702.txt",
-      "url": "bible.702.txt"
+      "name": "bible.Mat.23.txt",
+      "url": "bible.Mat.23.txt"
     },
     {
-      "name": "bible.703.txt",
-      "url": "bible.703.txt"
+      "name": "bible.Mat.24.txt",
+      "url": "bible.Mat.24.txt"
     },
     {
-      "name": "bible.704.txt",
-      "url": "bible.704.txt"
+      "name": "bible.Mat.25.txt",
+      "url": "bible.Mat.25.txt"
     },
     {
-      "name": "bible.705.txt",
-      "url": "bible.705.txt"
+      "name": "bible.Mat.26.txt",
+      "url": "bible.Mat.26.txt"
     },
     {
-      "name": "bible.706.txt",
-      "url": "bible.706.txt"
+      "name": "bible.Mat.27.txt",
+      "url": "bible.Mat.27.txt"
     },
     {
-      "name": "bible.707.txt",
-      "url": "bible.707.txt"
+      "name": "bible.Mat.28.txt",
+      "url": "bible.Mat.28.txt"
     },
     {
-      "name": "bible.708.txt",
-      "url": "bible.708.txt"
+      "name": "bible.Mat.3.txt",
+      "url": "bible.Mat.3.txt"
     },
     {
-      "name": "bible.709.txt",
-      "url": "bible.709.txt"
+      "name": "bible.Mat.4.txt",
+      "url": "bible.Mat.4.txt"
     },
     {
-      "name": "bible.71.txt",
-      "url": "bible.71.txt"
+      "name": "bible.Mat.5.txt",
+      "url": "bible.Mat.5.txt"
     },
     {
-      "name": "bible.710.txt",
-      "url": "bible.710.txt"
+      "name": "bible.Mat.6.txt",
+      "url": "bible.Mat.6.txt"
     },
     {
-      "name": "bible.711.txt",
-      "url": "bible.711.txt"
+      "name": "bible.Mat.7.txt",
+      "url": "bible.Mat.7.txt"
     },
     {
-      "name": "bible.712.txt",
-      "url": "bible.712.txt"
+      "name": "bible.Mat.8.txt",
+      "url": "bible.Mat.8.txt"
     },
     {
-      "name": "bible.713.txt",
-      "url": "bible.713.txt"
+      "name": "bible.Mat.9.txt",
+      "url": "bible.Mat.9.txt"
     },
     {
-      "name": "bible.714.txt",
-      "url": "bible.714.txt"
+      "name": "bible.Mic.1.txt",
+      "url": "bible.Mic.1.txt"
     },
     {
-      "name": "bible.715.txt",
-      "url": "bible.715.txt"
+      "name": "bible.Mic.2.txt",
+      "url": "bible.Mic.2.txt"
     },
     {
-      "name": "bible.716.txt",
-      "url": "bible.716.txt"
+      "name": "bible.Mic.3.txt",
+      "url": "bible.Mic.3.txt"
     },
     {
-      "name": "bible.717.txt",
-      "url": "bible.717.txt"
+      "name": "bible.Mic.4.txt",
+      "url": "bible.Mic.4.txt"
     },
     {
-      "name": "bible.718.txt",
-      "url": "bible.718.txt"
+      "name": "bible.Mic.5.txt",
+      "url": "bible.Mic.5.txt"
     },
     {
-      "name": "bible.719.txt",
-      "url": "bible.719.txt"
+      "name": "bible.Mic.6.txt",
+      "url": "bible.Mic.6.txt"
     },
     {
-      "name": "bible.72.txt",
-      "url": "bible.72.txt"
+      "name": "bible.Mic.7.txt",
+      "url": "bible.Mic.7.txt"
     },
     {
-      "name": "bible.720.txt",
-      "url": "bible.720.txt"
+      "name": "bible.Nah.1.txt",
+      "url": "bible.Nah.1.txt"
     },
     {
-      "name": "bible.721.txt",
-      "url": "bible.721.txt"
+      "name": "bible.Nah.2.txt",
+      "url": "bible.Nah.2.txt"
     },
     {
-      "name": "bible.722.txt",
-      "url": "bible.722.txt"
+      "name": "bible.Nah.3.txt",
+      "url": "bible.Nah.3.txt"
     },
     {
-      "name": "bible.723.txt",
-      "url": "bible.723.txt"
+      "name": "bible.Neh.1.txt",
+      "url": "bible.Neh.1.txt"
     },
     {
-      "name": "bible.724.txt",
-      "url": "bible.724.txt"
+      "name": "bible.Neh.10.txt",
+      "url": "bible.Neh.10.txt"
     },
     {
-      "name": "bible.725.txt",
-      "url": "bible.725.txt"
+      "name": "bible.Neh.11.txt",
+      "url": "bible.Neh.11.txt"
     },
     {
-      "name": "bible.726.txt",
-      "url": "bible.726.txt"
+      "name": "bible.Neh.12.txt",
+      "url": "bible.Neh.12.txt"
     },
     {
-      "name": "bible.727.txt",
-      "url": "bible.727.txt"
+      "name": "bible.Neh.13.txt",
+      "url": "bible.Neh.13.txt"
     },
     {
-      "name": "bible.728.txt",
-      "url": "bible.728.txt"
+      "name": "bible.Neh.2.txt",
+      "url": "bible.Neh.2.txt"
     },
     {
-      "name": "bible.729.txt",
-      "url": "bible.729.txt"
+      "name": "bible.Neh.3.txt",
+      "url": "bible.Neh.3.txt"
     },
     {
-      "name": "bible.73.txt",
-      "url": "bible.73.txt"
+      "name": "bible.Neh.4.txt",
+      "url": "bible.Neh.4.txt"
     },
     {
-      "name": "bible.730.txt",
-      "url": "bible.730.txt"
+      "name": "bible.Neh.5.txt",
+      "url": "bible.Neh.5.txt"
     },
     {
-      "name": "bible.731.txt",
-      "url": "bible.731.txt"
+      "name": "bible.Neh.6.txt",
+      "url": "bible.Neh.6.txt"
     },
     {
-      "name": "bible.732.txt",
-      "url": "bible.732.txt"
+      "name": "bible.Neh.7.txt",
+      "url": "bible.Neh.7.txt"
     },
     {
-      "name": "bible.733.txt",
-      "url": "bible.733.txt"
+      "name": "bible.Neh.8.txt",
+      "url": "bible.Neh.8.txt"
     },
     {
-      "name": "bible.734.txt",
-      "url": "bible.734.txt"
+      "name": "bible.Neh.9.txt",
+      "url": "bible.Neh.9.txt"
     },
     {
-      "name": "bible.735.txt",
-      "url": "bible.735.txt"
+      "name": "bible.Num.1.txt",
+      "url": "bible.Num.1.txt"
     },
     {
-      "name": "bible.736.txt",
-      "url": "bible.736.txt"
+      "name": "bible.Num.10.txt",
+      "url": "bible.Num.10.txt"
     },
     {
-      "name": "bible.737.txt",
-      "url": "bible.737.txt"
+      "name": "bible.Num.11.txt",
+      "url": "bible.Num.11.txt"
     },
     {
-      "name": "bible.738.txt",
-      "url": "bible.738.txt"
+      "name": "bible.Num.12.txt",
+      "url": "bible.Num.12.txt"
     },
     {
-      "name": "bible.739.txt",
-      "url": "bible.739.txt"
+      "name": "bible.Num.13.txt",
+      "url": "bible.Num.13.txt"
     },
     {
-      "name": "bible.74.txt",
-      "url": "bible.74.txt"
+      "name": "bible.Num.14.txt",
+      "url": "bible.Num.14.txt"
     },
     {
-      "name": "bible.740.txt",
-      "url": "bible.740.txt"
+      "name": "bible.Num.15.txt",
+      "url": "bible.Num.15.txt"
     },
     {
-      "name": "bible.741.txt",
-      "url": "bible.741.txt"
+      "name": "bible.Num.16.txt",
+      "url": "bible.Num.16.txt"
     },
     {
-      "name": "bible.742.txt",
-      "url": "bible.742.txt"
+      "name": "bible.Num.17.txt",
+      "url": "bible.Num.17.txt"
     },
     {
-      "name": "bible.743.txt",
-      "url": "bible.743.txt"
+      "name": "bible.Num.18.txt",
+      "url": "bible.Num.18.txt"
     },
     {
-      "name": "bible.744.txt",
-      "url": "bible.744.txt"
+      "name": "bible.Num.19.txt",
+      "url": "bible.Num.19.txt"
     },
     {
-      "name": "bible.745.txt",
-      "url": "bible.745.txt"
+      "name": "bible.Num.2.txt",
+      "url": "bible.Num.2.txt"
     },
     {
-      "name": "bible.746.txt",
-      "url": "bible.746.txt"
+      "name": "bible.Num.20.txt",
+      "url": "bible.Num.20.txt"
     },
     {
-      "name": "bible.747.txt",
-      "url": "bible.747.txt"
+      "name": "bible.Num.21.txt",
+      "url": "bible.Num.21.txt"
     },
     {
-      "name": "bible.748.txt",
-      "url": "bible.748.txt"
+      "name": "bible.Num.22.txt",
+      "url": "bible.Num.22.txt"
     },
     {
-      "name": "bible.749.txt",
-      "url": "bible.749.txt"
+      "name": "bible.Num.23.txt",
+      "url": "bible.Num.23.txt"
     },
     {
-      "name": "bible.75.txt",
-      "url": "bible.75.txt"
+      "name": "bible.Num.24.txt",
+      "url": "bible.Num.24.txt"
     },
     {
-      "name": "bible.750.txt",
-      "url": "bible.750.txt"
+      "name": "bible.Num.25.txt",
+      "url": "bible.Num.25.txt"
     },
     {
-      "name": "bible.751.txt",
-      "url": "bible.751.txt"
+      "name": "bible.Num.26.txt",
+      "url": "bible.Num.26.txt"
     },
     {
-      "name": "bible.752.txt",
-      "url": "bible.752.txt"
+      "name": "bible.Num.27.txt",
+      "url": "bible.Num.27.txt"
     },
     {
-      "name": "bible.753.txt",
-      "url": "bible.753.txt"
+      "name": "bible.Num.28.txt",
+      "url": "bible.Num.28.txt"
     },
     {
-      "name": "bible.754.txt",
-      "url": "bible.754.txt"
+      "name": "bible.Num.29.txt",
+      "url": "bible.Num.29.txt"
     },
     {
-      "name": "bible.755.txt",
-      "url": "bible.755.txt"
+      "name": "bible.Num.3.txt",
+      "url": "bible.Num.3.txt"
     },
     {
-      "name": "bible.756.txt",
-      "url": "bible.756.txt"
+      "name": "bible.Num.30.txt",
+      "url": "bible.Num.30.txt"
     },
     {
-      "name": "bible.757.txt",
-      "url": "bible.757.txt"
+      "name": "bible.Num.31.txt",
+      "url": "bible.Num.31.txt"
     },
     {
-      "name": "bible.758.txt",
-      "url": "bible.758.txt"
+      "name": "bible.Num.32.txt",
+      "url": "bible.Num.32.txt"
     },
     {
-      "name": "bible.759.txt",
-      "url": "bible.759.txt"
+      "name": "bible.Num.33.txt",
+      "url": "bible.Num.33.txt"
     },
     {
-      "name": "bible.76.txt",
-      "url": "bible.76.txt"
+      "name": "bible.Num.34.txt",
+      "url": "bible.Num.34.txt"
     },
     {
-      "name": "bible.760.txt",
-      "url": "bible.760.txt"
+      "name": "bible.Num.35.txt",
+      "url": "bible.Num.35.txt"
     },
     {
-      "name": "bible.761.txt",
-      "url": "bible.761.txt"
+      "name": "bible.Num.36.txt",
+      "url": "bible.Num.36.txt"
     },
     {
-      "name": "bible.762.txt",
-      "url": "bible.762.txt"
+      "name": "bible.Num.4.txt",
+      "url": "bible.Num.4.txt"
     },
     {
-      "name": "bible.763.txt",
-      "url": "bible.763.txt"
+      "name": "bible.Num.5.txt",
+      "url": "bible.Num.5.txt"
     },
     {
-      "name": "bible.764.txt",
-      "url": "bible.764.txt"
+      "name": "bible.Num.6.txt",
+      "url": "bible.Num.6.txt"
     },
     {
-      "name": "bible.765.txt",
-      "url": "bible.765.txt"
+      "name": "bible.Num.7.txt",
+      "url": "bible.Num.7.txt"
     },
     {
-      "name": "bible.766.txt",
-      "url": "bible.766.txt"
+      "name": "bible.Num.8.txt",
+      "url": "bible.Num.8.txt"
     },
     {
-      "name": "bible.767.txt",
-      "url": "bible.767.txt"
+      "name": "bible.Num.9.txt",
+      "url": "bible.Num.9.txt"
     },
     {
-      "name": "bible.768.txt",
-      "url": "bible.768.txt"
+      "name": "bible.Oba.1.txt",
+      "url": "bible.Oba.1.txt"
     },
     {
-      "name": "bible.769.txt",
-      "url": "bible.769.txt"
+      "name": "bible.Phi.1.txt",
+      "url": "bible.Phi.1.txt"
     },
     {
-      "name": "bible.77.txt",
-      "url": "bible.77.txt"
+      "name": "bible.Phi.2.txt",
+      "url": "bible.Phi.2.txt"
     },
     {
-      "name": "bible.770.txt",
-      "url": "bible.770.txt"
+      "name": "bible.Phi.3.txt",
+      "url": "bible.Phi.3.txt"
     },
     {
-      "name": "bible.771.txt",
-      "url": "bible.771.txt"
+      "name": "bible.Phi.4.txt",
+      "url": "bible.Phi.4.txt"
     },
     {
-      "name": "bible.772.txt",
-      "url": "bible.772.txt"
+      "name": "bible.Phm.1.txt",
+      "url": "bible.Phm.1.txt"
     },
     {
-      "name": "bible.773.txt",
-      "url": "bible.773.txt"
+      "name": "bible.Pro.1.txt",
+      "url": "bible.Pro.1.txt"
     },
     {
-      "name": "bible.774.txt",
-      "url": "bible.774.txt"
+      "name": "bible.Pro.10.txt",
+      "url": "bible.Pro.10.txt"
     },
     {
-      "name": "bible.775.txt",
-      "url": "bible.775.txt"
+      "name": "bible.Pro.11.txt",
+      "url": "bible.Pro.11.txt"
     },
     {
-      "name": "bible.776.txt",
-      "url": "bible.776.txt"
+      "name": "bible.Pro.12.txt",
+      "url": "bible.Pro.12.txt"
     },
     {
-      "name": "bible.777.txt",
-      "url": "bible.777.txt"
+      "name": "bible.Pro.13.txt",
+      "url": "bible.Pro.13.txt"
     },
     {
-      "name": "bible.778.txt",
-      "url": "bible.778.txt"
+      "name": "bible.Pro.14.txt",
+      "url": "bible.Pro.14.txt"
     },
     {
-      "name": "bible.779.txt",
-      "url": "bible.779.txt"
+      "name": "bible.Pro.15.txt",
+      "url": "bible.Pro.15.txt"
     },
     {
-      "name": "bible.78.txt",
-      "url": "bible.78.txt"
+      "name": "bible.Pro.16.txt",
+      "url": "bible.Pro.16.txt"
     },
     {
-      "name": "bible.780.txt",
-      "url": "bible.780.txt"
+      "name": "bible.Pro.17.txt",
+      "url": "bible.Pro.17.txt"
     },
     {
-      "name": "bible.781.txt",
-      "url": "bible.781.txt"
+      "name": "bible.Pro.18.txt",
+      "url": "bible.Pro.18.txt"
     },
     {
-      "name": "bible.782.txt",
-      "url": "bible.782.txt"
+      "name": "bible.Pro.19.txt",
+      "url": "bible.Pro.19.txt"
     },
     {
-      "name": "bible.783.txt",
-      "url": "bible.783.txt"
+      "name": "bible.Pro.2.txt",
+      "url": "bible.Pro.2.txt"
     },
     {
-      "name": "bible.784.txt",
-      "url": "bible.784.txt"
+      "name": "bible.Pro.20.txt",
+      "url": "bible.Pro.20.txt"
     },
     {
-      "name": "bible.785.txt",
-      "url": "bible.785.txt"
+      "name": "bible.Pro.21.txt",
+      "url": "bible.Pro.21.txt"
     },
     {
-      "name": "bible.786.txt",
-      "url": "bible.786.txt"
+      "name": "bible.Pro.22.txt",
+      "url": "bible.Pro.22.txt"
     },
     {
-      "name": "bible.787.txt",
-      "url": "bible.787.txt"
+      "name": "bible.Pro.23.txt",
+      "url": "bible.Pro.23.txt"
     },
     {
-      "name": "bible.788.txt",
-      "url": "bible.788.txt"
+      "name": "bible.Pro.24.txt",
+      "url": "bible.Pro.24.txt"
     },
     {
-      "name": "bible.789.txt",
-      "url": "bible.789.txt"
+      "name": "bible.Pro.25.txt",
+      "url": "bible.Pro.25.txt"
     },
     {
-      "name": "bible.79.txt",
-      "url": "bible.79.txt"
+      "name": "bible.Pro.26.txt",
+      "url": "bible.Pro.26.txt"
     },
     {
-      "name": "bible.790.txt",
-      "url": "bible.790.txt"
+      "name": "bible.Pro.27.txt",
+      "url": "bible.Pro.27.txt"
     },
     {
-      "name": "bible.791.txt",
-      "url": "bible.791.txt"
+      "name": "bible.Pro.28.txt",
+      "url": "bible.Pro.28.txt"
     },
     {
-      "name": "bible.792.txt",
-      "url": "bible.792.txt"
+      "name": "bible.Pro.29.txt",
+      "url": "bible.Pro.29.txt"
     },
     {
-      "name": "bible.793.txt",
-      "url": "bible.793.txt"
+      "name": "bible.Pro.3.txt",
+      "url": "bible.Pro.3.txt"
     },
     {
-      "name": "bible.794.txt",
-      "url": "bible.794.txt"
+      "name": "bible.Pro.30.txt",
+      "url": "bible.Pro.30.txt"
     },
     {
-      "name": "bible.795.txt",
-      "url": "bible.795.txt"
+      "name": "bible.Pro.31.txt",
+      "url": "bible.Pro.31.txt"
     },
     {
-      "name": "bible.796.txt",
-      "url": "bible.796.txt"
+      "name": "bible.Pro.4.txt",
+      "url": "bible.Pro.4.txt"
     },
     {
-      "name": "bible.797.txt",
-      "url": "bible.797.txt"
+      "name": "bible.Pro.5.txt",
+      "url": "bible.Pro.5.txt"
     },
     {
-      "name": "bible.798.txt",
-      "url": "bible.798.txt"
+      "name": "bible.Pro.6.txt",
+      "url": "bible.Pro.6.txt"
     },
     {
-      "name": "bible.799.txt",
-      "url": "bible.799.txt"
+      "name": "bible.Pro.7.txt",
+      "url": "bible.Pro.7.txt"
     },
     {
-      "name": "bible.8.txt",
-      "url": "bible.8.txt"
+      "name": "bible.Pro.8.txt",
+      "url": "bible.Pro.8.txt"
     },
     {
-      "name": "bible.80.txt",
-      "url": "bible.80.txt"
+      "name": "bible.Pro.9.txt",
+      "url": "bible.Pro.9.txt"
     },
     {
-      "name": "bible.800.txt",
-      "url": "bible.800.txt"
+      "name": "bible.Psa.1.txt",
+      "url": "bible.Psa.1.txt"
     },
     {
-      "name": "bible.801.txt",
-      "url": "bible.801.txt"
+      "name": "bible.Psa.10.txt",
+      "url": "bible.Psa.10.txt"
     },
     {
-      "name": "bible.802.txt",
-      "url": "bible.802.txt"
+      "name": "bible.Psa.100.txt",
+      "url": "bible.Psa.100.txt"
     },
     {
-      "name": "bible.803.txt",
-      "url": "bible.803.txt"
+      "name": "bible.Psa.101.txt",
+      "url": "bible.Psa.101.txt"
     },
     {
-      "name": "bible.804.txt",
-      "url": "bible.804.txt"
+      "name": "bible.Psa.102.txt",
+      "url": "bible.Psa.102.txt"
     },
     {
-      "name": "bible.805.txt",
-      "url": "bible.805.txt"
+      "name": "bible.Psa.103.txt",
+      "url": "bible.Psa.103.txt"
     },
     {
-      "name": "bible.806.txt",
-      "url": "bible.806.txt"
+      "name": "bible.Psa.104.txt",
+      "url": "bible.Psa.104.txt"
     },
     {
-      "name": "bible.807.txt",
-      "url": "bible.807.txt"
+      "name": "bible.Psa.105.txt",
+      "url": "bible.Psa.105.txt"
     },
     {
-      "name": "bible.808.txt",
-      "url": "bible.808.txt"
+      "name": "bible.Psa.106.txt",
+      "url": "bible.Psa.106.txt"
     },
     {
-      "name": "bible.809.txt",
-      "url": "bible.809.txt"
+      "name": "bible.Psa.107.txt",
+      "url": "bible.Psa.107.txt"
     },
     {
-      "name": "bible.81.txt",
-      "url": "bible.81.txt"
+      "name": "bible.Psa.108.txt",
+      "url": "bible.Psa.108.txt"
     },
     {
-      "name": "bible.810.txt",
-      "url": "bible.810.txt"
+      "name": "bible.Psa.109.txt",
+      "url": "bible.Psa.109.txt"
     },
     {
-      "name": "bible.811.txt",
-      "url": "bible.811.txt"
+      "name": "bible.Psa.11.txt",
+      "url": "bible.Psa.11.txt"
     },
     {
-      "name": "bible.812.txt",
-      "url": "bible.812.txt"
+      "name": "bible.Psa.110.txt",
+      "url": "bible.Psa.110.txt"
     },
     {
-      "name": "bible.813.txt",
-      "url": "bible.813.txt"
+      "name": "bible.Psa.111.txt",
+      "url": "bible.Psa.111.txt"
     },
     {
-      "name": "bible.814.txt",
-      "url": "bible.814.txt"
+      "name": "bible.Psa.112.txt",
+      "url": "bible.Psa.112.txt"
     },
     {
-      "name": "bible.815.txt",
-      "url": "bible.815.txt"
+      "name": "bible.Psa.113.txt",
+      "url": "bible.Psa.113.txt"
     },
     {
-      "name": "bible.816.txt",
-      "url": "bible.816.txt"
+      "name": "bible.Psa.114.txt",
+      "url": "bible.Psa.114.txt"
     },
     {
-      "name": "bible.817.txt",
-      "url": "bible.817.txt"
+      "name": "bible.Psa.115.txt",
+      "url": "bible.Psa.115.txt"
     },
     {
-      "name": "bible.818.txt",
-      "url": "bible.818.txt"
+      "name": "bible.Psa.116.txt",
+      "url": "bible.Psa.116.txt"
     },
     {
-      "name": "bible.819.txt",
-      "url": "bible.819.txt"
+      "name": "bible.Psa.117.txt",
+      "url": "bible.Psa.117.txt"
     },
     {
-      "name": "bible.82.txt",
-      "url": "bible.82.txt"
+      "name": "bible.Psa.118.txt",
+      "url": "bible.Psa.118.txt"
     },
     {
-      "name": "bible.820.txt",
-      "url": "bible.820.txt"
+      "name": "bible.Psa.119.txt",
+      "url": "bible.Psa.119.txt"
     },
     {
-      "name": "bible.821.txt",
-      "url": "bible.821.txt"
+      "name": "bible.Psa.12.txt",
+      "url": "bible.Psa.12.txt"
     },
     {
-      "name": "bible.822.txt",
-      "url": "bible.822.txt"
+      "name": "bible.Psa.120.txt",
+      "url": "bible.Psa.120.txt"
     },
     {
-      "name": "bible.823.txt",
-      "url": "bible.823.txt"
+      "name": "bible.Psa.121.txt",
+      "url": "bible.Psa.121.txt"
     },
     {
-      "name": "bible.824.txt",
-      "url": "bible.824.txt"
+      "name": "bible.Psa.122.txt",
+      "url": "bible.Psa.122.txt"
     },
     {
-      "name": "bible.825.txt",
-      "url": "bible.825.txt"
+      "name": "bible.Psa.123.txt",
+      "url": "bible.Psa.123.txt"
     },
     {
-      "name": "bible.826.txt",
-      "url": "bible.826.txt"
+      "name": "bible.Psa.124.txt",
+      "url": "bible.Psa.124.txt"
     },
     {
-      "name": "bible.827.txt",
-      "url": "bible.827.txt"
+      "name": "bible.Psa.125.txt",
+      "url": "bible.Psa.125.txt"
     },
     {
-      "name": "bible.828.txt",
-      "url": "bible.828.txt"
+      "name": "bible.Psa.126.txt",
+      "url": "bible.Psa.126.txt"
     },
     {
-      "name": "bible.829.txt",
-      "url": "bible.829.txt"
+      "name": "bible.Psa.127.txt",
+      "url": "bible.Psa.127.txt"
     },
     {
-      "name": "bible.83.txt",
-      "url": "bible.83.txt"
+      "name": "bible.Psa.128.txt",
+      "url": "bible.Psa.128.txt"
     },
     {
-      "name": "bible.830.txt",
-      "url": "bible.830.txt"
+      "name": "bible.Psa.129.txt",
+      "url": "bible.Psa.129.txt"
     },
     {
-      "name": "bible.831.txt",
-      "url": "bible.831.txt"
+      "name": "bible.Psa.13.txt",
+      "url": "bible.Psa.13.txt"
     },
     {
-      "name": "bible.832.txt",
-      "url": "bible.832.txt"
+      "name": "bible.Psa.130.txt",
+      "url": "bible.Psa.130.txt"
     },
     {
-      "name": "bible.833.txt",
-      "url": "bible.833.txt"
+      "name": "bible.Psa.131.txt",
+      "url": "bible.Psa.131.txt"
     },
     {
-      "name": "bible.834.txt",
-      "url": "bible.834.txt"
+      "name": "bible.Psa.132.txt",
+      "url": "bible.Psa.132.txt"
     },
     {
-      "name": "bible.835.txt",
-      "url": "bible.835.txt"
+      "name": "bible.Psa.133.txt",
+      "url": "bible.Psa.133.txt"
     },
     {
-      "name": "bible.836.txt",
-      "url": "bible.836.txt"
+      "name": "bible.Psa.134.txt",
+      "url": "bible.Psa.134.txt"
     },
     {
-      "name": "bible.837.txt",
-      "url": "bible.837.txt"
+      "name": "bible.Psa.135.txt",
+      "url": "bible.Psa.135.txt"
     },
     {
-      "name": "bible.838.txt",
-      "url": "bible.838.txt"
+      "name": "bible.Psa.136.txt",
+      "url": "bible.Psa.136.txt"
     },
     {
-      "name": "bible.839.txt",
-      "url": "bible.839.txt"
+      "name": "bible.Psa.137.txt",
+      "url": "bible.Psa.137.txt"
     },
     {
-      "name": "bible.84.txt",
-      "url": "bible.84.txt"
+      "name": "bible.Psa.138.txt",
+      "url": "bible.Psa.138.txt"
     },
     {
-      "name": "bible.840.txt",
-      "url": "bible.840.txt"
+      "name": "bible.Psa.139.txt",
+      "url": "bible.Psa.139.txt"
     },
     {
-      "name": "bible.841.txt",
-      "url": "bible.841.txt"
+      "name": "bible.Psa.14.txt",
+      "url": "bible.Psa.14.txt"
     },
     {
-      "name": "bible.842.txt",
-      "url": "bible.842.txt"
+      "name": "bible.Psa.140.txt",
+      "url": "bible.Psa.140.txt"
     },
     {
-      "name": "bible.843.txt",
-      "url": "bible.843.txt"
+      "name": "bible.Psa.141.txt",
+      "url": "bible.Psa.141.txt"
     },
     {
-      "name": "bible.844.txt",
-      "url": "bible.844.txt"
+      "name": "bible.Psa.142.txt",
+      "url": "bible.Psa.142.txt"
     },
     {
-      "name": "bible.845.txt",
-      "url": "bible.845.txt"
+      "name": "bible.Psa.143.txt",
+      "url": "bible.Psa.143.txt"
     },
     {
-      "name": "bible.846.txt",
-      "url": "bible.846.txt"
+      "name": "bible.Psa.144.txt",
+      "url": "bible.Psa.144.txt"
     },
     {
-      "name": "bible.847.txt",
-      "url": "bible.847.txt"
+      "name": "bible.Psa.145.txt",
+      "url": "bible.Psa.145.txt"
     },
     {
-      "name": "bible.848.txt",
-      "url": "bible.848.txt"
+      "name": "bible.Psa.146.txt",
+      "url": "bible.Psa.146.txt"
     },
     {
-      "name": "bible.849.txt",
-      "url": "bible.849.txt"
+      "name": "bible.Psa.147.txt",
+      "url": "bible.Psa.147.txt"
     },
     {
-      "name": "bible.85.txt",
-      "url": "bible.85.txt"
+      "name": "bible.Psa.148.txt",
+      "url": "bible.Psa.148.txt"
     },
     {
-      "name": "bible.850.txt",
-      "url": "bible.850.txt"
+      "name": "bible.Psa.149.txt",
+      "url": "bible.Psa.149.txt"
     },
     {
-      "name": "bible.851.txt",
-      "url": "bible.851.txt"
+      "name": "bible.Psa.15.txt",
+      "url": "bible.Psa.15.txt"
     },
     {
-      "name": "bible.852.txt",
-      "url": "bible.852.txt"
+      "name": "bible.Psa.150.txt",
+      "url": "bible.Psa.150.txt"
     },
     {
-      "name": "bible.853.txt",
-      "url": "bible.853.txt"
+      "name": "bible.Psa.16.txt",
+      "url": "bible.Psa.16.txt"
     },
     {
-      "name": "bible.854.txt",
-      "url": "bible.854.txt"
+      "name": "bible.Psa.17.txt",
+      "url": "bible.Psa.17.txt"
     },
     {
-      "name": "bible.855.txt",
-      "url": "bible.855.txt"
+      "name": "bible.Psa.18.txt",
+      "url": "bible.Psa.18.txt"
     },
     {
-      "name": "bible.856.txt",
-      "url": "bible.856.txt"
+      "name": "bible.Psa.19.txt",
+      "url": "bible.Psa.19.txt"
     },
     {
-      "name": "bible.857.txt",
-      "url": "bible.857.txt"
+      "name": "bible.Psa.2.txt",
+      "url": "bible.Psa.2.txt"
     },
     {
-      "name": "bible.858.txt",
-      "url": "bible.858.txt"
+      "name": "bible.Psa.20.txt",
+      "url": "bible.Psa.20.txt"
     },
     {
-      "name": "bible.859.txt",
-      "url": "bible.859.txt"
+      "name": "bible.Psa.21.txt",
+      "url": "bible.Psa.21.txt"
     },
     {
-      "name": "bible.86.txt",
-      "url": "bible.86.txt"
+      "name": "bible.Psa.22.txt",
+      "url": "bible.Psa.22.txt"
     },
     {
-      "name": "bible.860.txt",
-      "url": "bible.860.txt"
+      "name": "bible.Psa.23.txt",
+      "url": "bible.Psa.23.txt"
     },
     {
-      "name": "bible.861.txt",
-      "url": "bible.861.txt"
+      "name": "bible.Psa.24.txt",
+      "url": "bible.Psa.24.txt"
     },
     {
-      "name": "bible.862.txt",
-      "url": "bible.862.txt"
+      "name": "bible.Psa.25.txt",
+      "url": "bible.Psa.25.txt"
     },
     {
-      "name": "bible.863.txt",
-      "url": "bible.863.txt"
+      "name": "bible.Psa.26.txt",
+      "url": "bible.Psa.26.txt"
     },
     {
-      "name": "bible.864.txt",
-      "url": "bible.864.txt"
+      "name": "bible.Psa.27.txt",
+      "url": "bible.Psa.27.txt"
     },
     {
-      "name": "bible.865.txt",
-      "url": "bible.865.txt"
+      "name": "bible.Psa.28.txt",
+      "url": "bible.Psa.28.txt"
     },
     {
-      "name": "bible.866.txt",
-      "url": "bible.866.txt"
+      "name": "bible.Psa.29.txt",
+      "url": "bible.Psa.29.txt"
     },
     {
-      "name": "bible.867.txt",
-      "url": "bible.867.txt"
+      "name": "bible.Psa.3.txt",
+      "url": "bible.Psa.3.txt"
     },
     {
-      "name": "bible.868.txt",
-      "url": "bible.868.txt"
+      "name": "bible.Psa.30.txt",
+      "url": "bible.Psa.30.txt"
     },
     {
-      "name": "bible.869.txt",
-      "url": "bible.869.txt"
+      "name": "bible.Psa.31.txt",
+      "url": "bible.Psa.31.txt"
     },
     {
-      "name": "bible.87.txt",
-      "url": "bible.87.txt"
+      "name": "bible.Psa.32.txt",
+      "url": "bible.Psa.32.txt"
     },
     {
-      "name": "bible.870.txt",
-      "url": "bible.870.txt"
+      "name": "bible.Psa.33.txt",
+      "url": "bible.Psa.33.txt"
     },
     {
-      "name": "bible.871.txt",
-      "url": "bible.871.txt"
+      "name": "bible.Psa.34.txt",
+      "url": "bible.Psa.34.txt"
     },
     {
-      "name": "bible.872.txt",
-      "url": "bible.872.txt"
+      "name": "bible.Psa.35.txt",
+      "url": "bible.Psa.35.txt"
     },
     {
-      "name": "bible.873.txt",
-      "url": "bible.873.txt"
+      "name": "bible.Psa.36.txt",
+      "url": "bible.Psa.36.txt"
     },
     {
-      "name": "bible.874.txt",
-      "url": "bible.874.txt"
+      "name": "bible.Psa.37.txt",
+      "url": "bible.Psa.37.txt"
     },
     {
-      "name": "bible.875.txt",
-      "url": "bible.875.txt"
+      "name": "bible.Psa.38.txt",
+      "url": "bible.Psa.38.txt"
     },
     {
-      "name": "bible.876.txt",
-      "url": "bible.876.txt"
+      "name": "bible.Psa.39.txt",
+      "url": "bible.Psa.39.txt"
     },
     {
-      "name": "bible.877.txt",
-      "url": "bible.877.txt"
+      "name": "bible.Psa.4.txt",
+      "url": "bible.Psa.4.txt"
     },
     {
-      "name": "bible.878.txt",
-      "url": "bible.878.txt"
+      "name": "bible.Psa.40.txt",
+      "url": "bible.Psa.40.txt"
     },
     {
-      "name": "bible.879.txt",
-      "url": "bible.879.txt"
+      "name": "bible.Psa.41.txt",
+      "url": "bible.Psa.41.txt"
     },
     {
-      "name": "bible.88.txt",
-      "url": "bible.88.txt"
+      "name": "bible.Psa.42.txt",
+      "url": "bible.Psa.42.txt"
     },
     {
-      "name": "bible.880.txt",
-      "url": "bible.880.txt"
+      "name": "bible.Psa.43.txt",
+      "url": "bible.Psa.43.txt"
     },
     {
-      "name": "bible.881.txt",
-      "url": "bible.881.txt"
+      "name": "bible.Psa.44.txt",
+      "url": "bible.Psa.44.txt"
     },
     {
-      "name": "bible.882.txt",
-      "url": "bible.882.txt"
+      "name": "bible.Psa.45.txt",
+      "url": "bible.Psa.45.txt"
     },
     {
-      "name": "bible.883.txt",
-      "url": "bible.883.txt"
+      "name": "bible.Psa.46.txt",
+      "url": "bible.Psa.46.txt"
     },
     {
-      "name": "bible.884.txt",
-      "url": "bible.884.txt"
+      "name": "bible.Psa.47.txt",
+      "url": "bible.Psa.47.txt"
     },
     {
-      "name": "bible.885.txt",
-      "url": "bible.885.txt"
+      "name": "bible.Psa.48.txt",
+      "url": "bible.Psa.48.txt"
     },
     {
-      "name": "bible.886.txt",
-      "url": "bible.886.txt"
+      "name": "bible.Psa.49.txt",
+      "url": "bible.Psa.49.txt"
     },
     {
-      "name": "bible.887.txt",
-      "url": "bible.887.txt"
+      "name": "bible.Psa.5.txt",
+      "url": "bible.Psa.5.txt"
     },
     {
-      "name": "bible.888.txt",
-      "url": "bible.888.txt"
+      "name": "bible.Psa.50.txt",
+      "url": "bible.Psa.50.txt"
     },
     {
-      "name": "bible.889.txt",
-      "url": "bible.889.txt"
+      "name": "bible.Psa.51.txt",
+      "url": "bible.Psa.51.txt"
     },
     {
-      "name": "bible.89.txt",
-      "url": "bible.89.txt"
+      "name": "bible.Psa.52.txt",
+      "url": "bible.Psa.52.txt"
     },
     {
-      "name": "bible.890.txt",
-      "url": "bible.890.txt"
+      "name": "bible.Psa.53.txt",
+      "url": "bible.Psa.53.txt"
     },
     {
-      "name": "bible.891.txt",
-      "url": "bible.891.txt"
+      "name": "bible.Psa.54.txt",
+      "url": "bible.Psa.54.txt"
     },
     {
-      "name": "bible.892.txt",
-      "url": "bible.892.txt"
+      "name": "bible.Psa.55.txt",
+      "url": "bible.Psa.55.txt"
     },
     {
-      "name": "bible.893.txt",
-      "url": "bible.893.txt"
+      "name": "bible.Psa.56.txt",
+      "url": "bible.Psa.56.txt"
     },
     {
-      "name": "bible.894.txt",
-      "url": "bible.894.txt"
+      "name": "bible.Psa.57.txt",
+      "url": "bible.Psa.57.txt"
     },
     {
-      "name": "bible.895.txt",
-      "url": "bible.895.txt"
+      "name": "bible.Psa.58.txt",
+      "url": "bible.Psa.58.txt"
     },
     {
-      "name": "bible.896.txt",
-      "url": "bible.896.txt"
+      "name": "bible.Psa.59.txt",
+      "url": "bible.Psa.59.txt"
     },
     {
-      "name": "bible.897.txt",
-      "url": "bible.897.txt"
+      "name": "bible.Psa.6.txt",
+      "url": "bible.Psa.6.txt"
     },
     {
-      "name": "bible.898.txt",
-      "url": "bible.898.txt"
+      "name": "bible.Psa.60.txt",
+      "url": "bible.Psa.60.txt"
     },
     {
-      "name": "bible.899.txt",
-      "url": "bible.899.txt"
+      "name": "bible.Psa.61.txt",
+      "url": "bible.Psa.61.txt"
     },
     {
-      "name": "bible.9.txt",
-      "url": "bible.9.txt"
+      "name": "bible.Psa.62.txt",
+      "url": "bible.Psa.62.txt"
     },
     {
-      "name": "bible.90.txt",
-      "url": "bible.90.txt"
+      "name": "bible.Psa.63.txt",
+      "url": "bible.Psa.63.txt"
     },
     {
-      "name": "bible.900.txt",
-      "url": "bible.900.txt"
+      "name": "bible.Psa.64.txt",
+      "url": "bible.Psa.64.txt"
     },
     {
-      "name": "bible.901.txt",
-      "url": "bible.901.txt"
+      "name": "bible.Psa.65.txt",
+      "url": "bible.Psa.65.txt"
     },
     {
-      "name": "bible.902.txt",
-      "url": "bible.902.txt"
+      "name": "bible.Psa.66.txt",
+      "url": "bible.Psa.66.txt"
     },
     {
-      "name": "bible.903.txt",
-      "url": "bible.903.txt"
+      "name": "bible.Psa.67.txt",
+      "url": "bible.Psa.67.txt"
     },
     {
-      "name": "bible.904.txt",
-      "url": "bible.904.txt"
+      "name": "bible.Psa.68.txt",
+      "url": "bible.Psa.68.txt"
     },
     {
-      "name": "bible.905.txt",
-      "url": "bible.905.txt"
+      "name": "bible.Psa.69.txt",
+      "url": "bible.Psa.69.txt"
     },
     {
-      "name": "bible.906.txt",
-      "url": "bible.906.txt"
+      "name": "bible.Psa.7.txt",
+      "url": "bible.Psa.7.txt"
     },
     {
-      "name": "bible.907.txt",
-      "url": "bible.907.txt"
+      "name": "bible.Psa.70.txt",
+      "url": "bible.Psa.70.txt"
     },
     {
-      "name": "bible.908.txt",
-      "url": "bible.908.txt"
+      "name": "bible.Psa.71.txt",
+      "url": "bible.Psa.71.txt"
     },
     {
-      "name": "bible.909.txt",
-      "url": "bible.909.txt"
+      "name": "bible.Psa.72.txt",
+      "url": "bible.Psa.72.txt"
     },
     {
-      "name": "bible.91.txt",
-      "url": "bible.91.txt"
+      "name": "bible.Psa.73.txt",
+      "url": "bible.Psa.73.txt"
     },
     {
-      "name": "bible.910.txt",
-      "url": "bible.910.txt"
+      "name": "bible.Psa.74.txt",
+      "url": "bible.Psa.74.txt"
     },
     {
-      "name": "bible.911.txt",
-      "url": "bible.911.txt"
+      "name": "bible.Psa.75.txt",
+      "url": "bible.Psa.75.txt"
     },
     {
-      "name": "bible.912.txt",
-      "url": "bible.912.txt"
+      "name": "bible.Psa.76.txt",
+      "url": "bible.Psa.76.txt"
     },
     {
-      "name": "bible.913.txt",
-      "url": "bible.913.txt"
+      "name": "bible.Psa.77.txt",
+      "url": "bible.Psa.77.txt"
     },
     {
-      "name": "bible.914.txt",
-      "url": "bible.914.txt"
+      "name": "bible.Psa.78.txt",
+      "url": "bible.Psa.78.txt"
     },
     {
-      "name": "bible.915.txt",
-      "url": "bible.915.txt"
+      "name": "bible.Psa.79.txt",
+      "url": "bible.Psa.79.txt"
     },
     {
-      "name": "bible.916.txt",
-      "url": "bible.916.txt"
+      "name": "bible.Psa.8.txt",
+      "url": "bible.Psa.8.txt"
     },
     {
-      "name": "bible.917.txt",
-      "url": "bible.917.txt"
+      "name": "bible.Psa.80.txt",
+      "url": "bible.Psa.80.txt"
     },
     {
-      "name": "bible.918.txt",
-      "url": "bible.918.txt"
+      "name": "bible.Psa.81.txt",
+      "url": "bible.Psa.81.txt"
     },
     {
-      "name": "bible.919.txt",
-      "url": "bible.919.txt"
+      "name": "bible.Psa.82.txt",
+      "url": "bible.Psa.82.txt"
     },
     {
-      "name": "bible.92.txt",
-      "url": "bible.92.txt"
+      "name": "bible.Psa.83.txt",
+      "url": "bible.Psa.83.txt"
     },
     {
-      "name": "bible.920.txt",
-      "url": "bible.920.txt"
+      "name": "bible.Psa.84.txt",
+      "url": "bible.Psa.84.txt"
     },
     {
-      "name": "bible.921.txt",
-      "url": "bible.921.txt"
+      "name": "bible.Psa.85.txt",
+      "url": "bible.Psa.85.txt"
     },
     {
-      "name": "bible.922.txt",
-      "url": "bible.922.txt"
+      "name": "bible.Psa.86.txt",
+      "url": "bible.Psa.86.txt"
     },
     {
-      "name": "bible.923.txt",
-      "url": "bible.923.txt"
+      "name": "bible.Psa.87.txt",
+      "url": "bible.Psa.87.txt"
     },
     {
-      "name": "bible.924.txt",
-      "url": "bible.924.txt"
+      "name": "bible.Psa.88.txt",
+      "url": "bible.Psa.88.txt"
     },
     {
-      "name": "bible.925.txt",
-      "url": "bible.925.txt"
+      "name": "bible.Psa.89.txt",
+      "url": "bible.Psa.89.txt"
     },
     {
-      "name": "bible.926.txt",
-      "url": "bible.926.txt"
+      "name": "bible.Psa.9.txt",
+      "url": "bible.Psa.9.txt"
     },
     {
-      "name": "bible.927.txt",
-      "url": "bible.927.txt"
+      "name": "bible.Psa.90.txt",
+      "url": "bible.Psa.90.txt"
     },
     {
-      "name": "bible.928.txt",
-      "url": "bible.928.txt"
+      "name": "bible.Psa.91.txt",
+      "url": "bible.Psa.91.txt"
     },
     {
-      "name": "bible.929.txt",
-      "url": "bible.929.txt"
+      "name": "bible.Psa.92.txt",
+      "url": "bible.Psa.92.txt"
     },
     {
-      "name": "bible.93.txt",
-      "url": "bible.93.txt"
+      "name": "bible.Psa.93.txt",
+      "url": "bible.Psa.93.txt"
     },
     {
-      "name": "bible.930.txt",
-      "url": "bible.930.txt"
+      "name": "bible.Psa.94.txt",
+      "url": "bible.Psa.94.txt"
     },
     {
-      "name": "bible.931.txt",
-      "url": "bible.931.txt"
+      "name": "bible.Psa.95.txt",
+      "url": "bible.Psa.95.txt"
     },
     {
-      "name": "bible.932.txt",
-      "url": "bible.932.txt"
+      "name": "bible.Psa.96.txt",
+      "url": "bible.Psa.96.txt"
     },
     {
-      "name": "bible.933.txt",
-      "url": "bible.933.txt"
+      "name": "bible.Psa.97.txt",
+      "url": "bible.Psa.97.txt"
     },
     {
-      "name": "bible.934.txt",
-      "url": "bible.934.txt"
+      "name": "bible.Psa.98.txt",
+      "url": "bible.Psa.98.txt"
     },
     {
-      "name": "bible.935.txt",
-      "url": "bible.935.txt"
+      "name": "bible.Psa.99.txt",
+      "url": "bible.Psa.99.txt"
     },
     {
-      "name": "bible.936.txt",
-      "url": "bible.936.txt"
+      "name": "bible.Rev.1.txt",
+      "url": "bible.Rev.1.txt"
     },
     {
-      "name": "bible.937.txt",
-      "url": "bible.937.txt"
+      "name": "bible.Rev.10.txt",
+      "url": "bible.Rev.10.txt"
     },
     {
-      "name": "bible.938.txt",
-      "url": "bible.938.txt"
+      "name": "bible.Rev.11.txt",
+      "url": "bible.Rev.11.txt"
     },
     {
-      "name": "bible.939.txt",
-      "url": "bible.939.txt"
+      "name": "bible.Rev.12.txt",
+      "url": "bible.Rev.12.txt"
     },
     {
-      "name": "bible.94.txt",
-      "url": "bible.94.txt"
+      "name": "bible.Rev.13.txt",
+      "url": "bible.Rev.13.txt"
     },
     {
-      "name": "bible.940.txt",
-      "url": "bible.940.txt"
+      "name": "bible.Rev.14.txt",
+      "url": "bible.Rev.14.txt"
     },
     {
-      "name": "bible.941.txt",
-      "url": "bible.941.txt"
+      "name": "bible.Rev.15.txt",
+      "url": "bible.Rev.15.txt"
     },
     {
-      "name": "bible.942.txt",
-      "url": "bible.942.txt"
+      "name": "bible.Rev.16.txt",
+      "url": "bible.Rev.16.txt"
     },
     {
-      "name": "bible.943.txt",
-      "url": "bible.943.txt"
+      "name": "bible.Rev.17.txt",
+      "url": "bible.Rev.17.txt"
     },
     {
-      "name": "bible.944.txt",
-      "url": "bible.944.txt"
+      "name": "bible.Rev.18.txt",
+      "url": "bible.Rev.18.txt"
     },
     {
-      "name": "bible.945.txt",
-      "url": "bible.945.txt"
+      "name": "bible.Rev.19.txt",
+      "url": "bible.Rev.19.txt"
     },
     {
-      "name": "bible.946.txt",
-      "url": "bible.946.txt"
+      "name": "bible.Rev.2.txt",
+      "url": "bible.Rev.2.txt"
     },
     {
-      "name": "bible.947.txt",
-      "url": "bible.947.txt"
+      "name": "bible.Rev.20.txt",
+      "url": "bible.Rev.20.txt"
     },
     {
-      "name": "bible.948.txt",
-      "url": "bible.948.txt"
+      "name": "bible.Rev.21.txt",
+      "url": "bible.Rev.21.txt"
     },
     {
-      "name": "bible.949.txt",
-      "url": "bible.949.txt"
+      "name": "bible.Rev.22.txt",
+      "url": "bible.Rev.22.txt"
     },
     {
-      "name": "bible.95.txt",
-      "url": "bible.95.txt"
+      "name": "bible.Rev.3.txt",
+      "url": "bible.Rev.3.txt"
     },
     {
-      "name": "bible.950.txt",
-      "url": "bible.950.txt"
+      "name": "bible.Rev.4.txt",
+      "url": "bible.Rev.4.txt"
     },
     {
-      "name": "bible.951.txt",
-      "url": "bible.951.txt"
+      "name": "bible.Rev.5.txt",
+      "url": "bible.Rev.5.txt"
     },
     {
-      "name": "bible.952.txt",
-      "url": "bible.952.txt"
+      "name": "bible.Rev.6.txt",
+      "url": "bible.Rev.6.txt"
     },
     {
-      "name": "bible.953.txt",
-      "url": "bible.953.txt"
+      "name": "bible.Rev.7.txt",
+      "url": "bible.Rev.7.txt"
     },
     {
-      "name": "bible.954.txt",
-      "url": "bible.954.txt"
+      "name": "bible.Rev.8.txt",
+      "url": "bible.Rev.8.txt"
     },
     {
-      "name": "bible.955.txt",
-      "url": "bible.955.txt"
+      "name": "bible.Rev.9.txt",
+      "url": "bible.Rev.9.txt"
     },
     {
-      "name": "bible.956.txt",
-      "url": "bible.956.txt"
+      "name": "bible.Rom.1.txt",
+      "url": "bible.Rom.1.txt"
     },
     {
-      "name": "bible.957.txt",
-      "url": "bible.957.txt"
+      "name": "bible.Rom.10.txt",
+      "url": "bible.Rom.10.txt"
     },
     {
-      "name": "bible.958.txt",
-      "url": "bible.958.txt"
+      "name": "bible.Rom.11.txt",
+      "url": "bible.Rom.11.txt"
     },
     {
-      "name": "bible.959.txt",
-      "url": "bible.959.txt"
+      "name": "bible.Rom.12.txt",
+      "url": "bible.Rom.12.txt"
     },
     {
-      "name": "bible.96.txt",
-      "url": "bible.96.txt"
+      "name": "bible.Rom.13.txt",
+      "url": "bible.Rom.13.txt"
     },
     {
-      "name": "bible.960.txt",
-      "url": "bible.960.txt"
+      "name": "bible.Rom.14.txt",
+      "url": "bible.Rom.14.txt"
     },
     {
-      "name": "bible.961.txt",
-      "url": "bible.961.txt"
+      "name": "bible.Rom.15.txt",
+      "url": "bible.Rom.15.txt"
     },
     {
-      "name": "bible.962.txt",
-      "url": "bible.962.txt"
+      "name": "bible.Rom.16.txt",
+      "url": "bible.Rom.16.txt"
     },
     {
-      "name": "bible.963.txt",
-      "url": "bible.963.txt"
+      "name": "bible.Rom.2.txt",
+      "url": "bible.Rom.2.txt"
     },
     {
-      "name": "bible.964.txt",
-      "url": "bible.964.txt"
+      "name": "bible.Rom.3.txt",
+      "url": "bible.Rom.3.txt"
     },
     {
-      "name": "bible.965.txt",
-      "url": "bible.965.txt"
+      "name": "bible.Rom.4.txt",
+      "url": "bible.Rom.4.txt"
     },
     {
-      "name": "bible.966.txt",
-      "url": "bible.966.txt"
+      "name": "bible.Rom.5.txt",
+      "url": "bible.Rom.5.txt"
     },
     {
-      "name": "bible.967.txt",
-      "url": "bible.967.txt"
+      "name": "bible.Rom.6.txt",
+      "url": "bible.Rom.6.txt"
     },
     {
-      "name": "bible.968.txt",
-      "url": "bible.968.txt"
+      "name": "bible.Rom.7.txt",
+      "url": "bible.Rom.7.txt"
     },
     {
-      "name": "bible.969.txt",
-      "url": "bible.969.txt"
+      "name": "bible.Rom.8.txt",
+      "url": "bible.Rom.8.txt"
     },
     {
-      "name": "bible.97.txt",
-      "url": "bible.97.txt"
+      "name": "bible.Rom.9.txt",
+      "url": "bible.Rom.9.txt"
     },
     {
-      "name": "bible.970.txt",
-      "url": "bible.970.txt"
+      "name": "bible.Rut.1.txt",
+      "url": "bible.Rut.1.txt"
     },
     {
-      "name": "bible.971.txt",
-      "url": "bible.971.txt"
+      "name": "bible.Rut.2.txt",
+      "url": "bible.Rut.2.txt"
     },
     {
-      "name": "bible.972.txt",
-      "url": "bible.972.txt"
+      "name": "bible.Rut.3.txt",
+      "url": "bible.Rut.3.txt"
     },
     {
-      "name": "bible.973.txt",
-      "url": "bible.973.txt"
+      "name": "bible.Rut.4.txt",
+      "url": "bible.Rut.4.txt"
     },
     {
-      "name": "bible.974.txt",
-      "url": "bible.974.txt"
+      "name": "bible.Sos.1.txt",
+      "url": "bible.Sos.1.txt"
     },
     {
-      "name": "bible.975.txt",
-      "url": "bible.975.txt"
+      "name": "bible.Sos.2.txt",
+      "url": "bible.Sos.2.txt"
     },
     {
-      "name": "bible.976.txt",
-      "url": "bible.976.txt"
+      "name": "bible.Sos.3.txt",
+      "url": "bible.Sos.3.txt"
     },
     {
-      "name": "bible.977.txt",
-      "url": "bible.977.txt"
+      "name": "bible.Sos.4.txt",
+      "url": "bible.Sos.4.txt"
     },
     {
-      "name": "bible.978.txt",
-      "url": "bible.978.txt"
+      "name": "bible.Sos.5.txt",
+      "url": "bible.Sos.5.txt"
     },
     {
-      "name": "bible.979.txt",
-      "url": "bible.979.txt"
+      "name": "bible.Sos.6.txt",
+      "url": "bible.Sos.6.txt"
     },
     {
-      "name": "bible.98.txt",
-      "url": "bible.98.txt"
+      "name": "bible.Sos.7.txt",
+      "url": "bible.Sos.7.txt"
     },
     {
-      "name": "bible.980.txt",
-      "url": "bible.980.txt"
+      "name": "bible.Sos.8.txt",
+      "url": "bible.Sos.8.txt"
     },
     {
-      "name": "bible.981.txt",
-      "url": "bible.981.txt"
+      "name": "bible.Tit.1.txt",
+      "url": "bible.Tit.1.txt"
     },
     {
-      "name": "bible.982.txt",
-      "url": "bible.982.txt"
+      "name": "bible.Tit.2.txt",
+      "url": "bible.Tit.2.txt"
     },
     {
-      "name": "bible.983.txt",
-      "url": "bible.983.txt"
+      "name": "bible.Tit.3.txt",
+      "url": "bible.Tit.3.txt"
     },
     {
-      "name": "bible.984.txt",
-      "url": "bible.984.txt"
+      "name": "bible.Zec.1.txt",
+      "url": "bible.Zec.1.txt"
     },
     {
-      "name": "bible.985.txt",
-      "url": "bible.985.txt"
+      "name": "bible.Zec.10.txt",
+      "url": "bible.Zec.10.txt"
     },
     {
-      "name": "bible.986.txt",
-      "url": "bible.986.txt"
+      "name": "bible.Zec.11.txt",
+      "url": "bible.Zec.11.txt"
     },
     {
-      "name": "bible.987.txt",
-      "url": "bible.987.txt"
+      "name": "bible.Zec.12.txt",
+      "url": "bible.Zec.12.txt"
     },
     {
-      "name": "bible.988.txt",
-      "url": "bible.988.txt"
+      "name": "bible.Zec.13.txt",
+      "url": "bible.Zec.13.txt"
     },
     {
-      "name": "bible.989.txt",
-      "url": "bible.989.txt"
+      "name": "bible.Zec.14.txt",
+      "url": "bible.Zec.14.txt"
     },
     {
-      "name": "bible.99.txt",
-      "url": "bible.99.txt"
+      "name": "bible.Zec.2.txt",
+      "url": "bible.Zec.2.txt"
     },
     {
-      "name": "bible.990.txt",
-      "url": "bible.990.txt"
+      "name": "bible.Zec.3.txt",
+      "url": "bible.Zec.3.txt"
     },
     {
-      "name": "bible.991.txt",
-      "url": "bible.991.txt"
+      "name": "bible.Zec.4.txt",
+      "url": "bible.Zec.4.txt"
     },
     {
-      "name": "bible.992.txt",
-      "url": "bible.992.txt"
+      "name": "bible.Zec.5.txt",
+      "url": "bible.Zec.5.txt"
     },
     {
-      "name": "bible.993.txt",
-      "url": "bible.993.txt"
+      "name": "bible.Zec.6.txt",
+      "url": "bible.Zec.6.txt"
     },
     {
-      "name": "bible.994.txt",
-      "url": "bible.994.txt"
+      "name": "bible.Zec.7.txt",
+      "url": "bible.Zec.7.txt"
     },
     {
-      "name": "bible.995.txt",
-      "url": "bible.995.txt"
+      "name": "bible.Zec.8.txt",
+      "url": "bible.Zec.8.txt"
     },
     {
-      "name": "bible.996.txt",
-      "url": "bible.996.txt"
+      "name": "bible.Zec.9.txt",
+      "url": "bible.Zec.9.txt"
     },
     {
-      "name": "bible.997.txt",
-      "url": "bible.997.txt"
+      "name": "bible.Zep.1.txt",
+      "url": "bible.Zep.1.txt"
     },
     {
-      "name": "bible.998.txt",
-      "url": "bible.998.txt"
+      "name": "bible.Zep.2.txt",
+      "url": "bible.Zep.2.txt"
     },
     {
-      "name": "bible.999.txt",
-      "url": "bible.999.txt"
+      "name": "bible.Zep.3.txt",
+      "url": "bible.Zep.3.txt"
     }
   ]
 }
