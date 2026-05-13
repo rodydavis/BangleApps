@@ -82,8 +82,8 @@ function updatePhysics() {
   // Bangle.js 2 accelerometer mapping
   // Accelerometer values are usually between -1 and +1
   // We multiply to get a responsive acceleration
-  ball.vx += acc.x * 2.5;
-  ball.vy += acc.y * 2.5;
+  ball.vx -= acc.x * 2.5;
+  ball.vy -= acc.y * 2.5;
   
   // Apply friction
   ball.vx *= 0.85;
