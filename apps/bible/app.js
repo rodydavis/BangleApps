@@ -1,22 +1,11 @@
 var Storage = require("Storage");
 var index = Storage.readJSON("bible.idx.json");
-var dictionary = Storage.readJSON("bible.dict.json");
 
 var state = {
   book: 0,
   chapter: 0,
   scroll: 0
 };
-
-function decode(text) {
-  var res = "";
-  for (var i=0; i<text.length; i++) {
-    var c = text.charCodeAt(i);
-    if (c>=128) res += dictionary[c-128];
-    else res += text[i];
-  }
-  return res;
-}
 
 function showReader(bookIdx, chapterIdx, verseIdx) {
   state.book = bookIdx;
@@ -25,19 +14,21 @@ function showReader(bookIdx, chapterIdx, verseIdx) {
   
   var book = index[bookIdx];
   var ch = book.chapters[chapterIdx];
-  var rawText = Storage.read(book.file, ch.off, ch.len);
-  var text = decode(rawText);
-  var lines = g.wrapString(text, g.getWidth() - 10);
+  var text = Storage.read(ch.file);
   
-  if (verseIdx > 0) {
-    var search = (chapterIdx + 1) + ":" + (verseIdx + 1);
-    for (var i=0; i<lines.length; i++) {
-      if (lines[i].startsWith(search)) {
-        state.scroll = i * 20;
-        break;
-      }
-    }
+  // Speed optimization: wrap verse by verse instead of one giant string
+  var verses = text.split("\n");
+  var lines = [];
+  var targetY = 0;
+  
+  for (var i=0; i<verses.length; i++) {
+    if (verses[i].trim().length == 0) continue;
+    var vLines = g.wrapString(verses[i], g.getWidth() - 10);
+    if (i === verseIdx) targetY = lines.length * 20;
+    for (var j=0; j<vLines.length; j++) lines.push(vLines[j]);
   }
+  
+  state.scroll = targetY;
 
   function draw() {
     g.clear(1);
