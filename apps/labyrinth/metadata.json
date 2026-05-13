@@ -2,15 +2,24 @@
   "id": "labyrinth",
   "name": "Labyrinth",
   "shortName": "Labyrinth",
-  "version": "0.01",
+  "version": "0.02",
   "author": "Antigravity",
   "description": "A marble run game controlled by the accelerometer.",
   "icon": "app.png",
   "tags": "game,accel",
-  "supports": ["BANGLEJS2"],
+  "supports": [
+    "BANGLEJS2"
+  ],
   "readme": "README.md",
   "storage": [
-    {"name": "labyrinth.app.js", "url": "app.js"},
-    {"name": "labyrinth.img", "url": "app-icon.js", "evaluate": true}
+    {
+      "name": "labyrinth.app.js",
+      "url": "app.js"
+    },
+    {
+      "name": "labyrinth.img",
+      "url": "app-icon.js",
+      "evaluate": true
+    }
   ]
 }
