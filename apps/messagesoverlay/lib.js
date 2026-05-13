@@ -5,19 +5,19 @@ let clearingTimeout;
 // Converts a espruino version to a semantiv versioning object
 const toSemantic = function (v){
   return {
-    major: v.substring(0,v.indexOf("v")),
-    minor: v.substring(v.indexOf("v") + 1, v.includes(".") ? v.indexOf(".") : v.length),
-    patch: v.includes(".") ? v.substring(v.indexOf(".") + 1, v.length) : 0
+    major: parseInt(v.substring(0,v.indexOf("v"))),
+    minor: parseInt(v.substring(v.indexOf("v") + 1, v.includes(".") ? v.indexOf(".") : v.length)),
+    patch: v.includes(".") ? parseInt(v.substring(v.indexOf(".") + 1, v.length)) : 0
   };
 };
 
-const isNewer = function(espruinoVersion, baseVersion){
-  const s = toSemantic(espruinoVersion);
-  const b = toSemantic(baseVersion);
+const isNewer = function(v1, v2){
+  const s = toSemantic(v1);
+  const b = toSemantic(v2);
 
-  return s.major >= b.major &&
-    s.minor >= b.major &&
-    s.patch > b.patch;
+  if (s.major != b.major) return s.major > b.major;
+  if (s.minor != b.minor) return s.minor > b.minor;
+  return s.patch > b.patch;
 };
 
 let needsWorkaround;
@@ -180,8 +180,11 @@ const drawScreen = function(title, src, iconcolor, icon){
 
 const drawSource = function(src, center, w, y, align) {
   ovr.setFont(settings.fontSmall);
-  while (ovr.stringWidth(src) > w) src = src.substring(0,src.length-2);
-  if (src.length != src.length) src += "...";
+  if (ovr.stringWidth(src) > w) {
+    while (src.length > 0 && ovr.stringWidth(src + "...") > w)
+      src = src.substring(0, src.length - 1);
+    src += "...";
+  }
   ovr.setFontAlign(0,align);
   ovr.drawString(src, center, y);
 };
@@ -521,7 +524,7 @@ const origRemoveAll = Bangle.removeAllListeners;
 const backupRemoveAll = function(event){
   if (backup[event])
     backup[event] = undefined;
-  origRemoveAll.call(Bangle);
+  origRemoveAll.call(Bangle, event);
 };
 
 const restoreHandlers = function(){
