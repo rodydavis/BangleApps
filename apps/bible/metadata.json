@@ -9,6 +9,7 @@
   "supports": [
     "BANGLEJS2"
   ],
+  "readme": "README.md",
   "storage": [
     {
       "name": "bible.app.js",
