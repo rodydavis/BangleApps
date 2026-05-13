@@ -1,4 +1,0 @@
-0.01: Initial version with book/chapter/verse picker and dictionary compression.
-0.02: Optimized for speed by removing dictionary and using raw text with lazy wrapping.
-0.03: Split text into 1,189 chapter-level files for optimal loading.
-0.04: Renamed chapter files to descriptive names (e.g., bible.Gen.1.txt).
