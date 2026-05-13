@@ -62,7 +62,7 @@ function showReader(bookIdx, chapterIdx, verseIdx) {
     mode: "updown",
     back: () => {
       Bangle.removeAllListeners();
-      showChapterPicker(bookIdx);
+      showVersePicker(bookIdx, chapterIdx);
     }
   });
   
@@ -94,7 +94,7 @@ function showVersePicker(bookIdx, chapterIdx) {
   var book = index[bookIdx];
   var ch = book.chapters[chapterIdx];
   var menu = {
-    "": { title: "Verse" },
+    "": { title: "Verse", back: () => showChapterPicker(bookIdx) },
     "< Back": () => showChapterPicker(bookIdx)
   };
   for (var i=0; i<ch.verses; i++) {
@@ -108,7 +108,7 @@ function showVersePicker(bookIdx, chapterIdx) {
 function showChapterPicker(bookIdx) {
   var book = index[bookIdx];
   var menu = {
-    "": { title: book.name },
+    "": { title: book.name, back: () => showBookPicker() },
     "< Back": () => showBookPicker()
   };
   for (var i=0; i<book.chapters.length; i++) {
@@ -120,7 +120,7 @@ function showChapterPicker(bookIdx) {
 }
 
 function showBookPicker() {
-  var menu = { "": { title: "Bible" } };
+  var menu = { "": { title: "Bible", back: () => load() } };
   index.forEach((book, i) => {
     (function(idx) {
       menu[book.name] = () => showChapterPicker(idx);
